@@ -1,0 +1,14 @@
+'''This file lists the dependencies for the Salary Prediction App.
+'''text
+
+fastapi
+uvicorn
+pandas
+scikit-learn
+joblib
+requests
+matplotlib
+supabase
+python-dotenv
+streamlit
+google-genai

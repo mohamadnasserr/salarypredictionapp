@@ -1,0 +1,11 @@
+Salary Prediction Overview
+
+The generated salary predictions show meaningful variation across experience level, job title, company size, employee residence, remote ratio, and company location. Higher experience levels and stronger job roles generally appear associated with higher predicted salaries. Geographic factors and remote work arrangements also seem to influence the salary outcomes.
+
+Key Insights:
+- Senior roles tend to receive higher salary predictions than entry or mid-level roles.
+- Job title is one of the strongest drivers of salary differences.
+- Employee residence and company location may significantly affect pay levels.
+
+Warning:
+These values are machine learning predictions and should be treated as estimates, not guaranteed real salaries.
