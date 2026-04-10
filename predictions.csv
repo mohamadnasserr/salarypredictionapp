@@ -1,257 +1,2881 @@
 experience_level,employment_type,job_title,company_size,employee_residence,remote_ratio,company_location,predicted_salary
-SE,FT,Data Scientist,M,US,0,US,141875.0
-SE,FT,Data Scientist,M,US,0,DE,141875.0
-SE,FT,Data Scientist,M,US,100,US,167001.61290322582
-SE,FT,Data Scientist,M,US,100,DE,167001.61290322582
-SE,FT,Data Scientist,M,DE,0,US,116032.22222222222
-SE,FT,Data Scientist,M,DE,0,DE,116032.22222222222
-SE,FT,Data Scientist,M,DE,100,US,132087.2
-SE,FT,Data Scientist,M,DE,100,DE,132087.2
-SE,FT,Data Scientist,L,US,0,US,157050.0
-SE,FT,Data Scientist,L,US,0,DE,157050.0
-SE,FT,Data Scientist,L,US,100,US,167001.61290322582
-SE,FT,Data Scientist,L,US,100,DE,167001.61290322582
-SE,FT,Data Scientist,L,DE,0,US,66217.125
-SE,FT,Data Scientist,L,DE,0,DE,66217.125
-SE,FT,Data Scientist,L,DE,100,US,74793.4
-SE,FT,Data Scientist,L,DE,100,DE,74793.4
-SE,FT,Data Engineer,M,US,0,US,118401.15384615384
-SE,FT,Data Engineer,M,US,0,DE,118401.15384615384
-SE,FT,Data Engineer,M,US,100,US,142502.34375
-SE,FT,Data Engineer,M,US,100,DE,142502.34375
-SE,FT,Data Engineer,M,DE,0,US,116032.22222222222
-SE,FT,Data Engineer,M,DE,0,DE,116032.22222222222
-SE,FT,Data Engineer,M,DE,100,US,132087.2
-SE,FT,Data Engineer,M,DE,100,DE,132087.2
-SE,FT,Data Engineer,L,US,0,US,118401.15384615384
-SE,FT,Data Engineer,L,US,0,DE,118401.15384615384
-SE,FT,Data Engineer,L,US,100,US,169366.66666666666
-SE,FT,Data Engineer,L,US,100,DE,169366.66666666666
-SE,FT,Data Engineer,L,DE,0,US,66217.125
-SE,FT,Data Engineer,L,DE,0,DE,66217.125
-SE,FT,Data Engineer,L,DE,100,US,74793.4
-SE,FT,Data Engineer,L,DE,100,DE,74793.4
-SE,FT,Data Analyst,M,US,0,US,117075.0
-SE,FT,Data Analyst,M,US,0,DE,117075.0
-SE,FT,Data Analyst,M,US,100,US,117066.42857142857
-SE,FT,Data Analyst,M,US,100,DE,117066.42857142857
-SE,FT,Data Analyst,M,DE,0,US,116032.22222222222
-SE,FT,Data Analyst,M,DE,0,DE,116032.22222222222
-SE,FT,Data Analyst,M,DE,100,US,132087.2
-SE,FT,Data Analyst,M,DE,100,DE,132087.2
-SE,FT,Data Analyst,L,US,0,US,117075.0
-SE,FT,Data Analyst,L,US,0,DE,117075.0
-SE,FT,Data Analyst,L,US,100,US,117066.42857142857
-SE,FT,Data Analyst,L,US,100,DE,117066.42857142857
-SE,FT,Data Analyst,L,DE,0,US,66217.125
-SE,FT,Data Analyst,L,DE,0,DE,66217.125
-SE,FT,Data Analyst,L,DE,100,US,74793.4
-SE,FT,Data Analyst,L,DE,100,DE,74793.4
-SE,FT,Machine Learning Engineer,M,US,0,US,181986.5
-SE,FT,Machine Learning Engineer,M,US,0,DE,181986.5
-SE,FT,Machine Learning Engineer,M,US,100,US,181986.5
-SE,FT,Machine Learning Engineer,M,US,100,DE,181986.5
-SE,FT,Machine Learning Engineer,M,DE,0,US,116032.22222222222
-SE,FT,Machine Learning Engineer,M,DE,0,DE,116032.22222222222
-SE,FT,Machine Learning Engineer,M,DE,100,US,132087.2
-SE,FT,Machine Learning Engineer,M,DE,100,DE,132087.2
-SE,FT,Machine Learning Engineer,L,US,0,US,195000.0
-SE,FT,Machine Learning Engineer,L,US,0,DE,195000.0
-SE,FT,Machine Learning Engineer,L,US,100,US,211500.0
-SE,FT,Machine Learning Engineer,L,US,100,DE,211500.0
-SE,FT,Machine Learning Engineer,L,DE,0,US,66217.125
-SE,FT,Machine Learning Engineer,L,DE,0,DE,66217.125
-SE,FT,Machine Learning Engineer,L,DE,100,US,74793.4
-SE,FT,Machine Learning Engineer,L,DE,100,DE,74793.4
-SE,FT,Research Scientist,M,US,0,US,157834.07692307694
-SE,FT,Research Scientist,M,US,0,DE,157834.07692307694
-SE,FT,Research Scientist,M,US,100,US,157834.07692307694
-SE,FT,Research Scientist,M,US,100,DE,157834.07692307694
-SE,FT,Research Scientist,M,DE,0,US,116032.22222222222
-SE,FT,Research Scientist,M,DE,0,DE,116032.22222222222
-SE,FT,Research Scientist,M,DE,100,US,132087.2
-SE,FT,Research Scientist,M,DE,100,DE,132087.2
-SE,FT,Research Scientist,L,US,0,US,195000.0
-SE,FT,Research Scientist,L,US,0,DE,195000.0
-SE,FT,Research Scientist,L,US,100,US,211500.0
-SE,FT,Research Scientist,L,US,100,DE,211500.0
-SE,FT,Research Scientist,L,DE,0,US,66217.125
-SE,FT,Research Scientist,L,DE,0,DE,66217.125
-SE,FT,Research Scientist,L,DE,100,US,74793.4
-SE,FT,Research Scientist,L,DE,100,DE,74793.4
-SE,FT,Data Science Manager,M,US,0,US,157834.07692307694
-SE,FT,Data Science Manager,M,US,0,DE,157834.07692307694
-SE,FT,Data Science Manager,M,US,100,US,157834.07692307694
-SE,FT,Data Science Manager,M,US,100,DE,157834.07692307694
-SE,FT,Data Science Manager,M,DE,0,US,116032.22222222222
-SE,FT,Data Science Manager,M,DE,0,DE,116032.22222222222
-SE,FT,Data Science Manager,M,DE,100,US,132087.2
-SE,FT,Data Science Manager,M,DE,100,DE,132087.2
-SE,FT,Data Science Manager,L,US,0,US,195000.0
-SE,FT,Data Science Manager,L,US,0,DE,195000.0
-SE,FT,Data Science Manager,L,US,100,US,211500.0
-SE,FT,Data Science Manager,L,US,100,DE,211500.0
-SE,FT,Data Science Manager,L,DE,0,US,66217.125
-SE,FT,Data Science Manager,L,DE,0,DE,66217.125
-SE,FT,Data Science Manager,L,DE,100,US,74793.4
-SE,FT,Data Science Manager,L,DE,100,DE,74793.4
-SE,FT,Data Architect,M,US,0,US,181422.6
-SE,FT,Data Architect,M,US,0,DE,181422.6
-SE,FT,Data Architect,M,US,100,US,181422.6
-SE,FT,Data Architect,M,US,100,DE,181422.6
-SE,FT,Data Architect,M,DE,0,US,116032.22222222222
-SE,FT,Data Architect,M,DE,0,DE,116032.22222222222
-SE,FT,Data Architect,M,DE,100,US,132087.2
-SE,FT,Data Architect,M,DE,100,DE,132087.2
-SE,FT,Data Architect,L,US,0,US,195000.0
-SE,FT,Data Architect,L,US,0,DE,195000.0
-SE,FT,Data Architect,L,US,100,US,211500.0
-SE,FT,Data Architect,L,US,100,DE,211500.0
-SE,FT,Data Architect,L,DE,0,US,66217.125
-SE,FT,Data Architect,L,DE,0,DE,66217.125
-SE,FT,Data Architect,L,DE,100,US,74793.4
-SE,FT,Data Architect,L,DE,100,DE,74793.4
-SE,FT,Machine Learning Scientist,M,US,0,US,157834.07692307694
-SE,FT,Machine Learning Scientist,M,US,0,DE,157834.07692307694
-SE,FT,Machine Learning Scientist,M,US,100,US,157834.07692307694
-SE,FT,Machine Learning Scientist,M,US,100,DE,157834.07692307694
-SE,FT,Machine Learning Scientist,M,DE,0,US,116032.22222222222
-SE,FT,Machine Learning Scientist,M,DE,0,DE,116032.22222222222
-SE,FT,Machine Learning Scientist,M,DE,100,US,132087.2
-SE,FT,Machine Learning Scientist,M,DE,100,DE,132087.2
-SE,FT,Machine Learning Scientist,L,US,0,US,195000.0
-SE,FT,Machine Learning Scientist,L,US,0,DE,195000.0
-SE,FT,Machine Learning Scientist,L,US,100,US,211500.0
-SE,FT,Machine Learning Scientist,L,US,100,DE,211500.0
-SE,FT,Machine Learning Scientist,L,DE,0,US,66217.125
-SE,FT,Machine Learning Scientist,L,DE,0,DE,66217.125
-SE,FT,Machine Learning Scientist,L,DE,100,US,74793.4
-SE,FT,Machine Learning Scientist,L,DE,100,DE,74793.4
+EN,FT,Data Scientist,S,US,0,US,95000.0
+EN,FT,Data Scientist,S,US,0,DE,95000.0
+EN,FT,Data Scientist,S,US,50,US,95000.0
+EN,FT,Data Scientist,S,US,50,DE,95000.0
+EN,FT,Data Scientist,S,US,100,US,95000.0
+EN,FT,Data Scientist,S,US,100,DE,95000.0
+EN,FT,Data Scientist,S,DE,0,US,69045.77777777778
+EN,FT,Data Scientist,S,DE,0,DE,69045.77777777778
+EN,FT,Data Scientist,S,DE,50,US,69045.77777777778
+EN,FT,Data Scientist,S,DE,50,DE,69045.77777777778
+EN,FT,Data Scientist,S,DE,100,US,69045.77777777778
+EN,FT,Data Scientist,S,DE,100,DE,69045.77777777778
+EN,FT,Data Scientist,M,US,0,US,95000.0
+EN,FT,Data Scientist,M,US,0,DE,95000.0
+EN,FT,Data Scientist,M,US,50,US,95000.0
+EN,FT,Data Scientist,M,US,50,DE,95000.0
+EN,FT,Data Scientist,M,US,100,US,95000.0
+EN,FT,Data Scientist,M,US,100,DE,95000.0
+EN,FT,Data Scientist,M,DE,0,US,60964.333333333336
+EN,FT,Data Scientist,M,DE,0,DE,60964.333333333336
+EN,FT,Data Scientist,M,DE,50,US,49423.5
+EN,FT,Data Scientist,M,DE,50,DE,49423.5
+EN,FT,Data Scientist,M,DE,100,US,49423.5
+EN,FT,Data Scientist,M,DE,100,DE,49423.5
+EN,FT,Data Scientist,L,US,0,US,119500.0
+EN,FT,Data Scientist,L,US,0,DE,119500.0
+EN,FT,Data Scientist,L,US,50,US,119500.0
+EN,FT,Data Scientist,L,US,50,DE,119500.0
+EN,FT,Data Scientist,L,US,100,US,119500.0
+EN,FT,Data Scientist,L,US,100,DE,119500.0
+EN,FT,Data Scientist,L,DE,0,US,60964.333333333336
+EN,FT,Data Scientist,L,DE,0,DE,60964.333333333336
+EN,FT,Data Scientist,L,DE,50,US,39729.555555555555
+EN,FT,Data Scientist,L,DE,50,DE,39729.555555555555
+EN,FT,Data Scientist,L,DE,100,US,39729.555555555555
+EN,FT,Data Scientist,L,DE,100,DE,39729.555555555555
+EN,FT,Data Engineer,S,US,0,US,87285.71428571429
+EN,FT,Data Engineer,S,US,0,DE,87285.71428571429
+EN,FT,Data Engineer,S,US,50,US,87285.71428571429
+EN,FT,Data Engineer,S,US,50,DE,87285.71428571429
+EN,FT,Data Engineer,S,US,100,US,87285.71428571429
+EN,FT,Data Engineer,S,US,100,DE,87285.71428571429
+EN,FT,Data Engineer,S,DE,0,US,69045.77777777778
+EN,FT,Data Engineer,S,DE,0,DE,69045.77777777778
+EN,FT,Data Engineer,S,DE,50,US,69045.77777777778
+EN,FT,Data Engineer,S,DE,50,DE,69045.77777777778
+EN,FT,Data Engineer,S,DE,100,US,69045.77777777778
+EN,FT,Data Engineer,S,DE,100,DE,69045.77777777778
+EN,FT,Data Engineer,M,US,0,US,87285.71428571429
+EN,FT,Data Engineer,M,US,0,DE,87285.71428571429
+EN,FT,Data Engineer,M,US,50,US,87285.71428571429
+EN,FT,Data Engineer,M,US,50,DE,87285.71428571429
+EN,FT,Data Engineer,M,US,100,US,87285.71428571429
+EN,FT,Data Engineer,M,US,100,DE,87285.71428571429
+EN,FT,Data Engineer,M,DE,0,US,60964.333333333336
+EN,FT,Data Engineer,M,DE,0,DE,60964.333333333336
+EN,FT,Data Engineer,M,DE,50,US,49423.5
+EN,FT,Data Engineer,M,DE,50,DE,49423.5
+EN,FT,Data Engineer,M,DE,100,US,49423.5
+EN,FT,Data Engineer,M,DE,100,DE,49423.5
+EN,FT,Data Engineer,L,US,0,US,119500.0
+EN,FT,Data Engineer,L,US,0,DE,119500.0
+EN,FT,Data Engineer,L,US,50,US,119500.0
+EN,FT,Data Engineer,L,US,50,DE,119500.0
+EN,FT,Data Engineer,L,US,100,US,119500.0
+EN,FT,Data Engineer,L,US,100,DE,119500.0
+EN,FT,Data Engineer,L,DE,0,US,60964.333333333336
+EN,FT,Data Engineer,L,DE,0,DE,60964.333333333336
+EN,FT,Data Engineer,L,DE,50,US,39729.555555555555
+EN,FT,Data Engineer,L,DE,50,DE,39729.555555555555
+EN,FT,Data Engineer,L,DE,100,US,39729.555555555555
+EN,FT,Data Engineer,L,DE,100,DE,39729.555555555555
+EN,FT,Data Analyst,S,US,0,US,79000.0
+EN,FT,Data Analyst,S,US,0,DE,79000.0
+EN,FT,Data Analyst,S,US,50,US,79000.0
+EN,FT,Data Analyst,S,US,50,DE,79000.0
+EN,FT,Data Analyst,S,US,100,US,79000.0
+EN,FT,Data Analyst,S,US,100,DE,79000.0
+EN,FT,Data Analyst,S,DE,0,US,69045.77777777778
+EN,FT,Data Analyst,S,DE,0,DE,69045.77777777778
+EN,FT,Data Analyst,S,DE,50,US,69045.77777777778
+EN,FT,Data Analyst,S,DE,50,DE,69045.77777777778
+EN,FT,Data Analyst,S,DE,100,US,69045.77777777778
+EN,FT,Data Analyst,S,DE,100,DE,69045.77777777778
+EN,FT,Data Analyst,M,US,0,US,107180.0
+EN,FT,Data Analyst,M,US,0,DE,107180.0
+EN,FT,Data Analyst,M,US,50,US,107180.0
+EN,FT,Data Analyst,M,US,50,DE,107180.0
+EN,FT,Data Analyst,M,US,100,US,107180.0
+EN,FT,Data Analyst,M,US,100,DE,107180.0
+EN,FT,Data Analyst,M,DE,0,US,60964.333333333336
+EN,FT,Data Analyst,M,DE,0,DE,60964.333333333336
+EN,FT,Data Analyst,M,DE,50,US,49423.5
+EN,FT,Data Analyst,M,DE,50,DE,49423.5
+EN,FT,Data Analyst,M,DE,100,US,49423.5
+EN,FT,Data Analyst,M,DE,100,DE,49423.5
+EN,FT,Data Analyst,L,US,0,US,79000.0
+EN,FT,Data Analyst,L,US,0,DE,79000.0
+EN,FT,Data Analyst,L,US,50,US,79000.0
+EN,FT,Data Analyst,L,US,50,DE,79000.0
+EN,FT,Data Analyst,L,US,100,US,79000.0
+EN,FT,Data Analyst,L,US,100,DE,79000.0
+EN,FT,Data Analyst,L,DE,0,US,60964.333333333336
+EN,FT,Data Analyst,L,DE,0,DE,60964.333333333336
+EN,FT,Data Analyst,L,DE,50,US,39729.555555555555
+EN,FT,Data Analyst,L,DE,50,DE,39729.555555555555
+EN,FT,Data Analyst,L,DE,100,US,39729.555555555555
+EN,FT,Data Analyst,L,DE,100,DE,39729.555555555555
+EN,FT,Machine Learning Engineer,S,US,0,US,87285.71428571429
+EN,FT,Machine Learning Engineer,S,US,0,DE,87285.71428571429
+EN,FT,Machine Learning Engineer,S,US,50,US,87285.71428571429
+EN,FT,Machine Learning Engineer,S,US,50,DE,87285.71428571429
+EN,FT,Machine Learning Engineer,S,US,100,US,87285.71428571429
+EN,FT,Machine Learning Engineer,S,US,100,DE,87285.71428571429
+EN,FT,Machine Learning Engineer,S,DE,0,US,69045.77777777778
+EN,FT,Machine Learning Engineer,S,DE,0,DE,69045.77777777778
+EN,FT,Machine Learning Engineer,S,DE,50,US,69045.77777777778
+EN,FT,Machine Learning Engineer,S,DE,50,DE,69045.77777777778
+EN,FT,Machine Learning Engineer,S,DE,100,US,69045.77777777778
+EN,FT,Machine Learning Engineer,S,DE,100,DE,69045.77777777778
+EN,FT,Machine Learning Engineer,M,US,0,US,87285.71428571429
+EN,FT,Machine Learning Engineer,M,US,0,DE,87285.71428571429
+EN,FT,Machine Learning Engineer,M,US,50,US,87285.71428571429
+EN,FT,Machine Learning Engineer,M,US,50,DE,87285.71428571429
+EN,FT,Machine Learning Engineer,M,US,100,US,87285.71428571429
+EN,FT,Machine Learning Engineer,M,US,100,DE,87285.71428571429
+EN,FT,Machine Learning Engineer,M,DE,0,US,60964.333333333336
+EN,FT,Machine Learning Engineer,M,DE,0,DE,60964.333333333336
+EN,FT,Machine Learning Engineer,M,DE,50,US,49423.5
+EN,FT,Machine Learning Engineer,M,DE,50,DE,49423.5
+EN,FT,Machine Learning Engineer,M,DE,100,US,49423.5
+EN,FT,Machine Learning Engineer,M,DE,100,DE,49423.5
+EN,FT,Machine Learning Engineer,L,US,0,US,119500.0
+EN,FT,Machine Learning Engineer,L,US,0,DE,119500.0
+EN,FT,Machine Learning Engineer,L,US,50,US,119500.0
+EN,FT,Machine Learning Engineer,L,US,50,DE,119500.0
+EN,FT,Machine Learning Engineer,L,US,100,US,119500.0
+EN,FT,Machine Learning Engineer,L,US,100,DE,119500.0
+EN,FT,Machine Learning Engineer,L,DE,0,US,60964.333333333336
+EN,FT,Machine Learning Engineer,L,DE,0,DE,60964.333333333336
+EN,FT,Machine Learning Engineer,L,DE,50,US,39729.555555555555
+EN,FT,Machine Learning Engineer,L,DE,50,DE,39729.555555555555
+EN,FT,Machine Learning Engineer,L,DE,100,US,39729.555555555555
+EN,FT,Machine Learning Engineer,L,DE,100,DE,39729.555555555555
+EN,FT,Research Scientist,S,US,0,US,87285.71428571429
+EN,FT,Research Scientist,S,US,0,DE,87285.71428571429
+EN,FT,Research Scientist,S,US,50,US,87285.71428571429
+EN,FT,Research Scientist,S,US,50,DE,87285.71428571429
+EN,FT,Research Scientist,S,US,100,US,87285.71428571429
+EN,FT,Research Scientist,S,US,100,DE,87285.71428571429
+EN,FT,Research Scientist,S,DE,0,US,69045.77777777778
+EN,FT,Research Scientist,S,DE,0,DE,69045.77777777778
+EN,FT,Research Scientist,S,DE,50,US,69045.77777777778
+EN,FT,Research Scientist,S,DE,50,DE,69045.77777777778
+EN,FT,Research Scientist,S,DE,100,US,69045.77777777778
+EN,FT,Research Scientist,S,DE,100,DE,69045.77777777778
+EN,FT,Research Scientist,M,US,0,US,87285.71428571429
+EN,FT,Research Scientist,M,US,0,DE,87285.71428571429
+EN,FT,Research Scientist,M,US,50,US,87285.71428571429
+EN,FT,Research Scientist,M,US,50,DE,87285.71428571429
+EN,FT,Research Scientist,M,US,100,US,87285.71428571429
+EN,FT,Research Scientist,M,US,100,DE,87285.71428571429
+EN,FT,Research Scientist,M,DE,0,US,60964.333333333336
+EN,FT,Research Scientist,M,DE,0,DE,60964.333333333336
+EN,FT,Research Scientist,M,DE,50,US,49423.5
+EN,FT,Research Scientist,M,DE,50,DE,49423.5
+EN,FT,Research Scientist,M,DE,100,US,49423.5
+EN,FT,Research Scientist,M,DE,100,DE,49423.5
+EN,FT,Research Scientist,L,US,0,US,119500.0
+EN,FT,Research Scientist,L,US,0,DE,119500.0
+EN,FT,Research Scientist,L,US,50,US,119500.0
+EN,FT,Research Scientist,L,US,50,DE,119500.0
+EN,FT,Research Scientist,L,US,100,US,119500.0
+EN,FT,Research Scientist,L,US,100,DE,119500.0
+EN,FT,Research Scientist,L,DE,0,US,60964.333333333336
+EN,FT,Research Scientist,L,DE,0,DE,60964.333333333336
+EN,FT,Research Scientist,L,DE,50,US,39729.555555555555
+EN,FT,Research Scientist,L,DE,50,DE,39729.555555555555
+EN,FT,Research Scientist,L,DE,100,US,39729.555555555555
+EN,FT,Research Scientist,L,DE,100,DE,39729.555555555555
+EN,PT,Data Scientist,S,US,0,US,95000.0
+EN,PT,Data Scientist,S,US,0,DE,95000.0
+EN,PT,Data Scientist,S,US,50,US,95000.0
+EN,PT,Data Scientist,S,US,50,DE,95000.0
+EN,PT,Data Scientist,S,US,100,US,95000.0
+EN,PT,Data Scientist,S,US,100,DE,95000.0
+EN,PT,Data Scientist,S,DE,0,US,29059.125
+EN,PT,Data Scientist,S,DE,0,DE,29059.125
+EN,PT,Data Scientist,S,DE,50,US,29059.125
+EN,PT,Data Scientist,S,DE,50,DE,29059.125
+EN,PT,Data Scientist,S,DE,100,US,29059.125
+EN,PT,Data Scientist,S,DE,100,DE,29059.125
+EN,PT,Data Scientist,M,US,0,US,95000.0
+EN,PT,Data Scientist,M,US,0,DE,95000.0
+EN,PT,Data Scientist,M,US,50,US,95000.0
+EN,PT,Data Scientist,M,US,50,DE,95000.0
+EN,PT,Data Scientist,M,US,100,US,95000.0
+EN,PT,Data Scientist,M,US,100,DE,95000.0
+EN,PT,Data Scientist,M,DE,0,US,29059.125
+EN,PT,Data Scientist,M,DE,0,DE,29059.125
+EN,PT,Data Scientist,M,DE,50,US,29059.125
+EN,PT,Data Scientist,M,DE,50,DE,29059.125
+EN,PT,Data Scientist,M,DE,100,US,29059.125
+EN,PT,Data Scientist,M,DE,100,DE,29059.125
+EN,PT,Data Scientist,L,US,0,US,119500.0
+EN,PT,Data Scientist,L,US,0,DE,119500.0
+EN,PT,Data Scientist,L,US,50,US,119500.0
+EN,PT,Data Scientist,L,US,50,DE,119500.0
+EN,PT,Data Scientist,L,US,100,US,119500.0
+EN,PT,Data Scientist,L,US,100,DE,119500.0
+EN,PT,Data Scientist,L,DE,0,US,29059.125
+EN,PT,Data Scientist,L,DE,0,DE,29059.125
+EN,PT,Data Scientist,L,DE,50,US,29059.125
+EN,PT,Data Scientist,L,DE,50,DE,29059.125
+EN,PT,Data Scientist,L,DE,100,US,29059.125
+EN,PT,Data Scientist,L,DE,100,DE,29059.125
+EN,PT,Data Engineer,S,US,0,US,87285.71428571429
+EN,PT,Data Engineer,S,US,0,DE,87285.71428571429
+EN,PT,Data Engineer,S,US,50,US,87285.71428571429
+EN,PT,Data Engineer,S,US,50,DE,87285.71428571429
+EN,PT,Data Engineer,S,US,100,US,87285.71428571429
+EN,PT,Data Engineer,S,US,100,DE,87285.71428571429
+EN,PT,Data Engineer,S,DE,0,US,29059.125
+EN,PT,Data Engineer,S,DE,0,DE,29059.125
+EN,PT,Data Engineer,S,DE,50,US,29059.125
+EN,PT,Data Engineer,S,DE,50,DE,29059.125
+EN,PT,Data Engineer,S,DE,100,US,29059.125
+EN,PT,Data Engineer,S,DE,100,DE,29059.125
+EN,PT,Data Engineer,M,US,0,US,87285.71428571429
+EN,PT,Data Engineer,M,US,0,DE,87285.71428571429
+EN,PT,Data Engineer,M,US,50,US,87285.71428571429
+EN,PT,Data Engineer,M,US,50,DE,87285.71428571429
+EN,PT,Data Engineer,M,US,100,US,87285.71428571429
+EN,PT,Data Engineer,M,US,100,DE,87285.71428571429
+EN,PT,Data Engineer,M,DE,0,US,29059.125
+EN,PT,Data Engineer,M,DE,0,DE,29059.125
+EN,PT,Data Engineer,M,DE,50,US,29059.125
+EN,PT,Data Engineer,M,DE,50,DE,29059.125
+EN,PT,Data Engineer,M,DE,100,US,29059.125
+EN,PT,Data Engineer,M,DE,100,DE,29059.125
+EN,PT,Data Engineer,L,US,0,US,119500.0
+EN,PT,Data Engineer,L,US,0,DE,119500.0
+EN,PT,Data Engineer,L,US,50,US,119500.0
+EN,PT,Data Engineer,L,US,50,DE,119500.0
+EN,PT,Data Engineer,L,US,100,US,119500.0
+EN,PT,Data Engineer,L,US,100,DE,119500.0
+EN,PT,Data Engineer,L,DE,0,US,29059.125
+EN,PT,Data Engineer,L,DE,0,DE,29059.125
+EN,PT,Data Engineer,L,DE,50,US,29059.125
+EN,PT,Data Engineer,L,DE,50,DE,29059.125
+EN,PT,Data Engineer,L,DE,100,US,29059.125
+EN,PT,Data Engineer,L,DE,100,DE,29059.125
+EN,PT,Data Analyst,S,US,0,US,79000.0
+EN,PT,Data Analyst,S,US,0,DE,79000.0
+EN,PT,Data Analyst,S,US,50,US,79000.0
+EN,PT,Data Analyst,S,US,50,DE,79000.0
+EN,PT,Data Analyst,S,US,100,US,79000.0
+EN,PT,Data Analyst,S,US,100,DE,79000.0
+EN,PT,Data Analyst,S,DE,0,US,29059.125
+EN,PT,Data Analyst,S,DE,0,DE,29059.125
+EN,PT,Data Analyst,S,DE,50,US,29059.125
+EN,PT,Data Analyst,S,DE,50,DE,29059.125
+EN,PT,Data Analyst,S,DE,100,US,29059.125
+EN,PT,Data Analyst,S,DE,100,DE,29059.125
+EN,PT,Data Analyst,M,US,0,US,107180.0
+EN,PT,Data Analyst,M,US,0,DE,107180.0
+EN,PT,Data Analyst,M,US,50,US,107180.0
+EN,PT,Data Analyst,M,US,50,DE,107180.0
+EN,PT,Data Analyst,M,US,100,US,107180.0
+EN,PT,Data Analyst,M,US,100,DE,107180.0
+EN,PT,Data Analyst,M,DE,0,US,29059.125
+EN,PT,Data Analyst,M,DE,0,DE,29059.125
+EN,PT,Data Analyst,M,DE,50,US,29059.125
+EN,PT,Data Analyst,M,DE,50,DE,29059.125
+EN,PT,Data Analyst,M,DE,100,US,29059.125
+EN,PT,Data Analyst,M,DE,100,DE,29059.125
+EN,PT,Data Analyst,L,US,0,US,79000.0
+EN,PT,Data Analyst,L,US,0,DE,79000.0
+EN,PT,Data Analyst,L,US,50,US,79000.0
+EN,PT,Data Analyst,L,US,50,DE,79000.0
+EN,PT,Data Analyst,L,US,100,US,79000.0
+EN,PT,Data Analyst,L,US,100,DE,79000.0
+EN,PT,Data Analyst,L,DE,0,US,29059.125
+EN,PT,Data Analyst,L,DE,0,DE,29059.125
+EN,PT,Data Analyst,L,DE,50,US,29059.125
+EN,PT,Data Analyst,L,DE,50,DE,29059.125
+EN,PT,Data Analyst,L,DE,100,US,29059.125
+EN,PT,Data Analyst,L,DE,100,DE,29059.125
+EN,PT,Machine Learning Engineer,S,US,0,US,87285.71428571429
+EN,PT,Machine Learning Engineer,S,US,0,DE,87285.71428571429
+EN,PT,Machine Learning Engineer,S,US,50,US,87285.71428571429
+EN,PT,Machine Learning Engineer,S,US,50,DE,87285.71428571429
+EN,PT,Machine Learning Engineer,S,US,100,US,87285.71428571429
+EN,PT,Machine Learning Engineer,S,US,100,DE,87285.71428571429
+EN,PT,Machine Learning Engineer,S,DE,0,US,29059.125
+EN,PT,Machine Learning Engineer,S,DE,0,DE,29059.125
+EN,PT,Machine Learning Engineer,S,DE,50,US,29059.125
+EN,PT,Machine Learning Engineer,S,DE,50,DE,29059.125
+EN,PT,Machine Learning Engineer,S,DE,100,US,29059.125
+EN,PT,Machine Learning Engineer,S,DE,100,DE,29059.125
+EN,PT,Machine Learning Engineer,M,US,0,US,87285.71428571429
+EN,PT,Machine Learning Engineer,M,US,0,DE,87285.71428571429
+EN,PT,Machine Learning Engineer,M,US,50,US,87285.71428571429
+EN,PT,Machine Learning Engineer,M,US,50,DE,87285.71428571429
+EN,PT,Machine Learning Engineer,M,US,100,US,87285.71428571429
+EN,PT,Machine Learning Engineer,M,US,100,DE,87285.71428571429
+EN,PT,Machine Learning Engineer,M,DE,0,US,29059.125
+EN,PT,Machine Learning Engineer,M,DE,0,DE,29059.125
+EN,PT,Machine Learning Engineer,M,DE,50,US,29059.125
+EN,PT,Machine Learning Engineer,M,DE,50,DE,29059.125
+EN,PT,Machine Learning Engineer,M,DE,100,US,29059.125
+EN,PT,Machine Learning Engineer,M,DE,100,DE,29059.125
+EN,PT,Machine Learning Engineer,L,US,0,US,119500.0
+EN,PT,Machine Learning Engineer,L,US,0,DE,119500.0
+EN,PT,Machine Learning Engineer,L,US,50,US,119500.0
+EN,PT,Machine Learning Engineer,L,US,50,DE,119500.0
+EN,PT,Machine Learning Engineer,L,US,100,US,119500.0
+EN,PT,Machine Learning Engineer,L,US,100,DE,119500.0
+EN,PT,Machine Learning Engineer,L,DE,0,US,29059.125
+EN,PT,Machine Learning Engineer,L,DE,0,DE,29059.125
+EN,PT,Machine Learning Engineer,L,DE,50,US,29059.125
+EN,PT,Machine Learning Engineer,L,DE,50,DE,29059.125
+EN,PT,Machine Learning Engineer,L,DE,100,US,29059.125
+EN,PT,Machine Learning Engineer,L,DE,100,DE,29059.125
+EN,PT,Research Scientist,S,US,0,US,87285.71428571429
+EN,PT,Research Scientist,S,US,0,DE,87285.71428571429
+EN,PT,Research Scientist,S,US,50,US,87285.71428571429
+EN,PT,Research Scientist,S,US,50,DE,87285.71428571429
+EN,PT,Research Scientist,S,US,100,US,87285.71428571429
+EN,PT,Research Scientist,S,US,100,DE,87285.71428571429
+EN,PT,Research Scientist,S,DE,0,US,29059.125
+EN,PT,Research Scientist,S,DE,0,DE,29059.125
+EN,PT,Research Scientist,S,DE,50,US,29059.125
+EN,PT,Research Scientist,S,DE,50,DE,29059.125
+EN,PT,Research Scientist,S,DE,100,US,29059.125
+EN,PT,Research Scientist,S,DE,100,DE,29059.125
+EN,PT,Research Scientist,M,US,0,US,87285.71428571429
+EN,PT,Research Scientist,M,US,0,DE,87285.71428571429
+EN,PT,Research Scientist,M,US,50,US,87285.71428571429
+EN,PT,Research Scientist,M,US,50,DE,87285.71428571429
+EN,PT,Research Scientist,M,US,100,US,87285.71428571429
+EN,PT,Research Scientist,M,US,100,DE,87285.71428571429
+EN,PT,Research Scientist,M,DE,0,US,29059.125
+EN,PT,Research Scientist,M,DE,0,DE,29059.125
+EN,PT,Research Scientist,M,DE,50,US,29059.125
+EN,PT,Research Scientist,M,DE,50,DE,29059.125
+EN,PT,Research Scientist,M,DE,100,US,29059.125
+EN,PT,Research Scientist,M,DE,100,DE,29059.125
+EN,PT,Research Scientist,L,US,0,US,119500.0
+EN,PT,Research Scientist,L,US,0,DE,119500.0
+EN,PT,Research Scientist,L,US,50,US,119500.0
+EN,PT,Research Scientist,L,US,50,DE,119500.0
+EN,PT,Research Scientist,L,US,100,US,119500.0
+EN,PT,Research Scientist,L,US,100,DE,119500.0
+EN,PT,Research Scientist,L,DE,0,US,29059.125
+EN,PT,Research Scientist,L,DE,0,DE,29059.125
+EN,PT,Research Scientist,L,DE,50,US,29059.125
+EN,PT,Research Scientist,L,DE,50,DE,29059.125
+EN,PT,Research Scientist,L,DE,100,US,29059.125
+EN,PT,Research Scientist,L,DE,100,DE,29059.125
+EN,FL,Data Scientist,S,US,0,US,95000.0
+EN,FL,Data Scientist,S,US,0,DE,95000.0
+EN,FL,Data Scientist,S,US,50,US,95000.0
+EN,FL,Data Scientist,S,US,50,DE,95000.0
+EN,FL,Data Scientist,S,US,100,US,95000.0
+EN,FL,Data Scientist,S,US,100,DE,95000.0
+EN,FL,Data Scientist,S,DE,0,US,29059.125
+EN,FL,Data Scientist,S,DE,0,DE,29059.125
+EN,FL,Data Scientist,S,DE,50,US,29059.125
+EN,FL,Data Scientist,S,DE,50,DE,29059.125
+EN,FL,Data Scientist,S,DE,100,US,29059.125
+EN,FL,Data Scientist,S,DE,100,DE,29059.125
+EN,FL,Data Scientist,M,US,0,US,95000.0
+EN,FL,Data Scientist,M,US,0,DE,95000.0
+EN,FL,Data Scientist,M,US,50,US,95000.0
+EN,FL,Data Scientist,M,US,50,DE,95000.0
+EN,FL,Data Scientist,M,US,100,US,95000.0
+EN,FL,Data Scientist,M,US,100,DE,95000.0
+EN,FL,Data Scientist,M,DE,0,US,29059.125
+EN,FL,Data Scientist,M,DE,0,DE,29059.125
+EN,FL,Data Scientist,M,DE,50,US,29059.125
+EN,FL,Data Scientist,M,DE,50,DE,29059.125
+EN,FL,Data Scientist,M,DE,100,US,29059.125
+EN,FL,Data Scientist,M,DE,100,DE,29059.125
+EN,FL,Data Scientist,L,US,0,US,119500.0
+EN,FL,Data Scientist,L,US,0,DE,119500.0
+EN,FL,Data Scientist,L,US,50,US,119500.0
+EN,FL,Data Scientist,L,US,50,DE,119500.0
+EN,FL,Data Scientist,L,US,100,US,119500.0
+EN,FL,Data Scientist,L,US,100,DE,119500.0
+EN,FL,Data Scientist,L,DE,0,US,29059.125
+EN,FL,Data Scientist,L,DE,0,DE,29059.125
+EN,FL,Data Scientist,L,DE,50,US,29059.125
+EN,FL,Data Scientist,L,DE,50,DE,29059.125
+EN,FL,Data Scientist,L,DE,100,US,29059.125
+EN,FL,Data Scientist,L,DE,100,DE,29059.125
+EN,FL,Data Engineer,S,US,0,US,87285.71428571429
+EN,FL,Data Engineer,S,US,0,DE,87285.71428571429
+EN,FL,Data Engineer,S,US,50,US,87285.71428571429
+EN,FL,Data Engineer,S,US,50,DE,87285.71428571429
+EN,FL,Data Engineer,S,US,100,US,87285.71428571429
+EN,FL,Data Engineer,S,US,100,DE,87285.71428571429
+EN,FL,Data Engineer,S,DE,0,US,29059.125
+EN,FL,Data Engineer,S,DE,0,DE,29059.125
+EN,FL,Data Engineer,S,DE,50,US,29059.125
+EN,FL,Data Engineer,S,DE,50,DE,29059.125
+EN,FL,Data Engineer,S,DE,100,US,29059.125
+EN,FL,Data Engineer,S,DE,100,DE,29059.125
+EN,FL,Data Engineer,M,US,0,US,87285.71428571429
+EN,FL,Data Engineer,M,US,0,DE,87285.71428571429
+EN,FL,Data Engineer,M,US,50,US,87285.71428571429
+EN,FL,Data Engineer,M,US,50,DE,87285.71428571429
+EN,FL,Data Engineer,M,US,100,US,87285.71428571429
+EN,FL,Data Engineer,M,US,100,DE,87285.71428571429
+EN,FL,Data Engineer,M,DE,0,US,29059.125
+EN,FL,Data Engineer,M,DE,0,DE,29059.125
+EN,FL,Data Engineer,M,DE,50,US,29059.125
+EN,FL,Data Engineer,M,DE,50,DE,29059.125
+EN,FL,Data Engineer,M,DE,100,US,29059.125
+EN,FL,Data Engineer,M,DE,100,DE,29059.125
+EN,FL,Data Engineer,L,US,0,US,119500.0
+EN,FL,Data Engineer,L,US,0,DE,119500.0
+EN,FL,Data Engineer,L,US,50,US,119500.0
+EN,FL,Data Engineer,L,US,50,DE,119500.0
+EN,FL,Data Engineer,L,US,100,US,119500.0
+EN,FL,Data Engineer,L,US,100,DE,119500.0
+EN,FL,Data Engineer,L,DE,0,US,29059.125
+EN,FL,Data Engineer,L,DE,0,DE,29059.125
+EN,FL,Data Engineer,L,DE,50,US,29059.125
+EN,FL,Data Engineer,L,DE,50,DE,29059.125
+EN,FL,Data Engineer,L,DE,100,US,29059.125
+EN,FL,Data Engineer,L,DE,100,DE,29059.125
+EN,FL,Data Analyst,S,US,0,US,79000.0
+EN,FL,Data Analyst,S,US,0,DE,79000.0
+EN,FL,Data Analyst,S,US,50,US,79000.0
+EN,FL,Data Analyst,S,US,50,DE,79000.0
+EN,FL,Data Analyst,S,US,100,US,79000.0
+EN,FL,Data Analyst,S,US,100,DE,79000.0
+EN,FL,Data Analyst,S,DE,0,US,29059.125
+EN,FL,Data Analyst,S,DE,0,DE,29059.125
+EN,FL,Data Analyst,S,DE,50,US,29059.125
+EN,FL,Data Analyst,S,DE,50,DE,29059.125
+EN,FL,Data Analyst,S,DE,100,US,29059.125
+EN,FL,Data Analyst,S,DE,100,DE,29059.125
+EN,FL,Data Analyst,M,US,0,US,107180.0
+EN,FL,Data Analyst,M,US,0,DE,107180.0
+EN,FL,Data Analyst,M,US,50,US,107180.0
+EN,FL,Data Analyst,M,US,50,DE,107180.0
+EN,FL,Data Analyst,M,US,100,US,107180.0
+EN,FL,Data Analyst,M,US,100,DE,107180.0
+EN,FL,Data Analyst,M,DE,0,US,29059.125
+EN,FL,Data Analyst,M,DE,0,DE,29059.125
+EN,FL,Data Analyst,M,DE,50,US,29059.125
+EN,FL,Data Analyst,M,DE,50,DE,29059.125
+EN,FL,Data Analyst,M,DE,100,US,29059.125
+EN,FL,Data Analyst,M,DE,100,DE,29059.125
+EN,FL,Data Analyst,L,US,0,US,79000.0
+EN,FL,Data Analyst,L,US,0,DE,79000.0
+EN,FL,Data Analyst,L,US,50,US,79000.0
+EN,FL,Data Analyst,L,US,50,DE,79000.0
+EN,FL,Data Analyst,L,US,100,US,79000.0
+EN,FL,Data Analyst,L,US,100,DE,79000.0
+EN,FL,Data Analyst,L,DE,0,US,29059.125
+EN,FL,Data Analyst,L,DE,0,DE,29059.125
+EN,FL,Data Analyst,L,DE,50,US,29059.125
+EN,FL,Data Analyst,L,DE,50,DE,29059.125
+EN,FL,Data Analyst,L,DE,100,US,29059.125
+EN,FL,Data Analyst,L,DE,100,DE,29059.125
+EN,FL,Machine Learning Engineer,S,US,0,US,87285.71428571429
+EN,FL,Machine Learning Engineer,S,US,0,DE,87285.71428571429
+EN,FL,Machine Learning Engineer,S,US,50,US,87285.71428571429
+EN,FL,Machine Learning Engineer,S,US,50,DE,87285.71428571429
+EN,FL,Machine Learning Engineer,S,US,100,US,87285.71428571429
+EN,FL,Machine Learning Engineer,S,US,100,DE,87285.71428571429
+EN,FL,Machine Learning Engineer,S,DE,0,US,29059.125
+EN,FL,Machine Learning Engineer,S,DE,0,DE,29059.125
+EN,FL,Machine Learning Engineer,S,DE,50,US,29059.125
+EN,FL,Machine Learning Engineer,S,DE,50,DE,29059.125
+EN,FL,Machine Learning Engineer,S,DE,100,US,29059.125
+EN,FL,Machine Learning Engineer,S,DE,100,DE,29059.125
+EN,FL,Machine Learning Engineer,M,US,0,US,87285.71428571429
+EN,FL,Machine Learning Engineer,M,US,0,DE,87285.71428571429
+EN,FL,Machine Learning Engineer,M,US,50,US,87285.71428571429
+EN,FL,Machine Learning Engineer,M,US,50,DE,87285.71428571429
+EN,FL,Machine Learning Engineer,M,US,100,US,87285.71428571429
+EN,FL,Machine Learning Engineer,M,US,100,DE,87285.71428571429
+EN,FL,Machine Learning Engineer,M,DE,0,US,29059.125
+EN,FL,Machine Learning Engineer,M,DE,0,DE,29059.125
+EN,FL,Machine Learning Engineer,M,DE,50,US,29059.125
+EN,FL,Machine Learning Engineer,M,DE,50,DE,29059.125
+EN,FL,Machine Learning Engineer,M,DE,100,US,29059.125
+EN,FL,Machine Learning Engineer,M,DE,100,DE,29059.125
+EN,FL,Machine Learning Engineer,L,US,0,US,119500.0
+EN,FL,Machine Learning Engineer,L,US,0,DE,119500.0
+EN,FL,Machine Learning Engineer,L,US,50,US,119500.0
+EN,FL,Machine Learning Engineer,L,US,50,DE,119500.0
+EN,FL,Machine Learning Engineer,L,US,100,US,119500.0
+EN,FL,Machine Learning Engineer,L,US,100,DE,119500.0
+EN,FL,Machine Learning Engineer,L,DE,0,US,29059.125
+EN,FL,Machine Learning Engineer,L,DE,0,DE,29059.125
+EN,FL,Machine Learning Engineer,L,DE,50,US,29059.125
+EN,FL,Machine Learning Engineer,L,DE,50,DE,29059.125
+EN,FL,Machine Learning Engineer,L,DE,100,US,29059.125
+EN,FL,Machine Learning Engineer,L,DE,100,DE,29059.125
+EN,FL,Research Scientist,S,US,0,US,87285.71428571429
+EN,FL,Research Scientist,S,US,0,DE,87285.71428571429
+EN,FL,Research Scientist,S,US,50,US,87285.71428571429
+EN,FL,Research Scientist,S,US,50,DE,87285.71428571429
+EN,FL,Research Scientist,S,US,100,US,87285.71428571429
+EN,FL,Research Scientist,S,US,100,DE,87285.71428571429
+EN,FL,Research Scientist,S,DE,0,US,29059.125
+EN,FL,Research Scientist,S,DE,0,DE,29059.125
+EN,FL,Research Scientist,S,DE,50,US,29059.125
+EN,FL,Research Scientist,S,DE,50,DE,29059.125
+EN,FL,Research Scientist,S,DE,100,US,29059.125
+EN,FL,Research Scientist,S,DE,100,DE,29059.125
+EN,FL,Research Scientist,M,US,0,US,87285.71428571429
+EN,FL,Research Scientist,M,US,0,DE,87285.71428571429
+EN,FL,Research Scientist,M,US,50,US,87285.71428571429
+EN,FL,Research Scientist,M,US,50,DE,87285.71428571429
+EN,FL,Research Scientist,M,US,100,US,87285.71428571429
+EN,FL,Research Scientist,M,US,100,DE,87285.71428571429
+EN,FL,Research Scientist,M,DE,0,US,29059.125
+EN,FL,Research Scientist,M,DE,0,DE,29059.125
+EN,FL,Research Scientist,M,DE,50,US,29059.125
+EN,FL,Research Scientist,M,DE,50,DE,29059.125
+EN,FL,Research Scientist,M,DE,100,US,29059.125
+EN,FL,Research Scientist,M,DE,100,DE,29059.125
+EN,FL,Research Scientist,L,US,0,US,119500.0
+EN,FL,Research Scientist,L,US,0,DE,119500.0
+EN,FL,Research Scientist,L,US,50,US,119500.0
+EN,FL,Research Scientist,L,US,50,DE,119500.0
+EN,FL,Research Scientist,L,US,100,US,119500.0
+EN,FL,Research Scientist,L,US,100,DE,119500.0
+EN,FL,Research Scientist,L,DE,0,US,29059.125
+EN,FL,Research Scientist,L,DE,0,DE,29059.125
+EN,FL,Research Scientist,L,DE,50,US,29059.125
+EN,FL,Research Scientist,L,DE,50,DE,29059.125
+EN,FL,Research Scientist,L,DE,100,US,29059.125
+EN,FL,Research Scientist,L,DE,100,DE,29059.125
+EN,CT,Data Scientist,S,US,0,US,95000.0
+EN,CT,Data Scientist,S,US,0,DE,95000.0
+EN,CT,Data Scientist,S,US,50,US,95000.0
+EN,CT,Data Scientist,S,US,50,DE,95000.0
+EN,CT,Data Scientist,S,US,100,US,95000.0
+EN,CT,Data Scientist,S,US,100,DE,95000.0
+EN,CT,Data Scientist,S,DE,0,US,29059.125
+EN,CT,Data Scientist,S,DE,0,DE,29059.125
+EN,CT,Data Scientist,S,DE,50,US,29059.125
+EN,CT,Data Scientist,S,DE,50,DE,29059.125
+EN,CT,Data Scientist,S,DE,100,US,29059.125
+EN,CT,Data Scientist,S,DE,100,DE,29059.125
+EN,CT,Data Scientist,M,US,0,US,95000.0
+EN,CT,Data Scientist,M,US,0,DE,95000.0
+EN,CT,Data Scientist,M,US,50,US,95000.0
+EN,CT,Data Scientist,M,US,50,DE,95000.0
+EN,CT,Data Scientist,M,US,100,US,95000.0
+EN,CT,Data Scientist,M,US,100,DE,95000.0
+EN,CT,Data Scientist,M,DE,0,US,29059.125
+EN,CT,Data Scientist,M,DE,0,DE,29059.125
+EN,CT,Data Scientist,M,DE,50,US,29059.125
+EN,CT,Data Scientist,M,DE,50,DE,29059.125
+EN,CT,Data Scientist,M,DE,100,US,29059.125
+EN,CT,Data Scientist,M,DE,100,DE,29059.125
+EN,CT,Data Scientist,L,US,0,US,119500.0
+EN,CT,Data Scientist,L,US,0,DE,119500.0
+EN,CT,Data Scientist,L,US,50,US,119500.0
+EN,CT,Data Scientist,L,US,50,DE,119500.0
+EN,CT,Data Scientist,L,US,100,US,119500.0
+EN,CT,Data Scientist,L,US,100,DE,119500.0
+EN,CT,Data Scientist,L,DE,0,US,29059.125
+EN,CT,Data Scientist,L,DE,0,DE,29059.125
+EN,CT,Data Scientist,L,DE,50,US,29059.125
+EN,CT,Data Scientist,L,DE,50,DE,29059.125
+EN,CT,Data Scientist,L,DE,100,US,29059.125
+EN,CT,Data Scientist,L,DE,100,DE,29059.125
+EN,CT,Data Engineer,S,US,0,US,87285.71428571429
+EN,CT,Data Engineer,S,US,0,DE,87285.71428571429
+EN,CT,Data Engineer,S,US,50,US,87285.71428571429
+EN,CT,Data Engineer,S,US,50,DE,87285.71428571429
+EN,CT,Data Engineer,S,US,100,US,87285.71428571429
+EN,CT,Data Engineer,S,US,100,DE,87285.71428571429
+EN,CT,Data Engineer,S,DE,0,US,29059.125
+EN,CT,Data Engineer,S,DE,0,DE,29059.125
+EN,CT,Data Engineer,S,DE,50,US,29059.125
+EN,CT,Data Engineer,S,DE,50,DE,29059.125
+EN,CT,Data Engineer,S,DE,100,US,29059.125
+EN,CT,Data Engineer,S,DE,100,DE,29059.125
+EN,CT,Data Engineer,M,US,0,US,87285.71428571429
+EN,CT,Data Engineer,M,US,0,DE,87285.71428571429
+EN,CT,Data Engineer,M,US,50,US,87285.71428571429
+EN,CT,Data Engineer,M,US,50,DE,87285.71428571429
+EN,CT,Data Engineer,M,US,100,US,87285.71428571429
+EN,CT,Data Engineer,M,US,100,DE,87285.71428571429
+EN,CT,Data Engineer,M,DE,0,US,29059.125
+EN,CT,Data Engineer,M,DE,0,DE,29059.125
+EN,CT,Data Engineer,M,DE,50,US,29059.125
+EN,CT,Data Engineer,M,DE,50,DE,29059.125
+EN,CT,Data Engineer,M,DE,100,US,29059.125
+EN,CT,Data Engineer,M,DE,100,DE,29059.125
+EN,CT,Data Engineer,L,US,0,US,119500.0
+EN,CT,Data Engineer,L,US,0,DE,119500.0
+EN,CT,Data Engineer,L,US,50,US,119500.0
+EN,CT,Data Engineer,L,US,50,DE,119500.0
+EN,CT,Data Engineer,L,US,100,US,119500.0
+EN,CT,Data Engineer,L,US,100,DE,119500.0
+EN,CT,Data Engineer,L,DE,0,US,29059.125
+EN,CT,Data Engineer,L,DE,0,DE,29059.125
+EN,CT,Data Engineer,L,DE,50,US,29059.125
+EN,CT,Data Engineer,L,DE,50,DE,29059.125
+EN,CT,Data Engineer,L,DE,100,US,29059.125
+EN,CT,Data Engineer,L,DE,100,DE,29059.125
+EN,CT,Data Analyst,S,US,0,US,79000.0
+EN,CT,Data Analyst,S,US,0,DE,79000.0
+EN,CT,Data Analyst,S,US,50,US,79000.0
+EN,CT,Data Analyst,S,US,50,DE,79000.0
+EN,CT,Data Analyst,S,US,100,US,79000.0
+EN,CT,Data Analyst,S,US,100,DE,79000.0
+EN,CT,Data Analyst,S,DE,0,US,29059.125
+EN,CT,Data Analyst,S,DE,0,DE,29059.125
+EN,CT,Data Analyst,S,DE,50,US,29059.125
+EN,CT,Data Analyst,S,DE,50,DE,29059.125
+EN,CT,Data Analyst,S,DE,100,US,29059.125
+EN,CT,Data Analyst,S,DE,100,DE,29059.125
+EN,CT,Data Analyst,M,US,0,US,107180.0
+EN,CT,Data Analyst,M,US,0,DE,107180.0
+EN,CT,Data Analyst,M,US,50,US,107180.0
+EN,CT,Data Analyst,M,US,50,DE,107180.0
+EN,CT,Data Analyst,M,US,100,US,107180.0
+EN,CT,Data Analyst,M,US,100,DE,107180.0
+EN,CT,Data Analyst,M,DE,0,US,29059.125
+EN,CT,Data Analyst,M,DE,0,DE,29059.125
+EN,CT,Data Analyst,M,DE,50,US,29059.125
+EN,CT,Data Analyst,M,DE,50,DE,29059.125
+EN,CT,Data Analyst,M,DE,100,US,29059.125
+EN,CT,Data Analyst,M,DE,100,DE,29059.125
+EN,CT,Data Analyst,L,US,0,US,79000.0
+EN,CT,Data Analyst,L,US,0,DE,79000.0
+EN,CT,Data Analyst,L,US,50,US,79000.0
+EN,CT,Data Analyst,L,US,50,DE,79000.0
+EN,CT,Data Analyst,L,US,100,US,79000.0
+EN,CT,Data Analyst,L,US,100,DE,79000.0
+EN,CT,Data Analyst,L,DE,0,US,29059.125
+EN,CT,Data Analyst,L,DE,0,DE,29059.125
+EN,CT,Data Analyst,L,DE,50,US,29059.125
+EN,CT,Data Analyst,L,DE,50,DE,29059.125
+EN,CT,Data Analyst,L,DE,100,US,29059.125
+EN,CT,Data Analyst,L,DE,100,DE,29059.125
+EN,CT,Machine Learning Engineer,S,US,0,US,87285.71428571429
+EN,CT,Machine Learning Engineer,S,US,0,DE,87285.71428571429
+EN,CT,Machine Learning Engineer,S,US,50,US,87285.71428571429
+EN,CT,Machine Learning Engineer,S,US,50,DE,87285.71428571429
+EN,CT,Machine Learning Engineer,S,US,100,US,87285.71428571429
+EN,CT,Machine Learning Engineer,S,US,100,DE,87285.71428571429
+EN,CT,Machine Learning Engineer,S,DE,0,US,29059.125
+EN,CT,Machine Learning Engineer,S,DE,0,DE,29059.125
+EN,CT,Machine Learning Engineer,S,DE,50,US,29059.125
+EN,CT,Machine Learning Engineer,S,DE,50,DE,29059.125
+EN,CT,Machine Learning Engineer,S,DE,100,US,29059.125
+EN,CT,Machine Learning Engineer,S,DE,100,DE,29059.125
+EN,CT,Machine Learning Engineer,M,US,0,US,87285.71428571429
+EN,CT,Machine Learning Engineer,M,US,0,DE,87285.71428571429
+EN,CT,Machine Learning Engineer,M,US,50,US,87285.71428571429
+EN,CT,Machine Learning Engineer,M,US,50,DE,87285.71428571429
+EN,CT,Machine Learning Engineer,M,US,100,US,87285.71428571429
+EN,CT,Machine Learning Engineer,M,US,100,DE,87285.71428571429
+EN,CT,Machine Learning Engineer,M,DE,0,US,29059.125
+EN,CT,Machine Learning Engineer,M,DE,0,DE,29059.125
+EN,CT,Machine Learning Engineer,M,DE,50,US,29059.125
+EN,CT,Machine Learning Engineer,M,DE,50,DE,29059.125
+EN,CT,Machine Learning Engineer,M,DE,100,US,29059.125
+EN,CT,Machine Learning Engineer,M,DE,100,DE,29059.125
+EN,CT,Machine Learning Engineer,L,US,0,US,119500.0
+EN,CT,Machine Learning Engineer,L,US,0,DE,119500.0
+EN,CT,Machine Learning Engineer,L,US,50,US,119500.0
+EN,CT,Machine Learning Engineer,L,US,50,DE,119500.0
+EN,CT,Machine Learning Engineer,L,US,100,US,119500.0
+EN,CT,Machine Learning Engineer,L,US,100,DE,119500.0
+EN,CT,Machine Learning Engineer,L,DE,0,US,29059.125
+EN,CT,Machine Learning Engineer,L,DE,0,DE,29059.125
+EN,CT,Machine Learning Engineer,L,DE,50,US,29059.125
+EN,CT,Machine Learning Engineer,L,DE,50,DE,29059.125
+EN,CT,Machine Learning Engineer,L,DE,100,US,29059.125
+EN,CT,Machine Learning Engineer,L,DE,100,DE,29059.125
+EN,CT,Research Scientist,S,US,0,US,87285.71428571429
+EN,CT,Research Scientist,S,US,0,DE,87285.71428571429
+EN,CT,Research Scientist,S,US,50,US,87285.71428571429
+EN,CT,Research Scientist,S,US,50,DE,87285.71428571429
+EN,CT,Research Scientist,S,US,100,US,87285.71428571429
+EN,CT,Research Scientist,S,US,100,DE,87285.71428571429
+EN,CT,Research Scientist,S,DE,0,US,29059.125
+EN,CT,Research Scientist,S,DE,0,DE,29059.125
+EN,CT,Research Scientist,S,DE,50,US,29059.125
+EN,CT,Research Scientist,S,DE,50,DE,29059.125
+EN,CT,Research Scientist,S,DE,100,US,29059.125
+EN,CT,Research Scientist,S,DE,100,DE,29059.125
+EN,CT,Research Scientist,M,US,0,US,87285.71428571429
+EN,CT,Research Scientist,M,US,0,DE,87285.71428571429
+EN,CT,Research Scientist,M,US,50,US,87285.71428571429
+EN,CT,Research Scientist,M,US,50,DE,87285.71428571429
+EN,CT,Research Scientist,M,US,100,US,87285.71428571429
+EN,CT,Research Scientist,M,US,100,DE,87285.71428571429
+EN,CT,Research Scientist,M,DE,0,US,29059.125
+EN,CT,Research Scientist,M,DE,0,DE,29059.125
+EN,CT,Research Scientist,M,DE,50,US,29059.125
+EN,CT,Research Scientist,M,DE,50,DE,29059.125
+EN,CT,Research Scientist,M,DE,100,US,29059.125
+EN,CT,Research Scientist,M,DE,100,DE,29059.125
+EN,CT,Research Scientist,L,US,0,US,119500.0
+EN,CT,Research Scientist,L,US,0,DE,119500.0
+EN,CT,Research Scientist,L,US,50,US,119500.0
+EN,CT,Research Scientist,L,US,50,DE,119500.0
+EN,CT,Research Scientist,L,US,100,US,119500.0
+EN,CT,Research Scientist,L,US,100,DE,119500.0
+EN,CT,Research Scientist,L,DE,0,US,29059.125
+EN,CT,Research Scientist,L,DE,0,DE,29059.125
+EN,CT,Research Scientist,L,DE,50,US,29059.125
+EN,CT,Research Scientist,L,DE,50,DE,29059.125
+EN,CT,Research Scientist,L,DE,100,US,29059.125
+EN,CT,Research Scientist,L,DE,100,DE,29059.125
+MI,FT,Data Scientist,S,US,0,US,116900.0
+MI,FT,Data Scientist,S,US,0,DE,116900.0
+MI,FT,Data Scientist,S,US,50,US,116900.0
+MI,FT,Data Scientist,S,US,50,DE,116900.0
+MI,FT,Data Scientist,S,US,100,US,116900.0
+MI,FT,Data Scientist,S,US,100,DE,116900.0
+MI,FT,Data Scientist,S,DE,0,US,30011.5
+MI,FT,Data Scientist,S,DE,0,DE,30011.5
+MI,FT,Data Scientist,S,DE,50,US,30011.5
+MI,FT,Data Scientist,S,DE,50,DE,30011.5
+MI,FT,Data Scientist,S,DE,100,US,30011.5
+MI,FT,Data Scientist,S,DE,100,DE,30011.5
 MI,FT,Data Scientist,M,US,0,US,127775.0
 MI,FT,Data Scientist,M,US,0,DE,127775.0
+MI,FT,Data Scientist,M,US,50,US,127775.0
+MI,FT,Data Scientist,M,US,50,DE,127775.0
 MI,FT,Data Scientist,M,US,100,US,127775.0
 MI,FT,Data Scientist,M,US,100,DE,127775.0
 MI,FT,Data Scientist,M,DE,0,US,89409.83333333333
 MI,FT,Data Scientist,M,DE,0,DE,71284.6
+MI,FT,Data Scientist,M,DE,50,US,89409.83333333333
+MI,FT,Data Scientist,M,DE,50,DE,71284.6
 MI,FT,Data Scientist,M,DE,100,US,89409.83333333333
 MI,FT,Data Scientist,M,DE,100,DE,55460.833333333336
 MI,FT,Data Scientist,L,US,0,US,116900.0
 MI,FT,Data Scientist,L,US,0,DE,116900.0
+MI,FT,Data Scientist,L,US,50,US,116900.0
+MI,FT,Data Scientist,L,US,50,DE,116900.0
 MI,FT,Data Scientist,L,US,100,US,116900.0
 MI,FT,Data Scientist,L,US,100,DE,116900.0
 MI,FT,Data Scientist,L,DE,0,US,89409.83333333333
 MI,FT,Data Scientist,L,DE,0,DE,71284.6
+MI,FT,Data Scientist,L,DE,50,US,89409.83333333333
+MI,FT,Data Scientist,L,DE,50,DE,71284.6
 MI,FT,Data Scientist,L,DE,100,US,89409.83333333333
 MI,FT,Data Scientist,L,DE,100,DE,44503.833333333336
+MI,FT,Data Engineer,S,US,0,US,118401.15384615384
+MI,FT,Data Engineer,S,US,0,DE,118401.15384615384
+MI,FT,Data Engineer,S,US,50,US,118401.15384615384
+MI,FT,Data Engineer,S,US,50,DE,118401.15384615384
+MI,FT,Data Engineer,S,US,100,US,142502.34375
+MI,FT,Data Engineer,S,US,100,DE,142502.34375
+MI,FT,Data Engineer,S,DE,0,US,53207.57142857143
+MI,FT,Data Engineer,S,DE,0,DE,53207.57142857143
+MI,FT,Data Engineer,S,DE,50,US,53207.57142857143
+MI,FT,Data Engineer,S,DE,50,DE,53207.57142857143
+MI,FT,Data Engineer,S,DE,100,US,53207.57142857143
+MI,FT,Data Engineer,S,DE,100,DE,53207.57142857143
 MI,FT,Data Engineer,M,US,0,US,118401.15384615384
 MI,FT,Data Engineer,M,US,0,DE,118401.15384615384
+MI,FT,Data Engineer,M,US,50,US,118401.15384615384
+MI,FT,Data Engineer,M,US,50,DE,118401.15384615384
 MI,FT,Data Engineer,M,US,100,US,142502.34375
 MI,FT,Data Engineer,M,US,100,DE,142502.34375
 MI,FT,Data Engineer,M,DE,0,US,89409.83333333333
 MI,FT,Data Engineer,M,DE,0,DE,56736.92307692308
+MI,FT,Data Engineer,M,DE,50,US,89409.83333333333
+MI,FT,Data Engineer,M,DE,50,DE,56736.92307692308
 MI,FT,Data Engineer,M,DE,100,US,89409.83333333333
 MI,FT,Data Engineer,M,DE,100,DE,61752.333333333336
 MI,FT,Data Engineer,L,US,0,US,118401.15384615384
 MI,FT,Data Engineer,L,US,0,DE,118401.15384615384
+MI,FT,Data Engineer,L,US,50,US,118401.15384615384
+MI,FT,Data Engineer,L,US,50,DE,118401.15384615384
 MI,FT,Data Engineer,L,US,100,US,134333.33333333334
 MI,FT,Data Engineer,L,US,100,DE,134333.33333333334
 MI,FT,Data Engineer,L,DE,0,US,89409.83333333333
 MI,FT,Data Engineer,L,DE,0,DE,56736.92307692308
+MI,FT,Data Engineer,L,DE,50,US,89409.83333333333
+MI,FT,Data Engineer,L,DE,50,DE,56736.92307692308
 MI,FT,Data Engineer,L,DE,100,US,89409.83333333333
 MI,FT,Data Engineer,L,DE,100,DE,44503.833333333336
+MI,FT,Data Analyst,S,US,0,US,79000.0
+MI,FT,Data Analyst,S,US,0,DE,79000.0
+MI,FT,Data Analyst,S,US,50,US,79000.0
+MI,FT,Data Analyst,S,US,50,DE,79000.0
+MI,FT,Data Analyst,S,US,100,US,79000.0
+MI,FT,Data Analyst,S,US,100,DE,79000.0
+MI,FT,Data Analyst,S,DE,0,US,53207.57142857143
+MI,FT,Data Analyst,S,DE,0,DE,53207.57142857143
+MI,FT,Data Analyst,S,DE,50,US,53207.57142857143
+MI,FT,Data Analyst,S,DE,50,DE,53207.57142857143
+MI,FT,Data Analyst,S,DE,100,US,53207.57142857143
+MI,FT,Data Analyst,S,DE,100,DE,53207.57142857143
 MI,FT,Data Analyst,M,US,0,US,107180.0
 MI,FT,Data Analyst,M,US,0,DE,107180.0
+MI,FT,Data Analyst,M,US,50,US,107180.0
+MI,FT,Data Analyst,M,US,50,DE,107180.0
 MI,FT,Data Analyst,M,US,100,US,107180.0
 MI,FT,Data Analyst,M,US,100,DE,107180.0
 MI,FT,Data Analyst,M,DE,0,US,89409.83333333333
 MI,FT,Data Analyst,M,DE,0,DE,56736.92307692308
+MI,FT,Data Analyst,M,DE,50,US,89409.83333333333
+MI,FT,Data Analyst,M,DE,50,DE,56736.92307692308
 MI,FT,Data Analyst,M,DE,100,US,89409.83333333333
 MI,FT,Data Analyst,M,DE,100,DE,55460.833333333336
 MI,FT,Data Analyst,L,US,0,US,79000.0
 MI,FT,Data Analyst,L,US,0,DE,79000.0
+MI,FT,Data Analyst,L,US,50,US,79000.0
+MI,FT,Data Analyst,L,US,50,DE,79000.0
 MI,FT,Data Analyst,L,US,100,US,79000.0
 MI,FT,Data Analyst,L,US,100,DE,79000.0
 MI,FT,Data Analyst,L,DE,0,US,89409.83333333333
 MI,FT,Data Analyst,L,DE,0,DE,56736.92307692308
+MI,FT,Data Analyst,L,DE,50,US,89409.83333333333
+MI,FT,Data Analyst,L,DE,50,DE,56736.92307692308
 MI,FT,Data Analyst,L,DE,100,US,89409.83333333333
 MI,FT,Data Analyst,L,DE,100,DE,44503.833333333336
+MI,FT,Machine Learning Engineer,S,US,0,US,213600.0
+MI,FT,Machine Learning Engineer,S,US,0,DE,213600.0
+MI,FT,Machine Learning Engineer,S,US,50,US,213600.0
+MI,FT,Machine Learning Engineer,S,US,50,DE,213600.0
+MI,FT,Machine Learning Engineer,S,US,100,US,213600.0
+MI,FT,Machine Learning Engineer,S,US,100,DE,213600.0
+MI,FT,Machine Learning Engineer,S,DE,0,US,53207.57142857143
+MI,FT,Machine Learning Engineer,S,DE,0,DE,53207.57142857143
+MI,FT,Machine Learning Engineer,S,DE,50,US,53207.57142857143
+MI,FT,Machine Learning Engineer,S,DE,50,DE,53207.57142857143
+MI,FT,Machine Learning Engineer,S,DE,100,US,53207.57142857143
+MI,FT,Machine Learning Engineer,S,DE,100,DE,53207.57142857143
 MI,FT,Machine Learning Engineer,M,US,0,US,213600.0
 MI,FT,Machine Learning Engineer,M,US,0,DE,213600.0
+MI,FT,Machine Learning Engineer,M,US,50,US,213600.0
+MI,FT,Machine Learning Engineer,M,US,50,DE,213600.0
 MI,FT,Machine Learning Engineer,M,US,100,US,213600.0
 MI,FT,Machine Learning Engineer,M,US,100,DE,213600.0
 MI,FT,Machine Learning Engineer,M,DE,0,US,89409.83333333333
 MI,FT,Machine Learning Engineer,M,DE,0,DE,67500.5
+MI,FT,Machine Learning Engineer,M,DE,50,US,89409.83333333333
+MI,FT,Machine Learning Engineer,M,DE,50,DE,67500.5
 MI,FT,Machine Learning Engineer,M,DE,100,US,89409.83333333333
 MI,FT,Machine Learning Engineer,M,DE,100,DE,67500.5
 MI,FT,Machine Learning Engineer,L,US,0,US,177941.23076923078
 MI,FT,Machine Learning Engineer,L,US,0,DE,177941.23076923078
+MI,FT,Machine Learning Engineer,L,US,50,US,177941.23076923078
+MI,FT,Machine Learning Engineer,L,US,50,DE,177941.23076923078
 MI,FT,Machine Learning Engineer,L,US,100,US,177941.23076923078
 MI,FT,Machine Learning Engineer,L,US,100,DE,177941.23076923078
 MI,FT,Machine Learning Engineer,L,DE,0,US,89409.83333333333
 MI,FT,Machine Learning Engineer,L,DE,0,DE,67500.5
+MI,FT,Machine Learning Engineer,L,DE,50,US,89409.83333333333
+MI,FT,Machine Learning Engineer,L,DE,50,DE,67500.5
 MI,FT,Machine Learning Engineer,L,DE,100,US,89409.83333333333
 MI,FT,Machine Learning Engineer,L,DE,100,DE,67500.5
+MI,FT,Research Scientist,S,US,0,US,213600.0
+MI,FT,Research Scientist,S,US,0,DE,213600.0
+MI,FT,Research Scientist,S,US,50,US,213600.0
+MI,FT,Research Scientist,S,US,50,DE,213600.0
+MI,FT,Research Scientist,S,US,100,US,213600.0
+MI,FT,Research Scientist,S,US,100,DE,213600.0
+MI,FT,Research Scientist,S,DE,0,US,53207.57142857143
+MI,FT,Research Scientist,S,DE,0,DE,53207.57142857143
+MI,FT,Research Scientist,S,DE,50,US,53207.57142857143
+MI,FT,Research Scientist,S,DE,50,DE,53207.57142857143
+MI,FT,Research Scientist,S,DE,100,US,53207.57142857143
+MI,FT,Research Scientist,S,DE,100,DE,53207.57142857143
 MI,FT,Research Scientist,M,US,0,US,213600.0
 MI,FT,Research Scientist,M,US,0,DE,213600.0
+MI,FT,Research Scientist,M,US,50,US,213600.0
+MI,FT,Research Scientist,M,US,50,DE,213600.0
 MI,FT,Research Scientist,M,US,100,US,213600.0
 MI,FT,Research Scientist,M,US,100,DE,213600.0
 MI,FT,Research Scientist,M,DE,0,US,89409.83333333333
 MI,FT,Research Scientist,M,DE,0,DE,56736.92307692308
+MI,FT,Research Scientist,M,DE,50,US,89409.83333333333
+MI,FT,Research Scientist,M,DE,50,DE,56736.92307692308
 MI,FT,Research Scientist,M,DE,100,US,89409.83333333333
 MI,FT,Research Scientist,M,DE,100,DE,55460.833333333336
 MI,FT,Research Scientist,L,US,0,US,177941.23076923078
 MI,FT,Research Scientist,L,US,0,DE,177941.23076923078
+MI,FT,Research Scientist,L,US,50,US,177941.23076923078
+MI,FT,Research Scientist,L,US,50,DE,177941.23076923078
 MI,FT,Research Scientist,L,US,100,US,177941.23076923078
 MI,FT,Research Scientist,L,US,100,DE,177941.23076923078
 MI,FT,Research Scientist,L,DE,0,US,89409.83333333333
 MI,FT,Research Scientist,L,DE,0,DE,56736.92307692308
+MI,FT,Research Scientist,L,DE,50,US,89409.83333333333
+MI,FT,Research Scientist,L,DE,50,DE,56736.92307692308
 MI,FT,Research Scientist,L,DE,100,US,89409.83333333333
 MI,FT,Research Scientist,L,DE,100,DE,44503.833333333336
-MI,FT,Data Science Manager,M,US,0,US,213600.0
-MI,FT,Data Science Manager,M,US,0,DE,213600.0
-MI,FT,Data Science Manager,M,US,100,US,213600.0
-MI,FT,Data Science Manager,M,US,100,DE,213600.0
-MI,FT,Data Science Manager,M,DE,0,US,89409.83333333333
-MI,FT,Data Science Manager,M,DE,0,DE,56736.92307692308
-MI,FT,Data Science Manager,M,DE,100,US,89409.83333333333
-MI,FT,Data Science Manager,M,DE,100,DE,55460.833333333336
-MI,FT,Data Science Manager,L,US,0,US,177941.23076923078
-MI,FT,Data Science Manager,L,US,0,DE,177941.23076923078
-MI,FT,Data Science Manager,L,US,100,US,177941.23076923078
-MI,FT,Data Science Manager,L,US,100,DE,177941.23076923078
-MI,FT,Data Science Manager,L,DE,0,US,89409.83333333333
-MI,FT,Data Science Manager,L,DE,0,DE,56736.92307692308
-MI,FT,Data Science Manager,L,DE,100,US,89409.83333333333
-MI,FT,Data Science Manager,L,DE,100,DE,44503.833333333336
-MI,FT,Data Architect,M,US,0,US,213600.0
-MI,FT,Data Architect,M,US,0,DE,213600.0
-MI,FT,Data Architect,M,US,100,US,213600.0
-MI,FT,Data Architect,M,US,100,DE,213600.0
-MI,FT,Data Architect,M,DE,0,US,89409.83333333333
-MI,FT,Data Architect,M,DE,0,DE,56736.92307692308
-MI,FT,Data Architect,M,DE,100,US,89409.83333333333
-MI,FT,Data Architect,M,DE,100,DE,55460.833333333336
-MI,FT,Data Architect,L,US,0,US,177941.23076923078
-MI,FT,Data Architect,L,US,0,DE,177941.23076923078
-MI,FT,Data Architect,L,US,100,US,177941.23076923078
-MI,FT,Data Architect,L,US,100,DE,177941.23076923078
-MI,FT,Data Architect,L,DE,0,US,89409.83333333333
-MI,FT,Data Architect,L,DE,0,DE,56736.92307692308
-MI,FT,Data Architect,L,DE,100,US,89409.83333333333
-MI,FT,Data Architect,L,DE,100,DE,44503.833333333336
-MI,FT,Machine Learning Scientist,M,US,0,US,213600.0
-MI,FT,Machine Learning Scientist,M,US,0,DE,213600.0
-MI,FT,Machine Learning Scientist,M,US,100,US,213600.0
-MI,FT,Machine Learning Scientist,M,US,100,DE,213600.0
-MI,FT,Machine Learning Scientist,M,DE,0,US,89409.83333333333
-MI,FT,Machine Learning Scientist,M,DE,0,DE,56736.92307692308
-MI,FT,Machine Learning Scientist,M,DE,100,US,89409.83333333333
-MI,FT,Machine Learning Scientist,M,DE,100,DE,55460.833333333336
-MI,FT,Machine Learning Scientist,L,US,0,US,177941.23076923078
-MI,FT,Machine Learning Scientist,L,US,0,DE,177941.23076923078
-MI,FT,Machine Learning Scientist,L,US,100,US,177941.23076923078
-MI,FT,Machine Learning Scientist,L,US,100,DE,177941.23076923078
-MI,FT,Machine Learning Scientist,L,DE,0,US,89409.83333333333
-MI,FT,Machine Learning Scientist,L,DE,0,DE,56736.92307692308
-MI,FT,Machine Learning Scientist,L,DE,100,US,89409.83333333333
-MI,FT,Machine Learning Scientist,L,DE,100,DE,44503.833333333336
+MI,PT,Data Scientist,S,US,0,US,116900.0
+MI,PT,Data Scientist,S,US,0,DE,116900.0
+MI,PT,Data Scientist,S,US,50,US,116900.0
+MI,PT,Data Scientist,S,US,50,DE,116900.0
+MI,PT,Data Scientist,S,US,100,US,116900.0
+MI,PT,Data Scientist,S,US,100,DE,116900.0
+MI,PT,Data Scientist,S,DE,0,US,30011.5
+MI,PT,Data Scientist,S,DE,0,DE,30011.5
+MI,PT,Data Scientist,S,DE,50,US,30011.5
+MI,PT,Data Scientist,S,DE,50,DE,30011.5
+MI,PT,Data Scientist,S,DE,100,US,30011.5
+MI,PT,Data Scientist,S,DE,100,DE,30011.5
+MI,PT,Data Scientist,M,US,0,US,127775.0
+MI,PT,Data Scientist,M,US,0,DE,127775.0
+MI,PT,Data Scientist,M,US,50,US,127775.0
+MI,PT,Data Scientist,M,US,50,DE,127775.0
+MI,PT,Data Scientist,M,US,100,US,127775.0
+MI,PT,Data Scientist,M,US,100,DE,127775.0
+MI,PT,Data Scientist,M,DE,0,US,89409.83333333333
+MI,PT,Data Scientist,M,DE,0,DE,71284.6
+MI,PT,Data Scientist,M,DE,50,US,89409.83333333333
+MI,PT,Data Scientist,M,DE,50,DE,71284.6
+MI,PT,Data Scientist,M,DE,100,US,89409.83333333333
+MI,PT,Data Scientist,M,DE,100,DE,55460.833333333336
+MI,PT,Data Scientist,L,US,0,US,116900.0
+MI,PT,Data Scientist,L,US,0,DE,116900.0
+MI,PT,Data Scientist,L,US,50,US,116900.0
+MI,PT,Data Scientist,L,US,50,DE,116900.0
+MI,PT,Data Scientist,L,US,100,US,116900.0
+MI,PT,Data Scientist,L,US,100,DE,116900.0
+MI,PT,Data Scientist,L,DE,0,US,89409.83333333333
+MI,PT,Data Scientist,L,DE,0,DE,71284.6
+MI,PT,Data Scientist,L,DE,50,US,89409.83333333333
+MI,PT,Data Scientist,L,DE,50,DE,71284.6
+MI,PT,Data Scientist,L,DE,100,US,89409.83333333333
+MI,PT,Data Scientist,L,DE,100,DE,44503.833333333336
+MI,PT,Data Engineer,S,US,0,US,118401.15384615384
+MI,PT,Data Engineer,S,US,0,DE,118401.15384615384
+MI,PT,Data Engineer,S,US,50,US,118401.15384615384
+MI,PT,Data Engineer,S,US,50,DE,118401.15384615384
+MI,PT,Data Engineer,S,US,100,US,142502.34375
+MI,PT,Data Engineer,S,US,100,DE,142502.34375
+MI,PT,Data Engineer,S,DE,0,US,53207.57142857143
+MI,PT,Data Engineer,S,DE,0,DE,53207.57142857143
+MI,PT,Data Engineer,S,DE,50,US,53207.57142857143
+MI,PT,Data Engineer,S,DE,50,DE,53207.57142857143
+MI,PT,Data Engineer,S,DE,100,US,53207.57142857143
+MI,PT,Data Engineer,S,DE,100,DE,53207.57142857143
+MI,PT,Data Engineer,M,US,0,US,118401.15384615384
+MI,PT,Data Engineer,M,US,0,DE,118401.15384615384
+MI,PT,Data Engineer,M,US,50,US,118401.15384615384
+MI,PT,Data Engineer,M,US,50,DE,118401.15384615384
+MI,PT,Data Engineer,M,US,100,US,142502.34375
+MI,PT,Data Engineer,M,US,100,DE,142502.34375
+MI,PT,Data Engineer,M,DE,0,US,89409.83333333333
+MI,PT,Data Engineer,M,DE,0,DE,56736.92307692308
+MI,PT,Data Engineer,M,DE,50,US,89409.83333333333
+MI,PT,Data Engineer,M,DE,50,DE,56736.92307692308
+MI,PT,Data Engineer,M,DE,100,US,89409.83333333333
+MI,PT,Data Engineer,M,DE,100,DE,61752.333333333336
+MI,PT,Data Engineer,L,US,0,US,118401.15384615384
+MI,PT,Data Engineer,L,US,0,DE,118401.15384615384
+MI,PT,Data Engineer,L,US,50,US,118401.15384615384
+MI,PT,Data Engineer,L,US,50,DE,118401.15384615384
+MI,PT,Data Engineer,L,US,100,US,134333.33333333334
+MI,PT,Data Engineer,L,US,100,DE,134333.33333333334
+MI,PT,Data Engineer,L,DE,0,US,89409.83333333333
+MI,PT,Data Engineer,L,DE,0,DE,56736.92307692308
+MI,PT,Data Engineer,L,DE,50,US,89409.83333333333
+MI,PT,Data Engineer,L,DE,50,DE,56736.92307692308
+MI,PT,Data Engineer,L,DE,100,US,89409.83333333333
+MI,PT,Data Engineer,L,DE,100,DE,44503.833333333336
+MI,PT,Data Analyst,S,US,0,US,79000.0
+MI,PT,Data Analyst,S,US,0,DE,79000.0
+MI,PT,Data Analyst,S,US,50,US,79000.0
+MI,PT,Data Analyst,S,US,50,DE,79000.0
+MI,PT,Data Analyst,S,US,100,US,79000.0
+MI,PT,Data Analyst,S,US,100,DE,79000.0
+MI,PT,Data Analyst,S,DE,0,US,53207.57142857143
+MI,PT,Data Analyst,S,DE,0,DE,53207.57142857143
+MI,PT,Data Analyst,S,DE,50,US,53207.57142857143
+MI,PT,Data Analyst,S,DE,50,DE,53207.57142857143
+MI,PT,Data Analyst,S,DE,100,US,53207.57142857143
+MI,PT,Data Analyst,S,DE,100,DE,53207.57142857143
+MI,PT,Data Analyst,M,US,0,US,107180.0
+MI,PT,Data Analyst,M,US,0,DE,107180.0
+MI,PT,Data Analyst,M,US,50,US,107180.0
+MI,PT,Data Analyst,M,US,50,DE,107180.0
+MI,PT,Data Analyst,M,US,100,US,107180.0
+MI,PT,Data Analyst,M,US,100,DE,107180.0
+MI,PT,Data Analyst,M,DE,0,US,89409.83333333333
+MI,PT,Data Analyst,M,DE,0,DE,56736.92307692308
+MI,PT,Data Analyst,M,DE,50,US,89409.83333333333
+MI,PT,Data Analyst,M,DE,50,DE,56736.92307692308
+MI,PT,Data Analyst,M,DE,100,US,89409.83333333333
+MI,PT,Data Analyst,M,DE,100,DE,55460.833333333336
+MI,PT,Data Analyst,L,US,0,US,79000.0
+MI,PT,Data Analyst,L,US,0,DE,79000.0
+MI,PT,Data Analyst,L,US,50,US,79000.0
+MI,PT,Data Analyst,L,US,50,DE,79000.0
+MI,PT,Data Analyst,L,US,100,US,79000.0
+MI,PT,Data Analyst,L,US,100,DE,79000.0
+MI,PT,Data Analyst,L,DE,0,US,89409.83333333333
+MI,PT,Data Analyst,L,DE,0,DE,56736.92307692308
+MI,PT,Data Analyst,L,DE,50,US,89409.83333333333
+MI,PT,Data Analyst,L,DE,50,DE,56736.92307692308
+MI,PT,Data Analyst,L,DE,100,US,89409.83333333333
+MI,PT,Data Analyst,L,DE,100,DE,44503.833333333336
+MI,PT,Machine Learning Engineer,S,US,0,US,213600.0
+MI,PT,Machine Learning Engineer,S,US,0,DE,213600.0
+MI,PT,Machine Learning Engineer,S,US,50,US,213600.0
+MI,PT,Machine Learning Engineer,S,US,50,DE,213600.0
+MI,PT,Machine Learning Engineer,S,US,100,US,213600.0
+MI,PT,Machine Learning Engineer,S,US,100,DE,213600.0
+MI,PT,Machine Learning Engineer,S,DE,0,US,53207.57142857143
+MI,PT,Machine Learning Engineer,S,DE,0,DE,53207.57142857143
+MI,PT,Machine Learning Engineer,S,DE,50,US,53207.57142857143
+MI,PT,Machine Learning Engineer,S,DE,50,DE,53207.57142857143
+MI,PT,Machine Learning Engineer,S,DE,100,US,53207.57142857143
+MI,PT,Machine Learning Engineer,S,DE,100,DE,53207.57142857143
+MI,PT,Machine Learning Engineer,M,US,0,US,213600.0
+MI,PT,Machine Learning Engineer,M,US,0,DE,213600.0
+MI,PT,Machine Learning Engineer,M,US,50,US,213600.0
+MI,PT,Machine Learning Engineer,M,US,50,DE,213600.0
+MI,PT,Machine Learning Engineer,M,US,100,US,213600.0
+MI,PT,Machine Learning Engineer,M,US,100,DE,213600.0
+MI,PT,Machine Learning Engineer,M,DE,0,US,89409.83333333333
+MI,PT,Machine Learning Engineer,M,DE,0,DE,67500.5
+MI,PT,Machine Learning Engineer,M,DE,50,US,89409.83333333333
+MI,PT,Machine Learning Engineer,M,DE,50,DE,67500.5
+MI,PT,Machine Learning Engineer,M,DE,100,US,89409.83333333333
+MI,PT,Machine Learning Engineer,M,DE,100,DE,67500.5
+MI,PT,Machine Learning Engineer,L,US,0,US,177941.23076923078
+MI,PT,Machine Learning Engineer,L,US,0,DE,177941.23076923078
+MI,PT,Machine Learning Engineer,L,US,50,US,177941.23076923078
+MI,PT,Machine Learning Engineer,L,US,50,DE,177941.23076923078
+MI,PT,Machine Learning Engineer,L,US,100,US,177941.23076923078
+MI,PT,Machine Learning Engineer,L,US,100,DE,177941.23076923078
+MI,PT,Machine Learning Engineer,L,DE,0,US,89409.83333333333
+MI,PT,Machine Learning Engineer,L,DE,0,DE,67500.5
+MI,PT,Machine Learning Engineer,L,DE,50,US,89409.83333333333
+MI,PT,Machine Learning Engineer,L,DE,50,DE,67500.5
+MI,PT,Machine Learning Engineer,L,DE,100,US,89409.83333333333
+MI,PT,Machine Learning Engineer,L,DE,100,DE,67500.5
+MI,PT,Research Scientist,S,US,0,US,213600.0
+MI,PT,Research Scientist,S,US,0,DE,213600.0
+MI,PT,Research Scientist,S,US,50,US,213600.0
+MI,PT,Research Scientist,S,US,50,DE,213600.0
+MI,PT,Research Scientist,S,US,100,US,213600.0
+MI,PT,Research Scientist,S,US,100,DE,213600.0
+MI,PT,Research Scientist,S,DE,0,US,53207.57142857143
+MI,PT,Research Scientist,S,DE,0,DE,53207.57142857143
+MI,PT,Research Scientist,S,DE,50,US,53207.57142857143
+MI,PT,Research Scientist,S,DE,50,DE,53207.57142857143
+MI,PT,Research Scientist,S,DE,100,US,53207.57142857143
+MI,PT,Research Scientist,S,DE,100,DE,53207.57142857143
+MI,PT,Research Scientist,M,US,0,US,213600.0
+MI,PT,Research Scientist,M,US,0,DE,213600.0
+MI,PT,Research Scientist,M,US,50,US,213600.0
+MI,PT,Research Scientist,M,US,50,DE,213600.0
+MI,PT,Research Scientist,M,US,100,US,213600.0
+MI,PT,Research Scientist,M,US,100,DE,213600.0
+MI,PT,Research Scientist,M,DE,0,US,89409.83333333333
+MI,PT,Research Scientist,M,DE,0,DE,56736.92307692308
+MI,PT,Research Scientist,M,DE,50,US,89409.83333333333
+MI,PT,Research Scientist,M,DE,50,DE,56736.92307692308
+MI,PT,Research Scientist,M,DE,100,US,89409.83333333333
+MI,PT,Research Scientist,M,DE,100,DE,55460.833333333336
+MI,PT,Research Scientist,L,US,0,US,177941.23076923078
+MI,PT,Research Scientist,L,US,0,DE,177941.23076923078
+MI,PT,Research Scientist,L,US,50,US,177941.23076923078
+MI,PT,Research Scientist,L,US,50,DE,177941.23076923078
+MI,PT,Research Scientist,L,US,100,US,177941.23076923078
+MI,PT,Research Scientist,L,US,100,DE,177941.23076923078
+MI,PT,Research Scientist,L,DE,0,US,89409.83333333333
+MI,PT,Research Scientist,L,DE,0,DE,56736.92307692308
+MI,PT,Research Scientist,L,DE,50,US,89409.83333333333
+MI,PT,Research Scientist,L,DE,50,DE,56736.92307692308
+MI,PT,Research Scientist,L,DE,100,US,89409.83333333333
+MI,PT,Research Scientist,L,DE,100,DE,44503.833333333336
+MI,FL,Data Scientist,S,US,0,US,116900.0
+MI,FL,Data Scientist,S,US,0,DE,116900.0
+MI,FL,Data Scientist,S,US,50,US,116900.0
+MI,FL,Data Scientist,S,US,50,DE,116900.0
+MI,FL,Data Scientist,S,US,100,US,116900.0
+MI,FL,Data Scientist,S,US,100,DE,116900.0
+MI,FL,Data Scientist,S,DE,0,US,30011.5
+MI,FL,Data Scientist,S,DE,0,DE,30011.5
+MI,FL,Data Scientist,S,DE,50,US,30011.5
+MI,FL,Data Scientist,S,DE,50,DE,30011.5
+MI,FL,Data Scientist,S,DE,100,US,30011.5
+MI,FL,Data Scientist,S,DE,100,DE,30011.5
+MI,FL,Data Scientist,M,US,0,US,127775.0
+MI,FL,Data Scientist,M,US,0,DE,127775.0
+MI,FL,Data Scientist,M,US,50,US,127775.0
+MI,FL,Data Scientist,M,US,50,DE,127775.0
+MI,FL,Data Scientist,M,US,100,US,127775.0
+MI,FL,Data Scientist,M,US,100,DE,127775.0
+MI,FL,Data Scientist,M,DE,0,US,89409.83333333333
+MI,FL,Data Scientist,M,DE,0,DE,71284.6
+MI,FL,Data Scientist,M,DE,50,US,89409.83333333333
+MI,FL,Data Scientist,M,DE,50,DE,71284.6
+MI,FL,Data Scientist,M,DE,100,US,89409.83333333333
+MI,FL,Data Scientist,M,DE,100,DE,55460.833333333336
+MI,FL,Data Scientist,L,US,0,US,116900.0
+MI,FL,Data Scientist,L,US,0,DE,116900.0
+MI,FL,Data Scientist,L,US,50,US,116900.0
+MI,FL,Data Scientist,L,US,50,DE,116900.0
+MI,FL,Data Scientist,L,US,100,US,116900.0
+MI,FL,Data Scientist,L,US,100,DE,116900.0
+MI,FL,Data Scientist,L,DE,0,US,89409.83333333333
+MI,FL,Data Scientist,L,DE,0,DE,71284.6
+MI,FL,Data Scientist,L,DE,50,US,89409.83333333333
+MI,FL,Data Scientist,L,DE,50,DE,71284.6
+MI,FL,Data Scientist,L,DE,100,US,89409.83333333333
+MI,FL,Data Scientist,L,DE,100,DE,44503.833333333336
+MI,FL,Data Engineer,S,US,0,US,118401.15384615384
+MI,FL,Data Engineer,S,US,0,DE,118401.15384615384
+MI,FL,Data Engineer,S,US,50,US,118401.15384615384
+MI,FL,Data Engineer,S,US,50,DE,118401.15384615384
+MI,FL,Data Engineer,S,US,100,US,142502.34375
+MI,FL,Data Engineer,S,US,100,DE,142502.34375
+MI,FL,Data Engineer,S,DE,0,US,53207.57142857143
+MI,FL,Data Engineer,S,DE,0,DE,53207.57142857143
+MI,FL,Data Engineer,S,DE,50,US,53207.57142857143
+MI,FL,Data Engineer,S,DE,50,DE,53207.57142857143
+MI,FL,Data Engineer,S,DE,100,US,53207.57142857143
+MI,FL,Data Engineer,S,DE,100,DE,53207.57142857143
+MI,FL,Data Engineer,M,US,0,US,118401.15384615384
+MI,FL,Data Engineer,M,US,0,DE,118401.15384615384
+MI,FL,Data Engineer,M,US,50,US,118401.15384615384
+MI,FL,Data Engineer,M,US,50,DE,118401.15384615384
+MI,FL,Data Engineer,M,US,100,US,142502.34375
+MI,FL,Data Engineer,M,US,100,DE,142502.34375
+MI,FL,Data Engineer,M,DE,0,US,89409.83333333333
+MI,FL,Data Engineer,M,DE,0,DE,56736.92307692308
+MI,FL,Data Engineer,M,DE,50,US,89409.83333333333
+MI,FL,Data Engineer,M,DE,50,DE,56736.92307692308
+MI,FL,Data Engineer,M,DE,100,US,89409.83333333333
+MI,FL,Data Engineer,M,DE,100,DE,61752.333333333336
+MI,FL,Data Engineer,L,US,0,US,118401.15384615384
+MI,FL,Data Engineer,L,US,0,DE,118401.15384615384
+MI,FL,Data Engineer,L,US,50,US,118401.15384615384
+MI,FL,Data Engineer,L,US,50,DE,118401.15384615384
+MI,FL,Data Engineer,L,US,100,US,134333.33333333334
+MI,FL,Data Engineer,L,US,100,DE,134333.33333333334
+MI,FL,Data Engineer,L,DE,0,US,89409.83333333333
+MI,FL,Data Engineer,L,DE,0,DE,56736.92307692308
+MI,FL,Data Engineer,L,DE,50,US,89409.83333333333
+MI,FL,Data Engineer,L,DE,50,DE,56736.92307692308
+MI,FL,Data Engineer,L,DE,100,US,89409.83333333333
+MI,FL,Data Engineer,L,DE,100,DE,44503.833333333336
+MI,FL,Data Analyst,S,US,0,US,79000.0
+MI,FL,Data Analyst,S,US,0,DE,79000.0
+MI,FL,Data Analyst,S,US,50,US,79000.0
+MI,FL,Data Analyst,S,US,50,DE,79000.0
+MI,FL,Data Analyst,S,US,100,US,79000.0
+MI,FL,Data Analyst,S,US,100,DE,79000.0
+MI,FL,Data Analyst,S,DE,0,US,53207.57142857143
+MI,FL,Data Analyst,S,DE,0,DE,53207.57142857143
+MI,FL,Data Analyst,S,DE,50,US,53207.57142857143
+MI,FL,Data Analyst,S,DE,50,DE,53207.57142857143
+MI,FL,Data Analyst,S,DE,100,US,53207.57142857143
+MI,FL,Data Analyst,S,DE,100,DE,53207.57142857143
+MI,FL,Data Analyst,M,US,0,US,107180.0
+MI,FL,Data Analyst,M,US,0,DE,107180.0
+MI,FL,Data Analyst,M,US,50,US,107180.0
+MI,FL,Data Analyst,M,US,50,DE,107180.0
+MI,FL,Data Analyst,M,US,100,US,107180.0
+MI,FL,Data Analyst,M,US,100,DE,107180.0
+MI,FL,Data Analyst,M,DE,0,US,89409.83333333333
+MI,FL,Data Analyst,M,DE,0,DE,56736.92307692308
+MI,FL,Data Analyst,M,DE,50,US,89409.83333333333
+MI,FL,Data Analyst,M,DE,50,DE,56736.92307692308
+MI,FL,Data Analyst,M,DE,100,US,89409.83333333333
+MI,FL,Data Analyst,M,DE,100,DE,55460.833333333336
+MI,FL,Data Analyst,L,US,0,US,79000.0
+MI,FL,Data Analyst,L,US,0,DE,79000.0
+MI,FL,Data Analyst,L,US,50,US,79000.0
+MI,FL,Data Analyst,L,US,50,DE,79000.0
+MI,FL,Data Analyst,L,US,100,US,79000.0
+MI,FL,Data Analyst,L,US,100,DE,79000.0
+MI,FL,Data Analyst,L,DE,0,US,89409.83333333333
+MI,FL,Data Analyst,L,DE,0,DE,56736.92307692308
+MI,FL,Data Analyst,L,DE,50,US,89409.83333333333
+MI,FL,Data Analyst,L,DE,50,DE,56736.92307692308
+MI,FL,Data Analyst,L,DE,100,US,89409.83333333333
+MI,FL,Data Analyst,L,DE,100,DE,44503.833333333336
+MI,FL,Machine Learning Engineer,S,US,0,US,213600.0
+MI,FL,Machine Learning Engineer,S,US,0,DE,213600.0
+MI,FL,Machine Learning Engineer,S,US,50,US,213600.0
+MI,FL,Machine Learning Engineer,S,US,50,DE,213600.0
+MI,FL,Machine Learning Engineer,S,US,100,US,213600.0
+MI,FL,Machine Learning Engineer,S,US,100,DE,213600.0
+MI,FL,Machine Learning Engineer,S,DE,0,US,53207.57142857143
+MI,FL,Machine Learning Engineer,S,DE,0,DE,53207.57142857143
+MI,FL,Machine Learning Engineer,S,DE,50,US,53207.57142857143
+MI,FL,Machine Learning Engineer,S,DE,50,DE,53207.57142857143
+MI,FL,Machine Learning Engineer,S,DE,100,US,53207.57142857143
+MI,FL,Machine Learning Engineer,S,DE,100,DE,53207.57142857143
+MI,FL,Machine Learning Engineer,M,US,0,US,213600.0
+MI,FL,Machine Learning Engineer,M,US,0,DE,213600.0
+MI,FL,Machine Learning Engineer,M,US,50,US,213600.0
+MI,FL,Machine Learning Engineer,M,US,50,DE,213600.0
+MI,FL,Machine Learning Engineer,M,US,100,US,213600.0
+MI,FL,Machine Learning Engineer,M,US,100,DE,213600.0
+MI,FL,Machine Learning Engineer,M,DE,0,US,89409.83333333333
+MI,FL,Machine Learning Engineer,M,DE,0,DE,67500.5
+MI,FL,Machine Learning Engineer,M,DE,50,US,89409.83333333333
+MI,FL,Machine Learning Engineer,M,DE,50,DE,67500.5
+MI,FL,Machine Learning Engineer,M,DE,100,US,89409.83333333333
+MI,FL,Machine Learning Engineer,M,DE,100,DE,67500.5
+MI,FL,Machine Learning Engineer,L,US,0,US,177941.23076923078
+MI,FL,Machine Learning Engineer,L,US,0,DE,177941.23076923078
+MI,FL,Machine Learning Engineer,L,US,50,US,177941.23076923078
+MI,FL,Machine Learning Engineer,L,US,50,DE,177941.23076923078
+MI,FL,Machine Learning Engineer,L,US,100,US,177941.23076923078
+MI,FL,Machine Learning Engineer,L,US,100,DE,177941.23076923078
+MI,FL,Machine Learning Engineer,L,DE,0,US,89409.83333333333
+MI,FL,Machine Learning Engineer,L,DE,0,DE,67500.5
+MI,FL,Machine Learning Engineer,L,DE,50,US,89409.83333333333
+MI,FL,Machine Learning Engineer,L,DE,50,DE,67500.5
+MI,FL,Machine Learning Engineer,L,DE,100,US,89409.83333333333
+MI,FL,Machine Learning Engineer,L,DE,100,DE,67500.5
+MI,FL,Research Scientist,S,US,0,US,213600.0
+MI,FL,Research Scientist,S,US,0,DE,213600.0
+MI,FL,Research Scientist,S,US,50,US,213600.0
+MI,FL,Research Scientist,S,US,50,DE,213600.0
+MI,FL,Research Scientist,S,US,100,US,213600.0
+MI,FL,Research Scientist,S,US,100,DE,213600.0
+MI,FL,Research Scientist,S,DE,0,US,53207.57142857143
+MI,FL,Research Scientist,S,DE,0,DE,53207.57142857143
+MI,FL,Research Scientist,S,DE,50,US,53207.57142857143
+MI,FL,Research Scientist,S,DE,50,DE,53207.57142857143
+MI,FL,Research Scientist,S,DE,100,US,53207.57142857143
+MI,FL,Research Scientist,S,DE,100,DE,53207.57142857143
+MI,FL,Research Scientist,M,US,0,US,213600.0
+MI,FL,Research Scientist,M,US,0,DE,213600.0
+MI,FL,Research Scientist,M,US,50,US,213600.0
+MI,FL,Research Scientist,M,US,50,DE,213600.0
+MI,FL,Research Scientist,M,US,100,US,213600.0
+MI,FL,Research Scientist,M,US,100,DE,213600.0
+MI,FL,Research Scientist,M,DE,0,US,89409.83333333333
+MI,FL,Research Scientist,M,DE,0,DE,56736.92307692308
+MI,FL,Research Scientist,M,DE,50,US,89409.83333333333
+MI,FL,Research Scientist,M,DE,50,DE,56736.92307692308
+MI,FL,Research Scientist,M,DE,100,US,89409.83333333333
+MI,FL,Research Scientist,M,DE,100,DE,55460.833333333336
+MI,FL,Research Scientist,L,US,0,US,177941.23076923078
+MI,FL,Research Scientist,L,US,0,DE,177941.23076923078
+MI,FL,Research Scientist,L,US,50,US,177941.23076923078
+MI,FL,Research Scientist,L,US,50,DE,177941.23076923078
+MI,FL,Research Scientist,L,US,100,US,177941.23076923078
+MI,FL,Research Scientist,L,US,100,DE,177941.23076923078
+MI,FL,Research Scientist,L,DE,0,US,89409.83333333333
+MI,FL,Research Scientist,L,DE,0,DE,56736.92307692308
+MI,FL,Research Scientist,L,DE,50,US,89409.83333333333
+MI,FL,Research Scientist,L,DE,50,DE,56736.92307692308
+MI,FL,Research Scientist,L,DE,100,US,89409.83333333333
+MI,FL,Research Scientist,L,DE,100,DE,44503.833333333336
+MI,CT,Data Scientist,S,US,0,US,116900.0
+MI,CT,Data Scientist,S,US,0,DE,116900.0
+MI,CT,Data Scientist,S,US,50,US,116900.0
+MI,CT,Data Scientist,S,US,50,DE,116900.0
+MI,CT,Data Scientist,S,US,100,US,116900.0
+MI,CT,Data Scientist,S,US,100,DE,116900.0
+MI,CT,Data Scientist,S,DE,0,US,30011.5
+MI,CT,Data Scientist,S,DE,0,DE,30011.5
+MI,CT,Data Scientist,S,DE,50,US,30011.5
+MI,CT,Data Scientist,S,DE,50,DE,30011.5
+MI,CT,Data Scientist,S,DE,100,US,30011.5
+MI,CT,Data Scientist,S,DE,100,DE,30011.5
+MI,CT,Data Scientist,M,US,0,US,127775.0
+MI,CT,Data Scientist,M,US,0,DE,127775.0
+MI,CT,Data Scientist,M,US,50,US,127775.0
+MI,CT,Data Scientist,M,US,50,DE,127775.0
+MI,CT,Data Scientist,M,US,100,US,127775.0
+MI,CT,Data Scientist,M,US,100,DE,127775.0
+MI,CT,Data Scientist,M,DE,0,US,89409.83333333333
+MI,CT,Data Scientist,M,DE,0,DE,71284.6
+MI,CT,Data Scientist,M,DE,50,US,89409.83333333333
+MI,CT,Data Scientist,M,DE,50,DE,71284.6
+MI,CT,Data Scientist,M,DE,100,US,89409.83333333333
+MI,CT,Data Scientist,M,DE,100,DE,55460.833333333336
+MI,CT,Data Scientist,L,US,0,US,116900.0
+MI,CT,Data Scientist,L,US,0,DE,116900.0
+MI,CT,Data Scientist,L,US,50,US,116900.0
+MI,CT,Data Scientist,L,US,50,DE,116900.0
+MI,CT,Data Scientist,L,US,100,US,116900.0
+MI,CT,Data Scientist,L,US,100,DE,116900.0
+MI,CT,Data Scientist,L,DE,0,US,89409.83333333333
+MI,CT,Data Scientist,L,DE,0,DE,71284.6
+MI,CT,Data Scientist,L,DE,50,US,89409.83333333333
+MI,CT,Data Scientist,L,DE,50,DE,71284.6
+MI,CT,Data Scientist,L,DE,100,US,89409.83333333333
+MI,CT,Data Scientist,L,DE,100,DE,44503.833333333336
+MI,CT,Data Engineer,S,US,0,US,118401.15384615384
+MI,CT,Data Engineer,S,US,0,DE,118401.15384615384
+MI,CT,Data Engineer,S,US,50,US,118401.15384615384
+MI,CT,Data Engineer,S,US,50,DE,118401.15384615384
+MI,CT,Data Engineer,S,US,100,US,142502.34375
+MI,CT,Data Engineer,S,US,100,DE,142502.34375
+MI,CT,Data Engineer,S,DE,0,US,53207.57142857143
+MI,CT,Data Engineer,S,DE,0,DE,53207.57142857143
+MI,CT,Data Engineer,S,DE,50,US,53207.57142857143
+MI,CT,Data Engineer,S,DE,50,DE,53207.57142857143
+MI,CT,Data Engineer,S,DE,100,US,53207.57142857143
+MI,CT,Data Engineer,S,DE,100,DE,53207.57142857143
+MI,CT,Data Engineer,M,US,0,US,118401.15384615384
+MI,CT,Data Engineer,M,US,0,DE,118401.15384615384
+MI,CT,Data Engineer,M,US,50,US,118401.15384615384
+MI,CT,Data Engineer,M,US,50,DE,118401.15384615384
+MI,CT,Data Engineer,M,US,100,US,142502.34375
+MI,CT,Data Engineer,M,US,100,DE,142502.34375
+MI,CT,Data Engineer,M,DE,0,US,89409.83333333333
+MI,CT,Data Engineer,M,DE,0,DE,56736.92307692308
+MI,CT,Data Engineer,M,DE,50,US,89409.83333333333
+MI,CT,Data Engineer,M,DE,50,DE,56736.92307692308
+MI,CT,Data Engineer,M,DE,100,US,89409.83333333333
+MI,CT,Data Engineer,M,DE,100,DE,61752.333333333336
+MI,CT,Data Engineer,L,US,0,US,118401.15384615384
+MI,CT,Data Engineer,L,US,0,DE,118401.15384615384
+MI,CT,Data Engineer,L,US,50,US,118401.15384615384
+MI,CT,Data Engineer,L,US,50,DE,118401.15384615384
+MI,CT,Data Engineer,L,US,100,US,134333.33333333334
+MI,CT,Data Engineer,L,US,100,DE,134333.33333333334
+MI,CT,Data Engineer,L,DE,0,US,89409.83333333333
+MI,CT,Data Engineer,L,DE,0,DE,56736.92307692308
+MI,CT,Data Engineer,L,DE,50,US,89409.83333333333
+MI,CT,Data Engineer,L,DE,50,DE,56736.92307692308
+MI,CT,Data Engineer,L,DE,100,US,89409.83333333333
+MI,CT,Data Engineer,L,DE,100,DE,44503.833333333336
+MI,CT,Data Analyst,S,US,0,US,79000.0
+MI,CT,Data Analyst,S,US,0,DE,79000.0
+MI,CT,Data Analyst,S,US,50,US,79000.0
+MI,CT,Data Analyst,S,US,50,DE,79000.0
+MI,CT,Data Analyst,S,US,100,US,79000.0
+MI,CT,Data Analyst,S,US,100,DE,79000.0
+MI,CT,Data Analyst,S,DE,0,US,53207.57142857143
+MI,CT,Data Analyst,S,DE,0,DE,53207.57142857143
+MI,CT,Data Analyst,S,DE,50,US,53207.57142857143
+MI,CT,Data Analyst,S,DE,50,DE,53207.57142857143
+MI,CT,Data Analyst,S,DE,100,US,53207.57142857143
+MI,CT,Data Analyst,S,DE,100,DE,53207.57142857143
+MI,CT,Data Analyst,M,US,0,US,107180.0
+MI,CT,Data Analyst,M,US,0,DE,107180.0
+MI,CT,Data Analyst,M,US,50,US,107180.0
+MI,CT,Data Analyst,M,US,50,DE,107180.0
+MI,CT,Data Analyst,M,US,100,US,107180.0
+MI,CT,Data Analyst,M,US,100,DE,107180.0
+MI,CT,Data Analyst,M,DE,0,US,89409.83333333333
+MI,CT,Data Analyst,M,DE,0,DE,56736.92307692308
+MI,CT,Data Analyst,M,DE,50,US,89409.83333333333
+MI,CT,Data Analyst,M,DE,50,DE,56736.92307692308
+MI,CT,Data Analyst,M,DE,100,US,89409.83333333333
+MI,CT,Data Analyst,M,DE,100,DE,55460.833333333336
+MI,CT,Data Analyst,L,US,0,US,79000.0
+MI,CT,Data Analyst,L,US,0,DE,79000.0
+MI,CT,Data Analyst,L,US,50,US,79000.0
+MI,CT,Data Analyst,L,US,50,DE,79000.0
+MI,CT,Data Analyst,L,US,100,US,79000.0
+MI,CT,Data Analyst,L,US,100,DE,79000.0
+MI,CT,Data Analyst,L,DE,0,US,89409.83333333333
+MI,CT,Data Analyst,L,DE,0,DE,56736.92307692308
+MI,CT,Data Analyst,L,DE,50,US,89409.83333333333
+MI,CT,Data Analyst,L,DE,50,DE,56736.92307692308
+MI,CT,Data Analyst,L,DE,100,US,89409.83333333333
+MI,CT,Data Analyst,L,DE,100,DE,44503.833333333336
+MI,CT,Machine Learning Engineer,S,US,0,US,213600.0
+MI,CT,Machine Learning Engineer,S,US,0,DE,213600.0
+MI,CT,Machine Learning Engineer,S,US,50,US,213600.0
+MI,CT,Machine Learning Engineer,S,US,50,DE,213600.0
+MI,CT,Machine Learning Engineer,S,US,100,US,213600.0
+MI,CT,Machine Learning Engineer,S,US,100,DE,213600.0
+MI,CT,Machine Learning Engineer,S,DE,0,US,53207.57142857143
+MI,CT,Machine Learning Engineer,S,DE,0,DE,53207.57142857143
+MI,CT,Machine Learning Engineer,S,DE,50,US,53207.57142857143
+MI,CT,Machine Learning Engineer,S,DE,50,DE,53207.57142857143
+MI,CT,Machine Learning Engineer,S,DE,100,US,53207.57142857143
+MI,CT,Machine Learning Engineer,S,DE,100,DE,53207.57142857143
+MI,CT,Machine Learning Engineer,M,US,0,US,213600.0
+MI,CT,Machine Learning Engineer,M,US,0,DE,213600.0
+MI,CT,Machine Learning Engineer,M,US,50,US,213600.0
+MI,CT,Machine Learning Engineer,M,US,50,DE,213600.0
+MI,CT,Machine Learning Engineer,M,US,100,US,213600.0
+MI,CT,Machine Learning Engineer,M,US,100,DE,213600.0
+MI,CT,Machine Learning Engineer,M,DE,0,US,89409.83333333333
+MI,CT,Machine Learning Engineer,M,DE,0,DE,67500.5
+MI,CT,Machine Learning Engineer,M,DE,50,US,89409.83333333333
+MI,CT,Machine Learning Engineer,M,DE,50,DE,67500.5
+MI,CT,Machine Learning Engineer,M,DE,100,US,89409.83333333333
+MI,CT,Machine Learning Engineer,M,DE,100,DE,67500.5
+MI,CT,Machine Learning Engineer,L,US,0,US,177941.23076923078
+MI,CT,Machine Learning Engineer,L,US,0,DE,177941.23076923078
+MI,CT,Machine Learning Engineer,L,US,50,US,177941.23076923078
+MI,CT,Machine Learning Engineer,L,US,50,DE,177941.23076923078
+MI,CT,Machine Learning Engineer,L,US,100,US,177941.23076923078
+MI,CT,Machine Learning Engineer,L,US,100,DE,177941.23076923078
+MI,CT,Machine Learning Engineer,L,DE,0,US,89409.83333333333
+MI,CT,Machine Learning Engineer,L,DE,0,DE,67500.5
+MI,CT,Machine Learning Engineer,L,DE,50,US,89409.83333333333
+MI,CT,Machine Learning Engineer,L,DE,50,DE,67500.5
+MI,CT,Machine Learning Engineer,L,DE,100,US,89409.83333333333
+MI,CT,Machine Learning Engineer,L,DE,100,DE,67500.5
+MI,CT,Research Scientist,S,US,0,US,213600.0
+MI,CT,Research Scientist,S,US,0,DE,213600.0
+MI,CT,Research Scientist,S,US,50,US,213600.0
+MI,CT,Research Scientist,S,US,50,DE,213600.0
+MI,CT,Research Scientist,S,US,100,US,213600.0
+MI,CT,Research Scientist,S,US,100,DE,213600.0
+MI,CT,Research Scientist,S,DE,0,US,53207.57142857143
+MI,CT,Research Scientist,S,DE,0,DE,53207.57142857143
+MI,CT,Research Scientist,S,DE,50,US,53207.57142857143
+MI,CT,Research Scientist,S,DE,50,DE,53207.57142857143
+MI,CT,Research Scientist,S,DE,100,US,53207.57142857143
+MI,CT,Research Scientist,S,DE,100,DE,53207.57142857143
+MI,CT,Research Scientist,M,US,0,US,213600.0
+MI,CT,Research Scientist,M,US,0,DE,213600.0
+MI,CT,Research Scientist,M,US,50,US,213600.0
+MI,CT,Research Scientist,M,US,50,DE,213600.0
+MI,CT,Research Scientist,M,US,100,US,213600.0
+MI,CT,Research Scientist,M,US,100,DE,213600.0
+MI,CT,Research Scientist,M,DE,0,US,89409.83333333333
+MI,CT,Research Scientist,M,DE,0,DE,56736.92307692308
+MI,CT,Research Scientist,M,DE,50,US,89409.83333333333
+MI,CT,Research Scientist,M,DE,50,DE,56736.92307692308
+MI,CT,Research Scientist,M,DE,100,US,89409.83333333333
+MI,CT,Research Scientist,M,DE,100,DE,55460.833333333336
+MI,CT,Research Scientist,L,US,0,US,177941.23076923078
+MI,CT,Research Scientist,L,US,0,DE,177941.23076923078
+MI,CT,Research Scientist,L,US,50,US,177941.23076923078
+MI,CT,Research Scientist,L,US,50,DE,177941.23076923078
+MI,CT,Research Scientist,L,US,100,US,177941.23076923078
+MI,CT,Research Scientist,L,US,100,DE,177941.23076923078
+MI,CT,Research Scientist,L,DE,0,US,89409.83333333333
+MI,CT,Research Scientist,L,DE,0,DE,56736.92307692308
+MI,CT,Research Scientist,L,DE,50,US,89409.83333333333
+MI,CT,Research Scientist,L,DE,50,DE,56736.92307692308
+MI,CT,Research Scientist,L,DE,100,US,89409.83333333333
+MI,CT,Research Scientist,L,DE,100,DE,44503.833333333336
+SE,FT,Data Scientist,S,US,0,US,141875.0
+SE,FT,Data Scientist,S,US,0,DE,141875.0
+SE,FT,Data Scientist,S,US,50,US,141875.0
+SE,FT,Data Scientist,S,US,50,DE,141875.0
+SE,FT,Data Scientist,S,US,100,US,167001.61290322582
+SE,FT,Data Scientist,S,US,100,DE,167001.61290322582
+SE,FT,Data Scientist,S,DE,0,US,116032.22222222222
+SE,FT,Data Scientist,S,DE,0,DE,116032.22222222222
+SE,FT,Data Scientist,S,DE,50,US,116032.22222222222
+SE,FT,Data Scientist,S,DE,50,DE,116032.22222222222
+SE,FT,Data Scientist,S,DE,100,US,83544.5
+SE,FT,Data Scientist,S,DE,100,DE,83544.5
+SE,FT,Data Scientist,M,US,0,US,141875.0
+SE,FT,Data Scientist,M,US,0,DE,141875.0
+SE,FT,Data Scientist,M,US,50,US,141875.0
+SE,FT,Data Scientist,M,US,50,DE,141875.0
+SE,FT,Data Scientist,M,US,100,US,167001.61290322582
+SE,FT,Data Scientist,M,US,100,DE,167001.61290322582
+SE,FT,Data Scientist,M,DE,0,US,116032.22222222222
+SE,FT,Data Scientist,M,DE,0,DE,116032.22222222222
+SE,FT,Data Scientist,M,DE,50,US,116032.22222222222
+SE,FT,Data Scientist,M,DE,50,DE,116032.22222222222
+SE,FT,Data Scientist,M,DE,100,US,132087.2
+SE,FT,Data Scientist,M,DE,100,DE,132087.2
+SE,FT,Data Scientist,L,US,0,US,157050.0
+SE,FT,Data Scientist,L,US,0,DE,157050.0
+SE,FT,Data Scientist,L,US,50,US,157050.0
+SE,FT,Data Scientist,L,US,50,DE,157050.0
+SE,FT,Data Scientist,L,US,100,US,167001.61290322582
+SE,FT,Data Scientist,L,US,100,DE,167001.61290322582
+SE,FT,Data Scientist,L,DE,0,US,66217.125
+SE,FT,Data Scientist,L,DE,0,DE,66217.125
+SE,FT,Data Scientist,L,DE,50,US,66217.125
+SE,FT,Data Scientist,L,DE,50,DE,66217.125
+SE,FT,Data Scientist,L,DE,100,US,74793.4
+SE,FT,Data Scientist,L,DE,100,DE,74793.4
+SE,FT,Data Engineer,S,US,0,US,118401.15384615384
+SE,FT,Data Engineer,S,US,0,DE,118401.15384615384
+SE,FT,Data Engineer,S,US,50,US,118401.15384615384
+SE,FT,Data Engineer,S,US,50,DE,118401.15384615384
+SE,FT,Data Engineer,S,US,100,US,142502.34375
+SE,FT,Data Engineer,S,US,100,DE,142502.34375
+SE,FT,Data Engineer,S,DE,0,US,116032.22222222222
+SE,FT,Data Engineer,S,DE,0,DE,116032.22222222222
+SE,FT,Data Engineer,S,DE,50,US,116032.22222222222
+SE,FT,Data Engineer,S,DE,50,DE,116032.22222222222
+SE,FT,Data Engineer,S,DE,100,US,83544.5
+SE,FT,Data Engineer,S,DE,100,DE,83544.5
+SE,FT,Data Engineer,M,US,0,US,118401.15384615384
+SE,FT,Data Engineer,M,US,0,DE,118401.15384615384
+SE,FT,Data Engineer,M,US,50,US,118401.15384615384
+SE,FT,Data Engineer,M,US,50,DE,118401.15384615384
+SE,FT,Data Engineer,M,US,100,US,142502.34375
+SE,FT,Data Engineer,M,US,100,DE,142502.34375
+SE,FT,Data Engineer,M,DE,0,US,116032.22222222222
+SE,FT,Data Engineer,M,DE,0,DE,116032.22222222222
+SE,FT,Data Engineer,M,DE,50,US,116032.22222222222
+SE,FT,Data Engineer,M,DE,50,DE,116032.22222222222
+SE,FT,Data Engineer,M,DE,100,US,132087.2
+SE,FT,Data Engineer,M,DE,100,DE,132087.2
+SE,FT,Data Engineer,L,US,0,US,118401.15384615384
+SE,FT,Data Engineer,L,US,0,DE,118401.15384615384
+SE,FT,Data Engineer,L,US,50,US,118401.15384615384
+SE,FT,Data Engineer,L,US,50,DE,118401.15384615384
+SE,FT,Data Engineer,L,US,100,US,169366.66666666666
+SE,FT,Data Engineer,L,US,100,DE,169366.66666666666
+SE,FT,Data Engineer,L,DE,0,US,66217.125
+SE,FT,Data Engineer,L,DE,0,DE,66217.125
+SE,FT,Data Engineer,L,DE,50,US,66217.125
+SE,FT,Data Engineer,L,DE,50,DE,66217.125
+SE,FT,Data Engineer,L,DE,100,US,74793.4
+SE,FT,Data Engineer,L,DE,100,DE,74793.4
+SE,FT,Data Analyst,S,US,0,US,117075.0
+SE,FT,Data Analyst,S,US,0,DE,117075.0
+SE,FT,Data Analyst,S,US,50,US,117075.0
+SE,FT,Data Analyst,S,US,50,DE,117075.0
+SE,FT,Data Analyst,S,US,100,US,117066.42857142857
+SE,FT,Data Analyst,S,US,100,DE,117066.42857142857
+SE,FT,Data Analyst,S,DE,0,US,116032.22222222222
+SE,FT,Data Analyst,S,DE,0,DE,116032.22222222222
+SE,FT,Data Analyst,S,DE,50,US,116032.22222222222
+SE,FT,Data Analyst,S,DE,50,DE,116032.22222222222
+SE,FT,Data Analyst,S,DE,100,US,83544.5
+SE,FT,Data Analyst,S,DE,100,DE,83544.5
+SE,FT,Data Analyst,M,US,0,US,117075.0
+SE,FT,Data Analyst,M,US,0,DE,117075.0
+SE,FT,Data Analyst,M,US,50,US,117075.0
+SE,FT,Data Analyst,M,US,50,DE,117075.0
+SE,FT,Data Analyst,M,US,100,US,117066.42857142857
+SE,FT,Data Analyst,M,US,100,DE,117066.42857142857
+SE,FT,Data Analyst,M,DE,0,US,116032.22222222222
+SE,FT,Data Analyst,M,DE,0,DE,116032.22222222222
+SE,FT,Data Analyst,M,DE,50,US,116032.22222222222
+SE,FT,Data Analyst,M,DE,50,DE,116032.22222222222
+SE,FT,Data Analyst,M,DE,100,US,132087.2
+SE,FT,Data Analyst,M,DE,100,DE,132087.2
+SE,FT,Data Analyst,L,US,0,US,117075.0
+SE,FT,Data Analyst,L,US,0,DE,117075.0
+SE,FT,Data Analyst,L,US,50,US,117075.0
+SE,FT,Data Analyst,L,US,50,DE,117075.0
+SE,FT,Data Analyst,L,US,100,US,117066.42857142857
+SE,FT,Data Analyst,L,US,100,DE,117066.42857142857
+SE,FT,Data Analyst,L,DE,0,US,66217.125
+SE,FT,Data Analyst,L,DE,0,DE,66217.125
+SE,FT,Data Analyst,L,DE,50,US,66217.125
+SE,FT,Data Analyst,L,DE,50,DE,66217.125
+SE,FT,Data Analyst,L,DE,100,US,74793.4
+SE,FT,Data Analyst,L,DE,100,DE,74793.4
+SE,FT,Machine Learning Engineer,S,US,0,US,181986.5
+SE,FT,Machine Learning Engineer,S,US,0,DE,181986.5
+SE,FT,Machine Learning Engineer,S,US,50,US,181986.5
+SE,FT,Machine Learning Engineer,S,US,50,DE,181986.5
+SE,FT,Machine Learning Engineer,S,US,100,US,181986.5
+SE,FT,Machine Learning Engineer,S,US,100,DE,181986.5
+SE,FT,Machine Learning Engineer,S,DE,0,US,116032.22222222222
+SE,FT,Machine Learning Engineer,S,DE,0,DE,116032.22222222222
+SE,FT,Machine Learning Engineer,S,DE,50,US,116032.22222222222
+SE,FT,Machine Learning Engineer,S,DE,50,DE,116032.22222222222
+SE,FT,Machine Learning Engineer,S,DE,100,US,83544.5
+SE,FT,Machine Learning Engineer,S,DE,100,DE,83544.5
+SE,FT,Machine Learning Engineer,M,US,0,US,181986.5
+SE,FT,Machine Learning Engineer,M,US,0,DE,181986.5
+SE,FT,Machine Learning Engineer,M,US,50,US,181986.5
+SE,FT,Machine Learning Engineer,M,US,50,DE,181986.5
+SE,FT,Machine Learning Engineer,M,US,100,US,181986.5
+SE,FT,Machine Learning Engineer,M,US,100,DE,181986.5
+SE,FT,Machine Learning Engineer,M,DE,0,US,116032.22222222222
+SE,FT,Machine Learning Engineer,M,DE,0,DE,116032.22222222222
+SE,FT,Machine Learning Engineer,M,DE,50,US,116032.22222222222
+SE,FT,Machine Learning Engineer,M,DE,50,DE,116032.22222222222
+SE,FT,Machine Learning Engineer,M,DE,100,US,132087.2
+SE,FT,Machine Learning Engineer,M,DE,100,DE,132087.2
+SE,FT,Machine Learning Engineer,L,US,0,US,195000.0
+SE,FT,Machine Learning Engineer,L,US,0,DE,195000.0
+SE,FT,Machine Learning Engineer,L,US,50,US,195000.0
+SE,FT,Machine Learning Engineer,L,US,50,DE,195000.0
+SE,FT,Machine Learning Engineer,L,US,100,US,211500.0
+SE,FT,Machine Learning Engineer,L,US,100,DE,211500.0
+SE,FT,Machine Learning Engineer,L,DE,0,US,66217.125
+SE,FT,Machine Learning Engineer,L,DE,0,DE,66217.125
+SE,FT,Machine Learning Engineer,L,DE,50,US,66217.125
+SE,FT,Machine Learning Engineer,L,DE,50,DE,66217.125
+SE,FT,Machine Learning Engineer,L,DE,100,US,74793.4
+SE,FT,Machine Learning Engineer,L,DE,100,DE,74793.4
+SE,FT,Research Scientist,S,US,0,US,157834.07692307694
+SE,FT,Research Scientist,S,US,0,DE,157834.07692307694
+SE,FT,Research Scientist,S,US,50,US,157834.07692307694
+SE,FT,Research Scientist,S,US,50,DE,157834.07692307694
+SE,FT,Research Scientist,S,US,100,US,157834.07692307694
+SE,FT,Research Scientist,S,US,100,DE,157834.07692307694
+SE,FT,Research Scientist,S,DE,0,US,116032.22222222222
+SE,FT,Research Scientist,S,DE,0,DE,116032.22222222222
+SE,FT,Research Scientist,S,DE,50,US,116032.22222222222
+SE,FT,Research Scientist,S,DE,50,DE,116032.22222222222
+SE,FT,Research Scientist,S,DE,100,US,83544.5
+SE,FT,Research Scientist,S,DE,100,DE,83544.5
+SE,FT,Research Scientist,M,US,0,US,157834.07692307694
+SE,FT,Research Scientist,M,US,0,DE,157834.07692307694
+SE,FT,Research Scientist,M,US,50,US,157834.07692307694
+SE,FT,Research Scientist,M,US,50,DE,157834.07692307694
+SE,FT,Research Scientist,M,US,100,US,157834.07692307694
+SE,FT,Research Scientist,M,US,100,DE,157834.07692307694
+SE,FT,Research Scientist,M,DE,0,US,116032.22222222222
+SE,FT,Research Scientist,M,DE,0,DE,116032.22222222222
+SE,FT,Research Scientist,M,DE,50,US,116032.22222222222
+SE,FT,Research Scientist,M,DE,50,DE,116032.22222222222
+SE,FT,Research Scientist,M,DE,100,US,132087.2
+SE,FT,Research Scientist,M,DE,100,DE,132087.2
+SE,FT,Research Scientist,L,US,0,US,195000.0
+SE,FT,Research Scientist,L,US,0,DE,195000.0
+SE,FT,Research Scientist,L,US,50,US,195000.0
+SE,FT,Research Scientist,L,US,50,DE,195000.0
+SE,FT,Research Scientist,L,US,100,US,211500.0
+SE,FT,Research Scientist,L,US,100,DE,211500.0
+SE,FT,Research Scientist,L,DE,0,US,66217.125
+SE,FT,Research Scientist,L,DE,0,DE,66217.125
+SE,FT,Research Scientist,L,DE,50,US,66217.125
+SE,FT,Research Scientist,L,DE,50,DE,66217.125
+SE,FT,Research Scientist,L,DE,100,US,74793.4
+SE,FT,Research Scientist,L,DE,100,DE,74793.4
+SE,PT,Data Scientist,S,US,0,US,141875.0
+SE,PT,Data Scientist,S,US,0,DE,141875.0
+SE,PT,Data Scientist,S,US,50,US,141875.0
+SE,PT,Data Scientist,S,US,50,DE,141875.0
+SE,PT,Data Scientist,S,US,100,US,167001.61290322582
+SE,PT,Data Scientist,S,US,100,DE,167001.61290322582
+SE,PT,Data Scientist,S,DE,0,US,116032.22222222222
+SE,PT,Data Scientist,S,DE,0,DE,116032.22222222222
+SE,PT,Data Scientist,S,DE,50,US,116032.22222222222
+SE,PT,Data Scientist,S,DE,50,DE,116032.22222222222
+SE,PT,Data Scientist,S,DE,100,US,83544.5
+SE,PT,Data Scientist,S,DE,100,DE,83544.5
+SE,PT,Data Scientist,M,US,0,US,141875.0
+SE,PT,Data Scientist,M,US,0,DE,141875.0
+SE,PT,Data Scientist,M,US,50,US,141875.0
+SE,PT,Data Scientist,M,US,50,DE,141875.0
+SE,PT,Data Scientist,M,US,100,US,167001.61290322582
+SE,PT,Data Scientist,M,US,100,DE,167001.61290322582
+SE,PT,Data Scientist,M,DE,0,US,116032.22222222222
+SE,PT,Data Scientist,M,DE,0,DE,116032.22222222222
+SE,PT,Data Scientist,M,DE,50,US,116032.22222222222
+SE,PT,Data Scientist,M,DE,50,DE,116032.22222222222
+SE,PT,Data Scientist,M,DE,100,US,132087.2
+SE,PT,Data Scientist,M,DE,100,DE,132087.2
+SE,PT,Data Scientist,L,US,0,US,157050.0
+SE,PT,Data Scientist,L,US,0,DE,157050.0
+SE,PT,Data Scientist,L,US,50,US,157050.0
+SE,PT,Data Scientist,L,US,50,DE,157050.0
+SE,PT,Data Scientist,L,US,100,US,167001.61290322582
+SE,PT,Data Scientist,L,US,100,DE,167001.61290322582
+SE,PT,Data Scientist,L,DE,0,US,66217.125
+SE,PT,Data Scientist,L,DE,0,DE,66217.125
+SE,PT,Data Scientist,L,DE,50,US,66217.125
+SE,PT,Data Scientist,L,DE,50,DE,66217.125
+SE,PT,Data Scientist,L,DE,100,US,74793.4
+SE,PT,Data Scientist,L,DE,100,DE,74793.4
+SE,PT,Data Engineer,S,US,0,US,118401.15384615384
+SE,PT,Data Engineer,S,US,0,DE,118401.15384615384
+SE,PT,Data Engineer,S,US,50,US,118401.15384615384
+SE,PT,Data Engineer,S,US,50,DE,118401.15384615384
+SE,PT,Data Engineer,S,US,100,US,142502.34375
+SE,PT,Data Engineer,S,US,100,DE,142502.34375
+SE,PT,Data Engineer,S,DE,0,US,116032.22222222222
+SE,PT,Data Engineer,S,DE,0,DE,116032.22222222222
+SE,PT,Data Engineer,S,DE,50,US,116032.22222222222
+SE,PT,Data Engineer,S,DE,50,DE,116032.22222222222
+SE,PT,Data Engineer,S,DE,100,US,83544.5
+SE,PT,Data Engineer,S,DE,100,DE,83544.5
+SE,PT,Data Engineer,M,US,0,US,118401.15384615384
+SE,PT,Data Engineer,M,US,0,DE,118401.15384615384
+SE,PT,Data Engineer,M,US,50,US,118401.15384615384
+SE,PT,Data Engineer,M,US,50,DE,118401.15384615384
+SE,PT,Data Engineer,M,US,100,US,142502.34375
+SE,PT,Data Engineer,M,US,100,DE,142502.34375
+SE,PT,Data Engineer,M,DE,0,US,116032.22222222222
+SE,PT,Data Engineer,M,DE,0,DE,116032.22222222222
+SE,PT,Data Engineer,M,DE,50,US,116032.22222222222
+SE,PT,Data Engineer,M,DE,50,DE,116032.22222222222
+SE,PT,Data Engineer,M,DE,100,US,132087.2
+SE,PT,Data Engineer,M,DE,100,DE,132087.2
+SE,PT,Data Engineer,L,US,0,US,118401.15384615384
+SE,PT,Data Engineer,L,US,0,DE,118401.15384615384
+SE,PT,Data Engineer,L,US,50,US,118401.15384615384
+SE,PT,Data Engineer,L,US,50,DE,118401.15384615384
+SE,PT,Data Engineer,L,US,100,US,169366.66666666666
+SE,PT,Data Engineer,L,US,100,DE,169366.66666666666
+SE,PT,Data Engineer,L,DE,0,US,66217.125
+SE,PT,Data Engineer,L,DE,0,DE,66217.125
+SE,PT,Data Engineer,L,DE,50,US,66217.125
+SE,PT,Data Engineer,L,DE,50,DE,66217.125
+SE,PT,Data Engineer,L,DE,100,US,74793.4
+SE,PT,Data Engineer,L,DE,100,DE,74793.4
+SE,PT,Data Analyst,S,US,0,US,117075.0
+SE,PT,Data Analyst,S,US,0,DE,117075.0
+SE,PT,Data Analyst,S,US,50,US,117075.0
+SE,PT,Data Analyst,S,US,50,DE,117075.0
+SE,PT,Data Analyst,S,US,100,US,117066.42857142857
+SE,PT,Data Analyst,S,US,100,DE,117066.42857142857
+SE,PT,Data Analyst,S,DE,0,US,116032.22222222222
+SE,PT,Data Analyst,S,DE,0,DE,116032.22222222222
+SE,PT,Data Analyst,S,DE,50,US,116032.22222222222
+SE,PT,Data Analyst,S,DE,50,DE,116032.22222222222
+SE,PT,Data Analyst,S,DE,100,US,83544.5
+SE,PT,Data Analyst,S,DE,100,DE,83544.5
+SE,PT,Data Analyst,M,US,0,US,117075.0
+SE,PT,Data Analyst,M,US,0,DE,117075.0
+SE,PT,Data Analyst,M,US,50,US,117075.0
+SE,PT,Data Analyst,M,US,50,DE,117075.0
+SE,PT,Data Analyst,M,US,100,US,117066.42857142857
+SE,PT,Data Analyst,M,US,100,DE,117066.42857142857
+SE,PT,Data Analyst,M,DE,0,US,116032.22222222222
+SE,PT,Data Analyst,M,DE,0,DE,116032.22222222222
+SE,PT,Data Analyst,M,DE,50,US,116032.22222222222
+SE,PT,Data Analyst,M,DE,50,DE,116032.22222222222
+SE,PT,Data Analyst,M,DE,100,US,132087.2
+SE,PT,Data Analyst,M,DE,100,DE,132087.2
+SE,PT,Data Analyst,L,US,0,US,117075.0
+SE,PT,Data Analyst,L,US,0,DE,117075.0
+SE,PT,Data Analyst,L,US,50,US,117075.0
+SE,PT,Data Analyst,L,US,50,DE,117075.0
+SE,PT,Data Analyst,L,US,100,US,117066.42857142857
+SE,PT,Data Analyst,L,US,100,DE,117066.42857142857
+SE,PT,Data Analyst,L,DE,0,US,66217.125
+SE,PT,Data Analyst,L,DE,0,DE,66217.125
+SE,PT,Data Analyst,L,DE,50,US,66217.125
+SE,PT,Data Analyst,L,DE,50,DE,66217.125
+SE,PT,Data Analyst,L,DE,100,US,74793.4
+SE,PT,Data Analyst,L,DE,100,DE,74793.4
+SE,PT,Machine Learning Engineer,S,US,0,US,181986.5
+SE,PT,Machine Learning Engineer,S,US,0,DE,181986.5
+SE,PT,Machine Learning Engineer,S,US,50,US,181986.5
+SE,PT,Machine Learning Engineer,S,US,50,DE,181986.5
+SE,PT,Machine Learning Engineer,S,US,100,US,181986.5
+SE,PT,Machine Learning Engineer,S,US,100,DE,181986.5
+SE,PT,Machine Learning Engineer,S,DE,0,US,116032.22222222222
+SE,PT,Machine Learning Engineer,S,DE,0,DE,116032.22222222222
+SE,PT,Machine Learning Engineer,S,DE,50,US,116032.22222222222
+SE,PT,Machine Learning Engineer,S,DE,50,DE,116032.22222222222
+SE,PT,Machine Learning Engineer,S,DE,100,US,83544.5
+SE,PT,Machine Learning Engineer,S,DE,100,DE,83544.5
+SE,PT,Machine Learning Engineer,M,US,0,US,181986.5
+SE,PT,Machine Learning Engineer,M,US,0,DE,181986.5
+SE,PT,Machine Learning Engineer,M,US,50,US,181986.5
+SE,PT,Machine Learning Engineer,M,US,50,DE,181986.5
+SE,PT,Machine Learning Engineer,M,US,100,US,181986.5
+SE,PT,Machine Learning Engineer,M,US,100,DE,181986.5
+SE,PT,Machine Learning Engineer,M,DE,0,US,116032.22222222222
+SE,PT,Machine Learning Engineer,M,DE,0,DE,116032.22222222222
+SE,PT,Machine Learning Engineer,M,DE,50,US,116032.22222222222
+SE,PT,Machine Learning Engineer,M,DE,50,DE,116032.22222222222
+SE,PT,Machine Learning Engineer,M,DE,100,US,132087.2
+SE,PT,Machine Learning Engineer,M,DE,100,DE,132087.2
+SE,PT,Machine Learning Engineer,L,US,0,US,195000.0
+SE,PT,Machine Learning Engineer,L,US,0,DE,195000.0
+SE,PT,Machine Learning Engineer,L,US,50,US,195000.0
+SE,PT,Machine Learning Engineer,L,US,50,DE,195000.0
+SE,PT,Machine Learning Engineer,L,US,100,US,211500.0
+SE,PT,Machine Learning Engineer,L,US,100,DE,211500.0
+SE,PT,Machine Learning Engineer,L,DE,0,US,66217.125
+SE,PT,Machine Learning Engineer,L,DE,0,DE,66217.125
+SE,PT,Machine Learning Engineer,L,DE,50,US,66217.125
+SE,PT,Machine Learning Engineer,L,DE,50,DE,66217.125
+SE,PT,Machine Learning Engineer,L,DE,100,US,74793.4
+SE,PT,Machine Learning Engineer,L,DE,100,DE,74793.4
+SE,PT,Research Scientist,S,US,0,US,157834.07692307694
+SE,PT,Research Scientist,S,US,0,DE,157834.07692307694
+SE,PT,Research Scientist,S,US,50,US,157834.07692307694
+SE,PT,Research Scientist,S,US,50,DE,157834.07692307694
+SE,PT,Research Scientist,S,US,100,US,157834.07692307694
+SE,PT,Research Scientist,S,US,100,DE,157834.07692307694
+SE,PT,Research Scientist,S,DE,0,US,116032.22222222222
+SE,PT,Research Scientist,S,DE,0,DE,116032.22222222222
+SE,PT,Research Scientist,S,DE,50,US,116032.22222222222
+SE,PT,Research Scientist,S,DE,50,DE,116032.22222222222
+SE,PT,Research Scientist,S,DE,100,US,83544.5
+SE,PT,Research Scientist,S,DE,100,DE,83544.5
+SE,PT,Research Scientist,M,US,0,US,157834.07692307694
+SE,PT,Research Scientist,M,US,0,DE,157834.07692307694
+SE,PT,Research Scientist,M,US,50,US,157834.07692307694
+SE,PT,Research Scientist,M,US,50,DE,157834.07692307694
+SE,PT,Research Scientist,M,US,100,US,157834.07692307694
+SE,PT,Research Scientist,M,US,100,DE,157834.07692307694
+SE,PT,Research Scientist,M,DE,0,US,116032.22222222222
+SE,PT,Research Scientist,M,DE,0,DE,116032.22222222222
+SE,PT,Research Scientist,M,DE,50,US,116032.22222222222
+SE,PT,Research Scientist,M,DE,50,DE,116032.22222222222
+SE,PT,Research Scientist,M,DE,100,US,132087.2
+SE,PT,Research Scientist,M,DE,100,DE,132087.2
+SE,PT,Research Scientist,L,US,0,US,195000.0
+SE,PT,Research Scientist,L,US,0,DE,195000.0
+SE,PT,Research Scientist,L,US,50,US,195000.0
+SE,PT,Research Scientist,L,US,50,DE,195000.0
+SE,PT,Research Scientist,L,US,100,US,211500.0
+SE,PT,Research Scientist,L,US,100,DE,211500.0
+SE,PT,Research Scientist,L,DE,0,US,66217.125
+SE,PT,Research Scientist,L,DE,0,DE,66217.125
+SE,PT,Research Scientist,L,DE,50,US,66217.125
+SE,PT,Research Scientist,L,DE,50,DE,66217.125
+SE,PT,Research Scientist,L,DE,100,US,74793.4
+SE,PT,Research Scientist,L,DE,100,DE,74793.4
+SE,FL,Data Scientist,S,US,0,US,141875.0
+SE,FL,Data Scientist,S,US,0,DE,141875.0
+SE,FL,Data Scientist,S,US,50,US,141875.0
+SE,FL,Data Scientist,S,US,50,DE,141875.0
+SE,FL,Data Scientist,S,US,100,US,167001.61290322582
+SE,FL,Data Scientist,S,US,100,DE,167001.61290322582
+SE,FL,Data Scientist,S,DE,0,US,116032.22222222222
+SE,FL,Data Scientist,S,DE,0,DE,116032.22222222222
+SE,FL,Data Scientist,S,DE,50,US,116032.22222222222
+SE,FL,Data Scientist,S,DE,50,DE,116032.22222222222
+SE,FL,Data Scientist,S,DE,100,US,83544.5
+SE,FL,Data Scientist,S,DE,100,DE,83544.5
+SE,FL,Data Scientist,M,US,0,US,141875.0
+SE,FL,Data Scientist,M,US,0,DE,141875.0
+SE,FL,Data Scientist,M,US,50,US,141875.0
+SE,FL,Data Scientist,M,US,50,DE,141875.0
+SE,FL,Data Scientist,M,US,100,US,167001.61290322582
+SE,FL,Data Scientist,M,US,100,DE,167001.61290322582
+SE,FL,Data Scientist,M,DE,0,US,116032.22222222222
+SE,FL,Data Scientist,M,DE,0,DE,116032.22222222222
+SE,FL,Data Scientist,M,DE,50,US,116032.22222222222
+SE,FL,Data Scientist,M,DE,50,DE,116032.22222222222
+SE,FL,Data Scientist,M,DE,100,US,132087.2
+SE,FL,Data Scientist,M,DE,100,DE,132087.2
+SE,FL,Data Scientist,L,US,0,US,157050.0
+SE,FL,Data Scientist,L,US,0,DE,157050.0
+SE,FL,Data Scientist,L,US,50,US,157050.0
+SE,FL,Data Scientist,L,US,50,DE,157050.0
+SE,FL,Data Scientist,L,US,100,US,167001.61290322582
+SE,FL,Data Scientist,L,US,100,DE,167001.61290322582
+SE,FL,Data Scientist,L,DE,0,US,66217.125
+SE,FL,Data Scientist,L,DE,0,DE,66217.125
+SE,FL,Data Scientist,L,DE,50,US,66217.125
+SE,FL,Data Scientist,L,DE,50,DE,66217.125
+SE,FL,Data Scientist,L,DE,100,US,74793.4
+SE,FL,Data Scientist,L,DE,100,DE,74793.4
+SE,FL,Data Engineer,S,US,0,US,118401.15384615384
+SE,FL,Data Engineer,S,US,0,DE,118401.15384615384
+SE,FL,Data Engineer,S,US,50,US,118401.15384615384
+SE,FL,Data Engineer,S,US,50,DE,118401.15384615384
+SE,FL,Data Engineer,S,US,100,US,142502.34375
+SE,FL,Data Engineer,S,US,100,DE,142502.34375
+SE,FL,Data Engineer,S,DE,0,US,116032.22222222222
+SE,FL,Data Engineer,S,DE,0,DE,116032.22222222222
+SE,FL,Data Engineer,S,DE,50,US,116032.22222222222
+SE,FL,Data Engineer,S,DE,50,DE,116032.22222222222
+SE,FL,Data Engineer,S,DE,100,US,83544.5
+SE,FL,Data Engineer,S,DE,100,DE,83544.5
+SE,FL,Data Engineer,M,US,0,US,118401.15384615384
+SE,FL,Data Engineer,M,US,0,DE,118401.15384615384
+SE,FL,Data Engineer,M,US,50,US,118401.15384615384
+SE,FL,Data Engineer,M,US,50,DE,118401.15384615384
+SE,FL,Data Engineer,M,US,100,US,142502.34375
+SE,FL,Data Engineer,M,US,100,DE,142502.34375
+SE,FL,Data Engineer,M,DE,0,US,116032.22222222222
+SE,FL,Data Engineer,M,DE,0,DE,116032.22222222222
+SE,FL,Data Engineer,M,DE,50,US,116032.22222222222
+SE,FL,Data Engineer,M,DE,50,DE,116032.22222222222
+SE,FL,Data Engineer,M,DE,100,US,132087.2
+SE,FL,Data Engineer,M,DE,100,DE,132087.2
+SE,FL,Data Engineer,L,US,0,US,118401.15384615384
+SE,FL,Data Engineer,L,US,0,DE,118401.15384615384
+SE,FL,Data Engineer,L,US,50,US,118401.15384615384
+SE,FL,Data Engineer,L,US,50,DE,118401.15384615384
+SE,FL,Data Engineer,L,US,100,US,169366.66666666666
+SE,FL,Data Engineer,L,US,100,DE,169366.66666666666
+SE,FL,Data Engineer,L,DE,0,US,66217.125
+SE,FL,Data Engineer,L,DE,0,DE,66217.125
+SE,FL,Data Engineer,L,DE,50,US,66217.125
+SE,FL,Data Engineer,L,DE,50,DE,66217.125
+SE,FL,Data Engineer,L,DE,100,US,74793.4
+SE,FL,Data Engineer,L,DE,100,DE,74793.4
+SE,FL,Data Analyst,S,US,0,US,117075.0
+SE,FL,Data Analyst,S,US,0,DE,117075.0
+SE,FL,Data Analyst,S,US,50,US,117075.0
+SE,FL,Data Analyst,S,US,50,DE,117075.0
+SE,FL,Data Analyst,S,US,100,US,117066.42857142857
+SE,FL,Data Analyst,S,US,100,DE,117066.42857142857
+SE,FL,Data Analyst,S,DE,0,US,116032.22222222222
+SE,FL,Data Analyst,S,DE,0,DE,116032.22222222222
+SE,FL,Data Analyst,S,DE,50,US,116032.22222222222
+SE,FL,Data Analyst,S,DE,50,DE,116032.22222222222
+SE,FL,Data Analyst,S,DE,100,US,83544.5
+SE,FL,Data Analyst,S,DE,100,DE,83544.5
+SE,FL,Data Analyst,M,US,0,US,117075.0
+SE,FL,Data Analyst,M,US,0,DE,117075.0
+SE,FL,Data Analyst,M,US,50,US,117075.0
+SE,FL,Data Analyst,M,US,50,DE,117075.0
+SE,FL,Data Analyst,M,US,100,US,117066.42857142857
+SE,FL,Data Analyst,M,US,100,DE,117066.42857142857
+SE,FL,Data Analyst,M,DE,0,US,116032.22222222222
+SE,FL,Data Analyst,M,DE,0,DE,116032.22222222222
+SE,FL,Data Analyst,M,DE,50,US,116032.22222222222
+SE,FL,Data Analyst,M,DE,50,DE,116032.22222222222
+SE,FL,Data Analyst,M,DE,100,US,132087.2
+SE,FL,Data Analyst,M,DE,100,DE,132087.2
+SE,FL,Data Analyst,L,US,0,US,117075.0
+SE,FL,Data Analyst,L,US,0,DE,117075.0
+SE,FL,Data Analyst,L,US,50,US,117075.0
+SE,FL,Data Analyst,L,US,50,DE,117075.0
+SE,FL,Data Analyst,L,US,100,US,117066.42857142857
+SE,FL,Data Analyst,L,US,100,DE,117066.42857142857
+SE,FL,Data Analyst,L,DE,0,US,66217.125
+SE,FL,Data Analyst,L,DE,0,DE,66217.125
+SE,FL,Data Analyst,L,DE,50,US,66217.125
+SE,FL,Data Analyst,L,DE,50,DE,66217.125
+SE,FL,Data Analyst,L,DE,100,US,74793.4
+SE,FL,Data Analyst,L,DE,100,DE,74793.4
+SE,FL,Machine Learning Engineer,S,US,0,US,181986.5
+SE,FL,Machine Learning Engineer,S,US,0,DE,181986.5
+SE,FL,Machine Learning Engineer,S,US,50,US,181986.5
+SE,FL,Machine Learning Engineer,S,US,50,DE,181986.5
+SE,FL,Machine Learning Engineer,S,US,100,US,181986.5
+SE,FL,Machine Learning Engineer,S,US,100,DE,181986.5
+SE,FL,Machine Learning Engineer,S,DE,0,US,116032.22222222222
+SE,FL,Machine Learning Engineer,S,DE,0,DE,116032.22222222222
+SE,FL,Machine Learning Engineer,S,DE,50,US,116032.22222222222
+SE,FL,Machine Learning Engineer,S,DE,50,DE,116032.22222222222
+SE,FL,Machine Learning Engineer,S,DE,100,US,83544.5
+SE,FL,Machine Learning Engineer,S,DE,100,DE,83544.5
+SE,FL,Machine Learning Engineer,M,US,0,US,181986.5
+SE,FL,Machine Learning Engineer,M,US,0,DE,181986.5
+SE,FL,Machine Learning Engineer,M,US,50,US,181986.5
+SE,FL,Machine Learning Engineer,M,US,50,DE,181986.5
+SE,FL,Machine Learning Engineer,M,US,100,US,181986.5
+SE,FL,Machine Learning Engineer,M,US,100,DE,181986.5
+SE,FL,Machine Learning Engineer,M,DE,0,US,116032.22222222222
+SE,FL,Machine Learning Engineer,M,DE,0,DE,116032.22222222222
+SE,FL,Machine Learning Engineer,M,DE,50,US,116032.22222222222
+SE,FL,Machine Learning Engineer,M,DE,50,DE,116032.22222222222
+SE,FL,Machine Learning Engineer,M,DE,100,US,132087.2
+SE,FL,Machine Learning Engineer,M,DE,100,DE,132087.2
+SE,FL,Machine Learning Engineer,L,US,0,US,195000.0
+SE,FL,Machine Learning Engineer,L,US,0,DE,195000.0
+SE,FL,Machine Learning Engineer,L,US,50,US,195000.0
+SE,FL,Machine Learning Engineer,L,US,50,DE,195000.0
+SE,FL,Machine Learning Engineer,L,US,100,US,211500.0
+SE,FL,Machine Learning Engineer,L,US,100,DE,211500.0
+SE,FL,Machine Learning Engineer,L,DE,0,US,66217.125
+SE,FL,Machine Learning Engineer,L,DE,0,DE,66217.125
+SE,FL,Machine Learning Engineer,L,DE,50,US,66217.125
+SE,FL,Machine Learning Engineer,L,DE,50,DE,66217.125
+SE,FL,Machine Learning Engineer,L,DE,100,US,74793.4
+SE,FL,Machine Learning Engineer,L,DE,100,DE,74793.4
+SE,FL,Research Scientist,S,US,0,US,157834.07692307694
+SE,FL,Research Scientist,S,US,0,DE,157834.07692307694
+SE,FL,Research Scientist,S,US,50,US,157834.07692307694
+SE,FL,Research Scientist,S,US,50,DE,157834.07692307694
+SE,FL,Research Scientist,S,US,100,US,157834.07692307694
+SE,FL,Research Scientist,S,US,100,DE,157834.07692307694
+SE,FL,Research Scientist,S,DE,0,US,116032.22222222222
+SE,FL,Research Scientist,S,DE,0,DE,116032.22222222222
+SE,FL,Research Scientist,S,DE,50,US,116032.22222222222
+SE,FL,Research Scientist,S,DE,50,DE,116032.22222222222
+SE,FL,Research Scientist,S,DE,100,US,83544.5
+SE,FL,Research Scientist,S,DE,100,DE,83544.5
+SE,FL,Research Scientist,M,US,0,US,157834.07692307694
+SE,FL,Research Scientist,M,US,0,DE,157834.07692307694
+SE,FL,Research Scientist,M,US,50,US,157834.07692307694
+SE,FL,Research Scientist,M,US,50,DE,157834.07692307694
+SE,FL,Research Scientist,M,US,100,US,157834.07692307694
+SE,FL,Research Scientist,M,US,100,DE,157834.07692307694
+SE,FL,Research Scientist,M,DE,0,US,116032.22222222222
+SE,FL,Research Scientist,M,DE,0,DE,116032.22222222222
+SE,FL,Research Scientist,M,DE,50,US,116032.22222222222
+SE,FL,Research Scientist,M,DE,50,DE,116032.22222222222
+SE,FL,Research Scientist,M,DE,100,US,132087.2
+SE,FL,Research Scientist,M,DE,100,DE,132087.2
+SE,FL,Research Scientist,L,US,0,US,195000.0
+SE,FL,Research Scientist,L,US,0,DE,195000.0
+SE,FL,Research Scientist,L,US,50,US,195000.0
+SE,FL,Research Scientist,L,US,50,DE,195000.0
+SE,FL,Research Scientist,L,US,100,US,211500.0
+SE,FL,Research Scientist,L,US,100,DE,211500.0
+SE,FL,Research Scientist,L,DE,0,US,66217.125
+SE,FL,Research Scientist,L,DE,0,DE,66217.125
+SE,FL,Research Scientist,L,DE,50,US,66217.125
+SE,FL,Research Scientist,L,DE,50,DE,66217.125
+SE,FL,Research Scientist,L,DE,100,US,74793.4
+SE,FL,Research Scientist,L,DE,100,DE,74793.4
+SE,CT,Data Scientist,S,US,0,US,141875.0
+SE,CT,Data Scientist,S,US,0,DE,141875.0
+SE,CT,Data Scientist,S,US,50,US,141875.0
+SE,CT,Data Scientist,S,US,50,DE,141875.0
+SE,CT,Data Scientist,S,US,100,US,167001.61290322582
+SE,CT,Data Scientist,S,US,100,DE,167001.61290322582
+SE,CT,Data Scientist,S,DE,0,US,116032.22222222222
+SE,CT,Data Scientist,S,DE,0,DE,116032.22222222222
+SE,CT,Data Scientist,S,DE,50,US,116032.22222222222
+SE,CT,Data Scientist,S,DE,50,DE,116032.22222222222
+SE,CT,Data Scientist,S,DE,100,US,83544.5
+SE,CT,Data Scientist,S,DE,100,DE,83544.5
+SE,CT,Data Scientist,M,US,0,US,141875.0
+SE,CT,Data Scientist,M,US,0,DE,141875.0
+SE,CT,Data Scientist,M,US,50,US,141875.0
+SE,CT,Data Scientist,M,US,50,DE,141875.0
+SE,CT,Data Scientist,M,US,100,US,167001.61290322582
+SE,CT,Data Scientist,M,US,100,DE,167001.61290322582
+SE,CT,Data Scientist,M,DE,0,US,116032.22222222222
+SE,CT,Data Scientist,M,DE,0,DE,116032.22222222222
+SE,CT,Data Scientist,M,DE,50,US,116032.22222222222
+SE,CT,Data Scientist,M,DE,50,DE,116032.22222222222
+SE,CT,Data Scientist,M,DE,100,US,132087.2
+SE,CT,Data Scientist,M,DE,100,DE,132087.2
+SE,CT,Data Scientist,L,US,0,US,157050.0
+SE,CT,Data Scientist,L,US,0,DE,157050.0
+SE,CT,Data Scientist,L,US,50,US,157050.0
+SE,CT,Data Scientist,L,US,50,DE,157050.0
+SE,CT,Data Scientist,L,US,100,US,167001.61290322582
+SE,CT,Data Scientist,L,US,100,DE,167001.61290322582
+SE,CT,Data Scientist,L,DE,0,US,66217.125
+SE,CT,Data Scientist,L,DE,0,DE,66217.125
+SE,CT,Data Scientist,L,DE,50,US,66217.125
+SE,CT,Data Scientist,L,DE,50,DE,66217.125
+SE,CT,Data Scientist,L,DE,100,US,74793.4
+SE,CT,Data Scientist,L,DE,100,DE,74793.4
+SE,CT,Data Engineer,S,US,0,US,118401.15384615384
+SE,CT,Data Engineer,S,US,0,DE,118401.15384615384
+SE,CT,Data Engineer,S,US,50,US,118401.15384615384
+SE,CT,Data Engineer,S,US,50,DE,118401.15384615384
+SE,CT,Data Engineer,S,US,100,US,142502.34375
+SE,CT,Data Engineer,S,US,100,DE,142502.34375
+SE,CT,Data Engineer,S,DE,0,US,116032.22222222222
+SE,CT,Data Engineer,S,DE,0,DE,116032.22222222222
+SE,CT,Data Engineer,S,DE,50,US,116032.22222222222
+SE,CT,Data Engineer,S,DE,50,DE,116032.22222222222
+SE,CT,Data Engineer,S,DE,100,US,83544.5
+SE,CT,Data Engineer,S,DE,100,DE,83544.5
+SE,CT,Data Engineer,M,US,0,US,118401.15384615384
+SE,CT,Data Engineer,M,US,0,DE,118401.15384615384
+SE,CT,Data Engineer,M,US,50,US,118401.15384615384
+SE,CT,Data Engineer,M,US,50,DE,118401.15384615384
+SE,CT,Data Engineer,M,US,100,US,142502.34375
+SE,CT,Data Engineer,M,US,100,DE,142502.34375
+SE,CT,Data Engineer,M,DE,0,US,116032.22222222222
+SE,CT,Data Engineer,M,DE,0,DE,116032.22222222222
+SE,CT,Data Engineer,M,DE,50,US,116032.22222222222
+SE,CT,Data Engineer,M,DE,50,DE,116032.22222222222
+SE,CT,Data Engineer,M,DE,100,US,132087.2
+SE,CT,Data Engineer,M,DE,100,DE,132087.2
+SE,CT,Data Engineer,L,US,0,US,118401.15384615384
+SE,CT,Data Engineer,L,US,0,DE,118401.15384615384
+SE,CT,Data Engineer,L,US,50,US,118401.15384615384
+SE,CT,Data Engineer,L,US,50,DE,118401.15384615384
+SE,CT,Data Engineer,L,US,100,US,169366.66666666666
+SE,CT,Data Engineer,L,US,100,DE,169366.66666666666
+SE,CT,Data Engineer,L,DE,0,US,66217.125
+SE,CT,Data Engineer,L,DE,0,DE,66217.125
+SE,CT,Data Engineer,L,DE,50,US,66217.125
+SE,CT,Data Engineer,L,DE,50,DE,66217.125
+SE,CT,Data Engineer,L,DE,100,US,74793.4
+SE,CT,Data Engineer,L,DE,100,DE,74793.4
+SE,CT,Data Analyst,S,US,0,US,117075.0
+SE,CT,Data Analyst,S,US,0,DE,117075.0
+SE,CT,Data Analyst,S,US,50,US,117075.0
+SE,CT,Data Analyst,S,US,50,DE,117075.0
+SE,CT,Data Analyst,S,US,100,US,117066.42857142857
+SE,CT,Data Analyst,S,US,100,DE,117066.42857142857
+SE,CT,Data Analyst,S,DE,0,US,116032.22222222222
+SE,CT,Data Analyst,S,DE,0,DE,116032.22222222222
+SE,CT,Data Analyst,S,DE,50,US,116032.22222222222
+SE,CT,Data Analyst,S,DE,50,DE,116032.22222222222
+SE,CT,Data Analyst,S,DE,100,US,83544.5
+SE,CT,Data Analyst,S,DE,100,DE,83544.5
+SE,CT,Data Analyst,M,US,0,US,117075.0
+SE,CT,Data Analyst,M,US,0,DE,117075.0
+SE,CT,Data Analyst,M,US,50,US,117075.0
+SE,CT,Data Analyst,M,US,50,DE,117075.0
+SE,CT,Data Analyst,M,US,100,US,117066.42857142857
+SE,CT,Data Analyst,M,US,100,DE,117066.42857142857
+SE,CT,Data Analyst,M,DE,0,US,116032.22222222222
+SE,CT,Data Analyst,M,DE,0,DE,116032.22222222222
+SE,CT,Data Analyst,M,DE,50,US,116032.22222222222
+SE,CT,Data Analyst,M,DE,50,DE,116032.22222222222
+SE,CT,Data Analyst,M,DE,100,US,132087.2
+SE,CT,Data Analyst,M,DE,100,DE,132087.2
+SE,CT,Data Analyst,L,US,0,US,117075.0
+SE,CT,Data Analyst,L,US,0,DE,117075.0
+SE,CT,Data Analyst,L,US,50,US,117075.0
+SE,CT,Data Analyst,L,US,50,DE,117075.0
+SE,CT,Data Analyst,L,US,100,US,117066.42857142857
+SE,CT,Data Analyst,L,US,100,DE,117066.42857142857
+SE,CT,Data Analyst,L,DE,0,US,66217.125
+SE,CT,Data Analyst,L,DE,0,DE,66217.125
+SE,CT,Data Analyst,L,DE,50,US,66217.125
+SE,CT,Data Analyst,L,DE,50,DE,66217.125
+SE,CT,Data Analyst,L,DE,100,US,74793.4
+SE,CT,Data Analyst,L,DE,100,DE,74793.4
+SE,CT,Machine Learning Engineer,S,US,0,US,181986.5
+SE,CT,Machine Learning Engineer,S,US,0,DE,181986.5
+SE,CT,Machine Learning Engineer,S,US,50,US,181986.5
+SE,CT,Machine Learning Engineer,S,US,50,DE,181986.5
+SE,CT,Machine Learning Engineer,S,US,100,US,181986.5
+SE,CT,Machine Learning Engineer,S,US,100,DE,181986.5
+SE,CT,Machine Learning Engineer,S,DE,0,US,116032.22222222222
+SE,CT,Machine Learning Engineer,S,DE,0,DE,116032.22222222222
+SE,CT,Machine Learning Engineer,S,DE,50,US,116032.22222222222
+SE,CT,Machine Learning Engineer,S,DE,50,DE,116032.22222222222
+SE,CT,Machine Learning Engineer,S,DE,100,US,83544.5
+SE,CT,Machine Learning Engineer,S,DE,100,DE,83544.5
+SE,CT,Machine Learning Engineer,M,US,0,US,181986.5
+SE,CT,Machine Learning Engineer,M,US,0,DE,181986.5
+SE,CT,Machine Learning Engineer,M,US,50,US,181986.5
+SE,CT,Machine Learning Engineer,M,US,50,DE,181986.5
+SE,CT,Machine Learning Engineer,M,US,100,US,181986.5
+SE,CT,Machine Learning Engineer,M,US,100,DE,181986.5
+SE,CT,Machine Learning Engineer,M,DE,0,US,116032.22222222222
+SE,CT,Machine Learning Engineer,M,DE,0,DE,116032.22222222222
+SE,CT,Machine Learning Engineer,M,DE,50,US,116032.22222222222
+SE,CT,Machine Learning Engineer,M,DE,50,DE,116032.22222222222
+SE,CT,Machine Learning Engineer,M,DE,100,US,132087.2
+SE,CT,Machine Learning Engineer,M,DE,100,DE,132087.2
+SE,CT,Machine Learning Engineer,L,US,0,US,195000.0
+SE,CT,Machine Learning Engineer,L,US,0,DE,195000.0
+SE,CT,Machine Learning Engineer,L,US,50,US,195000.0
+SE,CT,Machine Learning Engineer,L,US,50,DE,195000.0
+SE,CT,Machine Learning Engineer,L,US,100,US,211500.0
+SE,CT,Machine Learning Engineer,L,US,100,DE,211500.0
+SE,CT,Machine Learning Engineer,L,DE,0,US,66217.125
+SE,CT,Machine Learning Engineer,L,DE,0,DE,66217.125
+SE,CT,Machine Learning Engineer,L,DE,50,US,66217.125
+SE,CT,Machine Learning Engineer,L,DE,50,DE,66217.125
+SE,CT,Machine Learning Engineer,L,DE,100,US,74793.4
+SE,CT,Machine Learning Engineer,L,DE,100,DE,74793.4
+SE,CT,Research Scientist,S,US,0,US,157834.07692307694
+SE,CT,Research Scientist,S,US,0,DE,157834.07692307694
+SE,CT,Research Scientist,S,US,50,US,157834.07692307694
+SE,CT,Research Scientist,S,US,50,DE,157834.07692307694
+SE,CT,Research Scientist,S,US,100,US,157834.07692307694
+SE,CT,Research Scientist,S,US,100,DE,157834.07692307694
+SE,CT,Research Scientist,S,DE,0,US,116032.22222222222
+SE,CT,Research Scientist,S,DE,0,DE,116032.22222222222
+SE,CT,Research Scientist,S,DE,50,US,116032.22222222222
+SE,CT,Research Scientist,S,DE,50,DE,116032.22222222222
+SE,CT,Research Scientist,S,DE,100,US,83544.5
+SE,CT,Research Scientist,S,DE,100,DE,83544.5
+SE,CT,Research Scientist,M,US,0,US,157834.07692307694
+SE,CT,Research Scientist,M,US,0,DE,157834.07692307694
+SE,CT,Research Scientist,M,US,50,US,157834.07692307694
+SE,CT,Research Scientist,M,US,50,DE,157834.07692307694
+SE,CT,Research Scientist,M,US,100,US,157834.07692307694
+SE,CT,Research Scientist,M,US,100,DE,157834.07692307694
+SE,CT,Research Scientist,M,DE,0,US,116032.22222222222
+SE,CT,Research Scientist,M,DE,0,DE,116032.22222222222
+SE,CT,Research Scientist,M,DE,50,US,116032.22222222222
+SE,CT,Research Scientist,M,DE,50,DE,116032.22222222222
+SE,CT,Research Scientist,M,DE,100,US,132087.2
+SE,CT,Research Scientist,M,DE,100,DE,132087.2
+SE,CT,Research Scientist,L,US,0,US,195000.0
+SE,CT,Research Scientist,L,US,0,DE,195000.0
+SE,CT,Research Scientist,L,US,50,US,195000.0
+SE,CT,Research Scientist,L,US,50,DE,195000.0
+SE,CT,Research Scientist,L,US,100,US,211500.0
+SE,CT,Research Scientist,L,US,100,DE,211500.0
+SE,CT,Research Scientist,L,DE,0,US,66217.125
+SE,CT,Research Scientist,L,DE,0,DE,66217.125
+SE,CT,Research Scientist,L,DE,50,US,66217.125
+SE,CT,Research Scientist,L,DE,50,DE,66217.125
+SE,CT,Research Scientist,L,DE,100,US,74793.4
+SE,CT,Research Scientist,L,DE,100,DE,74793.4
+EX,FT,Data Scientist,S,US,0,US,365200.0
+EX,FT,Data Scientist,S,US,0,DE,365200.0
+EX,FT,Data Scientist,S,US,50,US,365200.0
+EX,FT,Data Scientist,S,US,50,DE,365200.0
+EX,FT,Data Scientist,S,US,100,US,365200.0
+EX,FT,Data Scientist,S,US,100,DE,365200.0
+EX,FT,Data Scientist,S,DE,0,US,126941.33333333333
+EX,FT,Data Scientist,S,DE,0,DE,126941.33333333333
+EX,FT,Data Scientist,S,DE,50,US,126941.33333333333
+EX,FT,Data Scientist,S,DE,50,DE,126941.33333333333
+EX,FT,Data Scientist,S,DE,100,US,126941.33333333333
+EX,FT,Data Scientist,S,DE,100,DE,126941.33333333333
+EX,FT,Data Scientist,M,US,0,US,198609.375
+EX,FT,Data Scientist,M,US,0,DE,198609.375
+EX,FT,Data Scientist,M,US,50,US,198609.375
+EX,FT,Data Scientist,M,US,50,DE,198609.375
+EX,FT,Data Scientist,M,US,100,US,198609.375
+EX,FT,Data Scientist,M,US,100,DE,198609.375
+EX,FT,Data Scientist,M,DE,0,US,126941.33333333333
+EX,FT,Data Scientist,M,DE,0,DE,126941.33333333333
+EX,FT,Data Scientist,M,DE,50,US,126941.33333333333
+EX,FT,Data Scientist,M,DE,50,DE,126941.33333333333
+EX,FT,Data Scientist,M,DE,100,US,126941.33333333333
+EX,FT,Data Scientist,M,DE,100,DE,126941.33333333333
+EX,FT,Data Scientist,L,US,0,US,365200.0
+EX,FT,Data Scientist,L,US,0,DE,365200.0
+EX,FT,Data Scientist,L,US,50,US,365200.0
+EX,FT,Data Scientist,L,US,50,DE,365200.0
+EX,FT,Data Scientist,L,US,100,US,365200.0
+EX,FT,Data Scientist,L,US,100,DE,365200.0
+EX,FT,Data Scientist,L,DE,0,US,126941.33333333333
+EX,FT,Data Scientist,L,DE,0,DE,126941.33333333333
+EX,FT,Data Scientist,L,DE,50,US,126941.33333333333
+EX,FT,Data Scientist,L,DE,50,DE,126941.33333333333
+EX,FT,Data Scientist,L,DE,100,US,126941.33333333333
+EX,FT,Data Scientist,L,DE,100,DE,126941.33333333333
+EX,FT,Data Engineer,S,US,0,US,365200.0
+EX,FT,Data Engineer,S,US,0,DE,365200.0
+EX,FT,Data Engineer,S,US,50,US,365200.0
+EX,FT,Data Engineer,S,US,50,DE,365200.0
+EX,FT,Data Engineer,S,US,100,US,365200.0
+EX,FT,Data Engineer,S,US,100,DE,365200.0
+EX,FT,Data Engineer,S,DE,0,US,126941.33333333333
+EX,FT,Data Engineer,S,DE,0,DE,126941.33333333333
+EX,FT,Data Engineer,S,DE,50,US,126941.33333333333
+EX,FT,Data Engineer,S,DE,50,DE,126941.33333333333
+EX,FT,Data Engineer,S,DE,100,US,126941.33333333333
+EX,FT,Data Engineer,S,DE,100,DE,126941.33333333333
+EX,FT,Data Engineer,M,US,0,US,198609.375
+EX,FT,Data Engineer,M,US,0,DE,198609.375
+EX,FT,Data Engineer,M,US,50,US,198609.375
+EX,FT,Data Engineer,M,US,50,DE,198609.375
+EX,FT,Data Engineer,M,US,100,US,198609.375
+EX,FT,Data Engineer,M,US,100,DE,198609.375
+EX,FT,Data Engineer,M,DE,0,US,126941.33333333333
+EX,FT,Data Engineer,M,DE,0,DE,126941.33333333333
+EX,FT,Data Engineer,M,DE,50,US,126941.33333333333
+EX,FT,Data Engineer,M,DE,50,DE,126941.33333333333
+EX,FT,Data Engineer,M,DE,100,US,126941.33333333333
+EX,FT,Data Engineer,M,DE,100,DE,126941.33333333333
+EX,FT,Data Engineer,L,US,0,US,365200.0
+EX,FT,Data Engineer,L,US,0,DE,365200.0
+EX,FT,Data Engineer,L,US,50,US,365200.0
+EX,FT,Data Engineer,L,US,50,DE,365200.0
+EX,FT,Data Engineer,L,US,100,US,365200.0
+EX,FT,Data Engineer,L,US,100,DE,365200.0
+EX,FT,Data Engineer,L,DE,0,US,126941.33333333333
+EX,FT,Data Engineer,L,DE,0,DE,126941.33333333333
+EX,FT,Data Engineer,L,DE,50,US,126941.33333333333
+EX,FT,Data Engineer,L,DE,50,DE,126941.33333333333
+EX,FT,Data Engineer,L,DE,100,US,126941.33333333333
+EX,FT,Data Engineer,L,DE,100,DE,126941.33333333333
+EX,FT,Data Analyst,S,US,0,US,365200.0
+EX,FT,Data Analyst,S,US,0,DE,365200.0
+EX,FT,Data Analyst,S,US,50,US,365200.0
+EX,FT,Data Analyst,S,US,50,DE,365200.0
+EX,FT,Data Analyst,S,US,100,US,365200.0
+EX,FT,Data Analyst,S,US,100,DE,365200.0
+EX,FT,Data Analyst,S,DE,0,US,126941.33333333333
+EX,FT,Data Analyst,S,DE,0,DE,126941.33333333333
+EX,FT,Data Analyst,S,DE,50,US,126941.33333333333
+EX,FT,Data Analyst,S,DE,50,DE,126941.33333333333
+EX,FT,Data Analyst,S,DE,100,US,126941.33333333333
+EX,FT,Data Analyst,S,DE,100,DE,126941.33333333333
+EX,FT,Data Analyst,M,US,0,US,198609.375
+EX,FT,Data Analyst,M,US,0,DE,198609.375
+EX,FT,Data Analyst,M,US,50,US,198609.375
+EX,FT,Data Analyst,M,US,50,DE,198609.375
+EX,FT,Data Analyst,M,US,100,US,198609.375
+EX,FT,Data Analyst,M,US,100,DE,198609.375
+EX,FT,Data Analyst,M,DE,0,US,126941.33333333333
+EX,FT,Data Analyst,M,DE,0,DE,126941.33333333333
+EX,FT,Data Analyst,M,DE,50,US,126941.33333333333
+EX,FT,Data Analyst,M,DE,50,DE,126941.33333333333
+EX,FT,Data Analyst,M,DE,100,US,126941.33333333333
+EX,FT,Data Analyst,M,DE,100,DE,126941.33333333333
+EX,FT,Data Analyst,L,US,0,US,365200.0
+EX,FT,Data Analyst,L,US,0,DE,365200.0
+EX,FT,Data Analyst,L,US,50,US,365200.0
+EX,FT,Data Analyst,L,US,50,DE,365200.0
+EX,FT,Data Analyst,L,US,100,US,365200.0
+EX,FT,Data Analyst,L,US,100,DE,365200.0
+EX,FT,Data Analyst,L,DE,0,US,126941.33333333333
+EX,FT,Data Analyst,L,DE,0,DE,126941.33333333333
+EX,FT,Data Analyst,L,DE,50,US,126941.33333333333
+EX,FT,Data Analyst,L,DE,50,DE,126941.33333333333
+EX,FT,Data Analyst,L,DE,100,US,126941.33333333333
+EX,FT,Data Analyst,L,DE,100,DE,126941.33333333333
+EX,FT,Machine Learning Engineer,S,US,0,US,365200.0
+EX,FT,Machine Learning Engineer,S,US,0,DE,365200.0
+EX,FT,Machine Learning Engineer,S,US,50,US,365200.0
+EX,FT,Machine Learning Engineer,S,US,50,DE,365200.0
+EX,FT,Machine Learning Engineer,S,US,100,US,365200.0
+EX,FT,Machine Learning Engineer,S,US,100,DE,365200.0
+EX,FT,Machine Learning Engineer,S,DE,0,US,126941.33333333333
+EX,FT,Machine Learning Engineer,S,DE,0,DE,126941.33333333333
+EX,FT,Machine Learning Engineer,S,DE,50,US,126941.33333333333
+EX,FT,Machine Learning Engineer,S,DE,50,DE,126941.33333333333
+EX,FT,Machine Learning Engineer,S,DE,100,US,126941.33333333333
+EX,FT,Machine Learning Engineer,S,DE,100,DE,126941.33333333333
+EX,FT,Machine Learning Engineer,M,US,0,US,198609.375
+EX,FT,Machine Learning Engineer,M,US,0,DE,198609.375
+EX,FT,Machine Learning Engineer,M,US,50,US,198609.375
+EX,FT,Machine Learning Engineer,M,US,50,DE,198609.375
+EX,FT,Machine Learning Engineer,M,US,100,US,198609.375
+EX,FT,Machine Learning Engineer,M,US,100,DE,198609.375
+EX,FT,Machine Learning Engineer,M,DE,0,US,126941.33333333333
+EX,FT,Machine Learning Engineer,M,DE,0,DE,126941.33333333333
+EX,FT,Machine Learning Engineer,M,DE,50,US,126941.33333333333
+EX,FT,Machine Learning Engineer,M,DE,50,DE,126941.33333333333
+EX,FT,Machine Learning Engineer,M,DE,100,US,126941.33333333333
+EX,FT,Machine Learning Engineer,M,DE,100,DE,126941.33333333333
+EX,FT,Machine Learning Engineer,L,US,0,US,365200.0
+EX,FT,Machine Learning Engineer,L,US,0,DE,365200.0
+EX,FT,Machine Learning Engineer,L,US,50,US,365200.0
+EX,FT,Machine Learning Engineer,L,US,50,DE,365200.0
+EX,FT,Machine Learning Engineer,L,US,100,US,365200.0
+EX,FT,Machine Learning Engineer,L,US,100,DE,365200.0
+EX,FT,Machine Learning Engineer,L,DE,0,US,126941.33333333333
+EX,FT,Machine Learning Engineer,L,DE,0,DE,126941.33333333333
+EX,FT,Machine Learning Engineer,L,DE,50,US,126941.33333333333
+EX,FT,Machine Learning Engineer,L,DE,50,DE,126941.33333333333
+EX,FT,Machine Learning Engineer,L,DE,100,US,126941.33333333333
+EX,FT,Machine Learning Engineer,L,DE,100,DE,126941.33333333333
+EX,FT,Research Scientist,S,US,0,US,365200.0
+EX,FT,Research Scientist,S,US,0,DE,365200.0
+EX,FT,Research Scientist,S,US,50,US,365200.0
+EX,FT,Research Scientist,S,US,50,DE,365200.0
+EX,FT,Research Scientist,S,US,100,US,365200.0
+EX,FT,Research Scientist,S,US,100,DE,365200.0
+EX,FT,Research Scientist,S,DE,0,US,126941.33333333333
+EX,FT,Research Scientist,S,DE,0,DE,126941.33333333333
+EX,FT,Research Scientist,S,DE,50,US,126941.33333333333
+EX,FT,Research Scientist,S,DE,50,DE,126941.33333333333
+EX,FT,Research Scientist,S,DE,100,US,126941.33333333333
+EX,FT,Research Scientist,S,DE,100,DE,126941.33333333333
+EX,FT,Research Scientist,M,US,0,US,198609.375
+EX,FT,Research Scientist,M,US,0,DE,198609.375
+EX,FT,Research Scientist,M,US,50,US,198609.375
+EX,FT,Research Scientist,M,US,50,DE,198609.375
+EX,FT,Research Scientist,M,US,100,US,198609.375
+EX,FT,Research Scientist,M,US,100,DE,198609.375
+EX,FT,Research Scientist,M,DE,0,US,126941.33333333333
+EX,FT,Research Scientist,M,DE,0,DE,126941.33333333333
+EX,FT,Research Scientist,M,DE,50,US,126941.33333333333
+EX,FT,Research Scientist,M,DE,50,DE,126941.33333333333
+EX,FT,Research Scientist,M,DE,100,US,126941.33333333333
+EX,FT,Research Scientist,M,DE,100,DE,126941.33333333333
+EX,FT,Research Scientist,L,US,0,US,365200.0
+EX,FT,Research Scientist,L,US,0,DE,365200.0
+EX,FT,Research Scientist,L,US,50,US,365200.0
+EX,FT,Research Scientist,L,US,50,DE,365200.0
+EX,FT,Research Scientist,L,US,100,US,365200.0
+EX,FT,Research Scientist,L,US,100,DE,365200.0
+EX,FT,Research Scientist,L,DE,0,US,126941.33333333333
+EX,FT,Research Scientist,L,DE,0,DE,126941.33333333333
+EX,FT,Research Scientist,L,DE,50,US,126941.33333333333
+EX,FT,Research Scientist,L,DE,50,DE,126941.33333333333
+EX,FT,Research Scientist,L,DE,100,US,126941.33333333333
+EX,FT,Research Scientist,L,DE,100,DE,126941.33333333333
+EX,PT,Data Scientist,S,US,0,US,365200.0
+EX,PT,Data Scientist,S,US,0,DE,365200.0
+EX,PT,Data Scientist,S,US,50,US,365200.0
+EX,PT,Data Scientist,S,US,50,DE,365200.0
+EX,PT,Data Scientist,S,US,100,US,365200.0
+EX,PT,Data Scientist,S,US,100,DE,365200.0
+EX,PT,Data Scientist,S,DE,0,US,126941.33333333333
+EX,PT,Data Scientist,S,DE,0,DE,126941.33333333333
+EX,PT,Data Scientist,S,DE,50,US,126941.33333333333
+EX,PT,Data Scientist,S,DE,50,DE,126941.33333333333
+EX,PT,Data Scientist,S,DE,100,US,126941.33333333333
+EX,PT,Data Scientist,S,DE,100,DE,126941.33333333333
+EX,PT,Data Scientist,M,US,0,US,198609.375
+EX,PT,Data Scientist,M,US,0,DE,198609.375
+EX,PT,Data Scientist,M,US,50,US,198609.375
+EX,PT,Data Scientist,M,US,50,DE,198609.375
+EX,PT,Data Scientist,M,US,100,US,198609.375
+EX,PT,Data Scientist,M,US,100,DE,198609.375
+EX,PT,Data Scientist,M,DE,0,US,126941.33333333333
+EX,PT,Data Scientist,M,DE,0,DE,126941.33333333333
+EX,PT,Data Scientist,M,DE,50,US,126941.33333333333
+EX,PT,Data Scientist,M,DE,50,DE,126941.33333333333
+EX,PT,Data Scientist,M,DE,100,US,126941.33333333333
+EX,PT,Data Scientist,M,DE,100,DE,126941.33333333333
+EX,PT,Data Scientist,L,US,0,US,365200.0
+EX,PT,Data Scientist,L,US,0,DE,365200.0
+EX,PT,Data Scientist,L,US,50,US,365200.0
+EX,PT,Data Scientist,L,US,50,DE,365200.0
+EX,PT,Data Scientist,L,US,100,US,365200.0
+EX,PT,Data Scientist,L,US,100,DE,365200.0
+EX,PT,Data Scientist,L,DE,0,US,126941.33333333333
+EX,PT,Data Scientist,L,DE,0,DE,126941.33333333333
+EX,PT,Data Scientist,L,DE,50,US,126941.33333333333
+EX,PT,Data Scientist,L,DE,50,DE,126941.33333333333
+EX,PT,Data Scientist,L,DE,100,US,126941.33333333333
+EX,PT,Data Scientist,L,DE,100,DE,126941.33333333333
+EX,PT,Data Engineer,S,US,0,US,365200.0
+EX,PT,Data Engineer,S,US,0,DE,365200.0
+EX,PT,Data Engineer,S,US,50,US,365200.0
+EX,PT,Data Engineer,S,US,50,DE,365200.0
+EX,PT,Data Engineer,S,US,100,US,365200.0
+EX,PT,Data Engineer,S,US,100,DE,365200.0
+EX,PT,Data Engineer,S,DE,0,US,126941.33333333333
+EX,PT,Data Engineer,S,DE,0,DE,126941.33333333333
+EX,PT,Data Engineer,S,DE,50,US,126941.33333333333
+EX,PT,Data Engineer,S,DE,50,DE,126941.33333333333
+EX,PT,Data Engineer,S,DE,100,US,126941.33333333333
+EX,PT,Data Engineer,S,DE,100,DE,126941.33333333333
+EX,PT,Data Engineer,M,US,0,US,198609.375
+EX,PT,Data Engineer,M,US,0,DE,198609.375
+EX,PT,Data Engineer,M,US,50,US,198609.375
+EX,PT,Data Engineer,M,US,50,DE,198609.375
+EX,PT,Data Engineer,M,US,100,US,198609.375
+EX,PT,Data Engineer,M,US,100,DE,198609.375
+EX,PT,Data Engineer,M,DE,0,US,126941.33333333333
+EX,PT,Data Engineer,M,DE,0,DE,126941.33333333333
+EX,PT,Data Engineer,M,DE,50,US,126941.33333333333
+EX,PT,Data Engineer,M,DE,50,DE,126941.33333333333
+EX,PT,Data Engineer,M,DE,100,US,126941.33333333333
+EX,PT,Data Engineer,M,DE,100,DE,126941.33333333333
+EX,PT,Data Engineer,L,US,0,US,365200.0
+EX,PT,Data Engineer,L,US,0,DE,365200.0
+EX,PT,Data Engineer,L,US,50,US,365200.0
+EX,PT,Data Engineer,L,US,50,DE,365200.0
+EX,PT,Data Engineer,L,US,100,US,365200.0
+EX,PT,Data Engineer,L,US,100,DE,365200.0
+EX,PT,Data Engineer,L,DE,0,US,126941.33333333333
+EX,PT,Data Engineer,L,DE,0,DE,126941.33333333333
+EX,PT,Data Engineer,L,DE,50,US,126941.33333333333
+EX,PT,Data Engineer,L,DE,50,DE,126941.33333333333
+EX,PT,Data Engineer,L,DE,100,US,126941.33333333333
+EX,PT,Data Engineer,L,DE,100,DE,126941.33333333333
+EX,PT,Data Analyst,S,US,0,US,365200.0
+EX,PT,Data Analyst,S,US,0,DE,365200.0
+EX,PT,Data Analyst,S,US,50,US,365200.0
+EX,PT,Data Analyst,S,US,50,DE,365200.0
+EX,PT,Data Analyst,S,US,100,US,365200.0
+EX,PT,Data Analyst,S,US,100,DE,365200.0
+EX,PT,Data Analyst,S,DE,0,US,126941.33333333333
+EX,PT,Data Analyst,S,DE,0,DE,126941.33333333333
+EX,PT,Data Analyst,S,DE,50,US,126941.33333333333
+EX,PT,Data Analyst,S,DE,50,DE,126941.33333333333
+EX,PT,Data Analyst,S,DE,100,US,126941.33333333333
+EX,PT,Data Analyst,S,DE,100,DE,126941.33333333333
+EX,PT,Data Analyst,M,US,0,US,198609.375
+EX,PT,Data Analyst,M,US,0,DE,198609.375
+EX,PT,Data Analyst,M,US,50,US,198609.375
+EX,PT,Data Analyst,M,US,50,DE,198609.375
+EX,PT,Data Analyst,M,US,100,US,198609.375
+EX,PT,Data Analyst,M,US,100,DE,198609.375
+EX,PT,Data Analyst,M,DE,0,US,126941.33333333333
+EX,PT,Data Analyst,M,DE,0,DE,126941.33333333333
+EX,PT,Data Analyst,M,DE,50,US,126941.33333333333
+EX,PT,Data Analyst,M,DE,50,DE,126941.33333333333
+EX,PT,Data Analyst,M,DE,100,US,126941.33333333333
+EX,PT,Data Analyst,M,DE,100,DE,126941.33333333333
+EX,PT,Data Analyst,L,US,0,US,365200.0
+EX,PT,Data Analyst,L,US,0,DE,365200.0
+EX,PT,Data Analyst,L,US,50,US,365200.0
+EX,PT,Data Analyst,L,US,50,DE,365200.0
+EX,PT,Data Analyst,L,US,100,US,365200.0
+EX,PT,Data Analyst,L,US,100,DE,365200.0
+EX,PT,Data Analyst,L,DE,0,US,126941.33333333333
+EX,PT,Data Analyst,L,DE,0,DE,126941.33333333333
+EX,PT,Data Analyst,L,DE,50,US,126941.33333333333
+EX,PT,Data Analyst,L,DE,50,DE,126941.33333333333
+EX,PT,Data Analyst,L,DE,100,US,126941.33333333333
+EX,PT,Data Analyst,L,DE,100,DE,126941.33333333333
+EX,PT,Machine Learning Engineer,S,US,0,US,365200.0
+EX,PT,Machine Learning Engineer,S,US,0,DE,365200.0
+EX,PT,Machine Learning Engineer,S,US,50,US,365200.0
+EX,PT,Machine Learning Engineer,S,US,50,DE,365200.0
+EX,PT,Machine Learning Engineer,S,US,100,US,365200.0
+EX,PT,Machine Learning Engineer,S,US,100,DE,365200.0
+EX,PT,Machine Learning Engineer,S,DE,0,US,126941.33333333333
+EX,PT,Machine Learning Engineer,S,DE,0,DE,126941.33333333333
+EX,PT,Machine Learning Engineer,S,DE,50,US,126941.33333333333
+EX,PT,Machine Learning Engineer,S,DE,50,DE,126941.33333333333
+EX,PT,Machine Learning Engineer,S,DE,100,US,126941.33333333333
+EX,PT,Machine Learning Engineer,S,DE,100,DE,126941.33333333333
+EX,PT,Machine Learning Engineer,M,US,0,US,198609.375
+EX,PT,Machine Learning Engineer,M,US,0,DE,198609.375
+EX,PT,Machine Learning Engineer,M,US,50,US,198609.375
+EX,PT,Machine Learning Engineer,M,US,50,DE,198609.375
+EX,PT,Machine Learning Engineer,M,US,100,US,198609.375
+EX,PT,Machine Learning Engineer,M,US,100,DE,198609.375
+EX,PT,Machine Learning Engineer,M,DE,0,US,126941.33333333333
+EX,PT,Machine Learning Engineer,M,DE,0,DE,126941.33333333333
+EX,PT,Machine Learning Engineer,M,DE,50,US,126941.33333333333
+EX,PT,Machine Learning Engineer,M,DE,50,DE,126941.33333333333
+EX,PT,Machine Learning Engineer,M,DE,100,US,126941.33333333333
+EX,PT,Machine Learning Engineer,M,DE,100,DE,126941.33333333333
+EX,PT,Machine Learning Engineer,L,US,0,US,365200.0
+EX,PT,Machine Learning Engineer,L,US,0,DE,365200.0
+EX,PT,Machine Learning Engineer,L,US,50,US,365200.0
+EX,PT,Machine Learning Engineer,L,US,50,DE,365200.0
+EX,PT,Machine Learning Engineer,L,US,100,US,365200.0
+EX,PT,Machine Learning Engineer,L,US,100,DE,365200.0
+EX,PT,Machine Learning Engineer,L,DE,0,US,126941.33333333333
+EX,PT,Machine Learning Engineer,L,DE,0,DE,126941.33333333333
+EX,PT,Machine Learning Engineer,L,DE,50,US,126941.33333333333
+EX,PT,Machine Learning Engineer,L,DE,50,DE,126941.33333333333
+EX,PT,Machine Learning Engineer,L,DE,100,US,126941.33333333333
+EX,PT,Machine Learning Engineer,L,DE,100,DE,126941.33333333333
+EX,PT,Research Scientist,S,US,0,US,365200.0
+EX,PT,Research Scientist,S,US,0,DE,365200.0
+EX,PT,Research Scientist,S,US,50,US,365200.0
+EX,PT,Research Scientist,S,US,50,DE,365200.0
+EX,PT,Research Scientist,S,US,100,US,365200.0
+EX,PT,Research Scientist,S,US,100,DE,365200.0
+EX,PT,Research Scientist,S,DE,0,US,126941.33333333333
+EX,PT,Research Scientist,S,DE,0,DE,126941.33333333333
+EX,PT,Research Scientist,S,DE,50,US,126941.33333333333
+EX,PT,Research Scientist,S,DE,50,DE,126941.33333333333
+EX,PT,Research Scientist,S,DE,100,US,126941.33333333333
+EX,PT,Research Scientist,S,DE,100,DE,126941.33333333333
+EX,PT,Research Scientist,M,US,0,US,198609.375
+EX,PT,Research Scientist,M,US,0,DE,198609.375
+EX,PT,Research Scientist,M,US,50,US,198609.375
+EX,PT,Research Scientist,M,US,50,DE,198609.375
+EX,PT,Research Scientist,M,US,100,US,198609.375
+EX,PT,Research Scientist,M,US,100,DE,198609.375
+EX,PT,Research Scientist,M,DE,0,US,126941.33333333333
+EX,PT,Research Scientist,M,DE,0,DE,126941.33333333333
+EX,PT,Research Scientist,M,DE,50,US,126941.33333333333
+EX,PT,Research Scientist,M,DE,50,DE,126941.33333333333
+EX,PT,Research Scientist,M,DE,100,US,126941.33333333333
+EX,PT,Research Scientist,M,DE,100,DE,126941.33333333333
+EX,PT,Research Scientist,L,US,0,US,365200.0
+EX,PT,Research Scientist,L,US,0,DE,365200.0
+EX,PT,Research Scientist,L,US,50,US,365200.0
+EX,PT,Research Scientist,L,US,50,DE,365200.0
+EX,PT,Research Scientist,L,US,100,US,365200.0
+EX,PT,Research Scientist,L,US,100,DE,365200.0
+EX,PT,Research Scientist,L,DE,0,US,126941.33333333333
+EX,PT,Research Scientist,L,DE,0,DE,126941.33333333333
+EX,PT,Research Scientist,L,DE,50,US,126941.33333333333
+EX,PT,Research Scientist,L,DE,50,DE,126941.33333333333
+EX,PT,Research Scientist,L,DE,100,US,126941.33333333333
+EX,PT,Research Scientist,L,DE,100,DE,126941.33333333333
+EX,FL,Data Scientist,S,US,0,US,365200.0
+EX,FL,Data Scientist,S,US,0,DE,365200.0
+EX,FL,Data Scientist,S,US,50,US,365200.0
+EX,FL,Data Scientist,S,US,50,DE,365200.0
+EX,FL,Data Scientist,S,US,100,US,365200.0
+EX,FL,Data Scientist,S,US,100,DE,365200.0
+EX,FL,Data Scientist,S,DE,0,US,126941.33333333333
+EX,FL,Data Scientist,S,DE,0,DE,126941.33333333333
+EX,FL,Data Scientist,S,DE,50,US,126941.33333333333
+EX,FL,Data Scientist,S,DE,50,DE,126941.33333333333
+EX,FL,Data Scientist,S,DE,100,US,126941.33333333333
+EX,FL,Data Scientist,S,DE,100,DE,126941.33333333333
+EX,FL,Data Scientist,M,US,0,US,198609.375
+EX,FL,Data Scientist,M,US,0,DE,198609.375
+EX,FL,Data Scientist,M,US,50,US,198609.375
+EX,FL,Data Scientist,M,US,50,DE,198609.375
+EX,FL,Data Scientist,M,US,100,US,198609.375
+EX,FL,Data Scientist,M,US,100,DE,198609.375
+EX,FL,Data Scientist,M,DE,0,US,126941.33333333333
+EX,FL,Data Scientist,M,DE,0,DE,126941.33333333333
+EX,FL,Data Scientist,M,DE,50,US,126941.33333333333
+EX,FL,Data Scientist,M,DE,50,DE,126941.33333333333
+EX,FL,Data Scientist,M,DE,100,US,126941.33333333333
+EX,FL,Data Scientist,M,DE,100,DE,126941.33333333333
+EX,FL,Data Scientist,L,US,0,US,365200.0
+EX,FL,Data Scientist,L,US,0,DE,365200.0
+EX,FL,Data Scientist,L,US,50,US,365200.0
+EX,FL,Data Scientist,L,US,50,DE,365200.0
+EX,FL,Data Scientist,L,US,100,US,365200.0
+EX,FL,Data Scientist,L,US,100,DE,365200.0
+EX,FL,Data Scientist,L,DE,0,US,126941.33333333333
+EX,FL,Data Scientist,L,DE,0,DE,126941.33333333333
+EX,FL,Data Scientist,L,DE,50,US,126941.33333333333
+EX,FL,Data Scientist,L,DE,50,DE,126941.33333333333
+EX,FL,Data Scientist,L,DE,100,US,126941.33333333333
+EX,FL,Data Scientist,L,DE,100,DE,126941.33333333333
+EX,FL,Data Engineer,S,US,0,US,365200.0
+EX,FL,Data Engineer,S,US,0,DE,365200.0
+EX,FL,Data Engineer,S,US,50,US,365200.0
+EX,FL,Data Engineer,S,US,50,DE,365200.0
+EX,FL,Data Engineer,S,US,100,US,365200.0
+EX,FL,Data Engineer,S,US,100,DE,365200.0
+EX,FL,Data Engineer,S,DE,0,US,126941.33333333333
+EX,FL,Data Engineer,S,DE,0,DE,126941.33333333333
+EX,FL,Data Engineer,S,DE,50,US,126941.33333333333
+EX,FL,Data Engineer,S,DE,50,DE,126941.33333333333
+EX,FL,Data Engineer,S,DE,100,US,126941.33333333333
+EX,FL,Data Engineer,S,DE,100,DE,126941.33333333333
+EX,FL,Data Engineer,M,US,0,US,198609.375
+EX,FL,Data Engineer,M,US,0,DE,198609.375
+EX,FL,Data Engineer,M,US,50,US,198609.375
+EX,FL,Data Engineer,M,US,50,DE,198609.375
+EX,FL,Data Engineer,M,US,100,US,198609.375
+EX,FL,Data Engineer,M,US,100,DE,198609.375
+EX,FL,Data Engineer,M,DE,0,US,126941.33333333333
+EX,FL,Data Engineer,M,DE,0,DE,126941.33333333333
+EX,FL,Data Engineer,M,DE,50,US,126941.33333333333
+EX,FL,Data Engineer,M,DE,50,DE,126941.33333333333
+EX,FL,Data Engineer,M,DE,100,US,126941.33333333333
+EX,FL,Data Engineer,M,DE,100,DE,126941.33333333333
+EX,FL,Data Engineer,L,US,0,US,365200.0
+EX,FL,Data Engineer,L,US,0,DE,365200.0
+EX,FL,Data Engineer,L,US,50,US,365200.0
+EX,FL,Data Engineer,L,US,50,DE,365200.0
+EX,FL,Data Engineer,L,US,100,US,365200.0
+EX,FL,Data Engineer,L,US,100,DE,365200.0
+EX,FL,Data Engineer,L,DE,0,US,126941.33333333333
+EX,FL,Data Engineer,L,DE,0,DE,126941.33333333333
+EX,FL,Data Engineer,L,DE,50,US,126941.33333333333
+EX,FL,Data Engineer,L,DE,50,DE,126941.33333333333
+EX,FL,Data Engineer,L,DE,100,US,126941.33333333333
+EX,FL,Data Engineer,L,DE,100,DE,126941.33333333333
+EX,FL,Data Analyst,S,US,0,US,365200.0
+EX,FL,Data Analyst,S,US,0,DE,365200.0
+EX,FL,Data Analyst,S,US,50,US,365200.0
+EX,FL,Data Analyst,S,US,50,DE,365200.0
+EX,FL,Data Analyst,S,US,100,US,365200.0
+EX,FL,Data Analyst,S,US,100,DE,365200.0
+EX,FL,Data Analyst,S,DE,0,US,126941.33333333333
+EX,FL,Data Analyst,S,DE,0,DE,126941.33333333333
+EX,FL,Data Analyst,S,DE,50,US,126941.33333333333
+EX,FL,Data Analyst,S,DE,50,DE,126941.33333333333
+EX,FL,Data Analyst,S,DE,100,US,126941.33333333333
+EX,FL,Data Analyst,S,DE,100,DE,126941.33333333333
+EX,FL,Data Analyst,M,US,0,US,198609.375
+EX,FL,Data Analyst,M,US,0,DE,198609.375
+EX,FL,Data Analyst,M,US,50,US,198609.375
+EX,FL,Data Analyst,M,US,50,DE,198609.375
+EX,FL,Data Analyst,M,US,100,US,198609.375
+EX,FL,Data Analyst,M,US,100,DE,198609.375
+EX,FL,Data Analyst,M,DE,0,US,126941.33333333333
+EX,FL,Data Analyst,M,DE,0,DE,126941.33333333333
+EX,FL,Data Analyst,M,DE,50,US,126941.33333333333
+EX,FL,Data Analyst,M,DE,50,DE,126941.33333333333
+EX,FL,Data Analyst,M,DE,100,US,126941.33333333333
+EX,FL,Data Analyst,M,DE,100,DE,126941.33333333333
+EX,FL,Data Analyst,L,US,0,US,365200.0
+EX,FL,Data Analyst,L,US,0,DE,365200.0
+EX,FL,Data Analyst,L,US,50,US,365200.0
+EX,FL,Data Analyst,L,US,50,DE,365200.0
+EX,FL,Data Analyst,L,US,100,US,365200.0
+EX,FL,Data Analyst,L,US,100,DE,365200.0
+EX,FL,Data Analyst,L,DE,0,US,126941.33333333333
+EX,FL,Data Analyst,L,DE,0,DE,126941.33333333333
+EX,FL,Data Analyst,L,DE,50,US,126941.33333333333
+EX,FL,Data Analyst,L,DE,50,DE,126941.33333333333
+EX,FL,Data Analyst,L,DE,100,US,126941.33333333333
+EX,FL,Data Analyst,L,DE,100,DE,126941.33333333333
+EX,FL,Machine Learning Engineer,S,US,0,US,365200.0
+EX,FL,Machine Learning Engineer,S,US,0,DE,365200.0
+EX,FL,Machine Learning Engineer,S,US,50,US,365200.0
+EX,FL,Machine Learning Engineer,S,US,50,DE,365200.0
+EX,FL,Machine Learning Engineer,S,US,100,US,365200.0
+EX,FL,Machine Learning Engineer,S,US,100,DE,365200.0
+EX,FL,Machine Learning Engineer,S,DE,0,US,126941.33333333333
+EX,FL,Machine Learning Engineer,S,DE,0,DE,126941.33333333333
+EX,FL,Machine Learning Engineer,S,DE,50,US,126941.33333333333
+EX,FL,Machine Learning Engineer,S,DE,50,DE,126941.33333333333
+EX,FL,Machine Learning Engineer,S,DE,100,US,126941.33333333333
+EX,FL,Machine Learning Engineer,S,DE,100,DE,126941.33333333333
+EX,FL,Machine Learning Engineer,M,US,0,US,198609.375
+EX,FL,Machine Learning Engineer,M,US,0,DE,198609.375
+EX,FL,Machine Learning Engineer,M,US,50,US,198609.375
+EX,FL,Machine Learning Engineer,M,US,50,DE,198609.375
+EX,FL,Machine Learning Engineer,M,US,100,US,198609.375
+EX,FL,Machine Learning Engineer,M,US,100,DE,198609.375
+EX,FL,Machine Learning Engineer,M,DE,0,US,126941.33333333333
+EX,FL,Machine Learning Engineer,M,DE,0,DE,126941.33333333333
+EX,FL,Machine Learning Engineer,M,DE,50,US,126941.33333333333
+EX,FL,Machine Learning Engineer,M,DE,50,DE,126941.33333333333
+EX,FL,Machine Learning Engineer,M,DE,100,US,126941.33333333333
+EX,FL,Machine Learning Engineer,M,DE,100,DE,126941.33333333333
+EX,FL,Machine Learning Engineer,L,US,0,US,365200.0
+EX,FL,Machine Learning Engineer,L,US,0,DE,365200.0
+EX,FL,Machine Learning Engineer,L,US,50,US,365200.0
+EX,FL,Machine Learning Engineer,L,US,50,DE,365200.0
+EX,FL,Machine Learning Engineer,L,US,100,US,365200.0
+EX,FL,Machine Learning Engineer,L,US,100,DE,365200.0
+EX,FL,Machine Learning Engineer,L,DE,0,US,126941.33333333333
+EX,FL,Machine Learning Engineer,L,DE,0,DE,126941.33333333333
+EX,FL,Machine Learning Engineer,L,DE,50,US,126941.33333333333
+EX,FL,Machine Learning Engineer,L,DE,50,DE,126941.33333333333
+EX,FL,Machine Learning Engineer,L,DE,100,US,126941.33333333333
+EX,FL,Machine Learning Engineer,L,DE,100,DE,126941.33333333333
+EX,FL,Research Scientist,S,US,0,US,365200.0
+EX,FL,Research Scientist,S,US,0,DE,365200.0
+EX,FL,Research Scientist,S,US,50,US,365200.0
+EX,FL,Research Scientist,S,US,50,DE,365200.0
+EX,FL,Research Scientist,S,US,100,US,365200.0
+EX,FL,Research Scientist,S,US,100,DE,365200.0
+EX,FL,Research Scientist,S,DE,0,US,126941.33333333333
+EX,FL,Research Scientist,S,DE,0,DE,126941.33333333333
+EX,FL,Research Scientist,S,DE,50,US,126941.33333333333
+EX,FL,Research Scientist,S,DE,50,DE,126941.33333333333
+EX,FL,Research Scientist,S,DE,100,US,126941.33333333333
+EX,FL,Research Scientist,S,DE,100,DE,126941.33333333333
+EX,FL,Research Scientist,M,US,0,US,198609.375
+EX,FL,Research Scientist,M,US,0,DE,198609.375
+EX,FL,Research Scientist,M,US,50,US,198609.375
+EX,FL,Research Scientist,M,US,50,DE,198609.375
+EX,FL,Research Scientist,M,US,100,US,198609.375
+EX,FL,Research Scientist,M,US,100,DE,198609.375
+EX,FL,Research Scientist,M,DE,0,US,126941.33333333333
+EX,FL,Research Scientist,M,DE,0,DE,126941.33333333333
+EX,FL,Research Scientist,M,DE,50,US,126941.33333333333
+EX,FL,Research Scientist,M,DE,50,DE,126941.33333333333
+EX,FL,Research Scientist,M,DE,100,US,126941.33333333333
+EX,FL,Research Scientist,M,DE,100,DE,126941.33333333333
+EX,FL,Research Scientist,L,US,0,US,365200.0
+EX,FL,Research Scientist,L,US,0,DE,365200.0
+EX,FL,Research Scientist,L,US,50,US,365200.0
+EX,FL,Research Scientist,L,US,50,DE,365200.0
+EX,FL,Research Scientist,L,US,100,US,365200.0
+EX,FL,Research Scientist,L,US,100,DE,365200.0
+EX,FL,Research Scientist,L,DE,0,US,126941.33333333333
+EX,FL,Research Scientist,L,DE,0,DE,126941.33333333333
+EX,FL,Research Scientist,L,DE,50,US,126941.33333333333
+EX,FL,Research Scientist,L,DE,50,DE,126941.33333333333
+EX,FL,Research Scientist,L,DE,100,US,126941.33333333333
+EX,FL,Research Scientist,L,DE,100,DE,126941.33333333333
+EX,CT,Data Scientist,S,US,0,US,365200.0
+EX,CT,Data Scientist,S,US,0,DE,365200.0
+EX,CT,Data Scientist,S,US,50,US,365200.0
+EX,CT,Data Scientist,S,US,50,DE,365200.0
+EX,CT,Data Scientist,S,US,100,US,365200.0
+EX,CT,Data Scientist,S,US,100,DE,365200.0
+EX,CT,Data Scientist,S,DE,0,US,126941.33333333333
+EX,CT,Data Scientist,S,DE,0,DE,126941.33333333333
+EX,CT,Data Scientist,S,DE,50,US,126941.33333333333
+EX,CT,Data Scientist,S,DE,50,DE,126941.33333333333
+EX,CT,Data Scientist,S,DE,100,US,126941.33333333333
+EX,CT,Data Scientist,S,DE,100,DE,126941.33333333333
+EX,CT,Data Scientist,M,US,0,US,198609.375
+EX,CT,Data Scientist,M,US,0,DE,198609.375
+EX,CT,Data Scientist,M,US,50,US,198609.375
+EX,CT,Data Scientist,M,US,50,DE,198609.375
+EX,CT,Data Scientist,M,US,100,US,198609.375
+EX,CT,Data Scientist,M,US,100,DE,198609.375
+EX,CT,Data Scientist,M,DE,0,US,126941.33333333333
+EX,CT,Data Scientist,M,DE,0,DE,126941.33333333333
+EX,CT,Data Scientist,M,DE,50,US,126941.33333333333
+EX,CT,Data Scientist,M,DE,50,DE,126941.33333333333
+EX,CT,Data Scientist,M,DE,100,US,126941.33333333333
+EX,CT,Data Scientist,M,DE,100,DE,126941.33333333333
+EX,CT,Data Scientist,L,US,0,US,365200.0
+EX,CT,Data Scientist,L,US,0,DE,365200.0
+EX,CT,Data Scientist,L,US,50,US,365200.0
+EX,CT,Data Scientist,L,US,50,DE,365200.0
+EX,CT,Data Scientist,L,US,100,US,365200.0
+EX,CT,Data Scientist,L,US,100,DE,365200.0
+EX,CT,Data Scientist,L,DE,0,US,126941.33333333333
+EX,CT,Data Scientist,L,DE,0,DE,126941.33333333333
+EX,CT,Data Scientist,L,DE,50,US,126941.33333333333
+EX,CT,Data Scientist,L,DE,50,DE,126941.33333333333
+EX,CT,Data Scientist,L,DE,100,US,126941.33333333333
+EX,CT,Data Scientist,L,DE,100,DE,126941.33333333333
+EX,CT,Data Engineer,S,US,0,US,365200.0
+EX,CT,Data Engineer,S,US,0,DE,365200.0
+EX,CT,Data Engineer,S,US,50,US,365200.0
+EX,CT,Data Engineer,S,US,50,DE,365200.0
+EX,CT,Data Engineer,S,US,100,US,365200.0
+EX,CT,Data Engineer,S,US,100,DE,365200.0
+EX,CT,Data Engineer,S,DE,0,US,126941.33333333333
+EX,CT,Data Engineer,S,DE,0,DE,126941.33333333333
+EX,CT,Data Engineer,S,DE,50,US,126941.33333333333
+EX,CT,Data Engineer,S,DE,50,DE,126941.33333333333
+EX,CT,Data Engineer,S,DE,100,US,126941.33333333333
+EX,CT,Data Engineer,S,DE,100,DE,126941.33333333333
+EX,CT,Data Engineer,M,US,0,US,198609.375
+EX,CT,Data Engineer,M,US,0,DE,198609.375
+EX,CT,Data Engineer,M,US,50,US,198609.375
+EX,CT,Data Engineer,M,US,50,DE,198609.375
+EX,CT,Data Engineer,M,US,100,US,198609.375
+EX,CT,Data Engineer,M,US,100,DE,198609.375
+EX,CT,Data Engineer,M,DE,0,US,126941.33333333333
+EX,CT,Data Engineer,M,DE,0,DE,126941.33333333333
+EX,CT,Data Engineer,M,DE,50,US,126941.33333333333
+EX,CT,Data Engineer,M,DE,50,DE,126941.33333333333
+EX,CT,Data Engineer,M,DE,100,US,126941.33333333333
+EX,CT,Data Engineer,M,DE,100,DE,126941.33333333333
+EX,CT,Data Engineer,L,US,0,US,365200.0
+EX,CT,Data Engineer,L,US,0,DE,365200.0
+EX,CT,Data Engineer,L,US,50,US,365200.0
+EX,CT,Data Engineer,L,US,50,DE,365200.0
+EX,CT,Data Engineer,L,US,100,US,365200.0
+EX,CT,Data Engineer,L,US,100,DE,365200.0
+EX,CT,Data Engineer,L,DE,0,US,126941.33333333333
+EX,CT,Data Engineer,L,DE,0,DE,126941.33333333333
+EX,CT,Data Engineer,L,DE,50,US,126941.33333333333
+EX,CT,Data Engineer,L,DE,50,DE,126941.33333333333
+EX,CT,Data Engineer,L,DE,100,US,126941.33333333333
+EX,CT,Data Engineer,L,DE,100,DE,126941.33333333333
+EX,CT,Data Analyst,S,US,0,US,365200.0
+EX,CT,Data Analyst,S,US,0,DE,365200.0
+EX,CT,Data Analyst,S,US,50,US,365200.0
+EX,CT,Data Analyst,S,US,50,DE,365200.0
+EX,CT,Data Analyst,S,US,100,US,365200.0
+EX,CT,Data Analyst,S,US,100,DE,365200.0
+EX,CT,Data Analyst,S,DE,0,US,126941.33333333333
+EX,CT,Data Analyst,S,DE,0,DE,126941.33333333333
+EX,CT,Data Analyst,S,DE,50,US,126941.33333333333
+EX,CT,Data Analyst,S,DE,50,DE,126941.33333333333
+EX,CT,Data Analyst,S,DE,100,US,126941.33333333333
+EX,CT,Data Analyst,S,DE,100,DE,126941.33333333333
+EX,CT,Data Analyst,M,US,0,US,198609.375
+EX,CT,Data Analyst,M,US,0,DE,198609.375
+EX,CT,Data Analyst,M,US,50,US,198609.375
+EX,CT,Data Analyst,M,US,50,DE,198609.375
+EX,CT,Data Analyst,M,US,100,US,198609.375
+EX,CT,Data Analyst,M,US,100,DE,198609.375
+EX,CT,Data Analyst,M,DE,0,US,126941.33333333333
+EX,CT,Data Analyst,M,DE,0,DE,126941.33333333333
+EX,CT,Data Analyst,M,DE,50,US,126941.33333333333
+EX,CT,Data Analyst,M,DE,50,DE,126941.33333333333
+EX,CT,Data Analyst,M,DE,100,US,126941.33333333333
+EX,CT,Data Analyst,M,DE,100,DE,126941.33333333333
+EX,CT,Data Analyst,L,US,0,US,365200.0
+EX,CT,Data Analyst,L,US,0,DE,365200.0
+EX,CT,Data Analyst,L,US,50,US,365200.0
+EX,CT,Data Analyst,L,US,50,DE,365200.0
+EX,CT,Data Analyst,L,US,100,US,365200.0
+EX,CT,Data Analyst,L,US,100,DE,365200.0
+EX,CT,Data Analyst,L,DE,0,US,126941.33333333333
+EX,CT,Data Analyst,L,DE,0,DE,126941.33333333333
+EX,CT,Data Analyst,L,DE,50,US,126941.33333333333
+EX,CT,Data Analyst,L,DE,50,DE,126941.33333333333
+EX,CT,Data Analyst,L,DE,100,US,126941.33333333333
+EX,CT,Data Analyst,L,DE,100,DE,126941.33333333333
+EX,CT,Machine Learning Engineer,S,US,0,US,365200.0
+EX,CT,Machine Learning Engineer,S,US,0,DE,365200.0
+EX,CT,Machine Learning Engineer,S,US,50,US,365200.0
+EX,CT,Machine Learning Engineer,S,US,50,DE,365200.0
+EX,CT,Machine Learning Engineer,S,US,100,US,365200.0
+EX,CT,Machine Learning Engineer,S,US,100,DE,365200.0
+EX,CT,Machine Learning Engineer,S,DE,0,US,126941.33333333333
+EX,CT,Machine Learning Engineer,S,DE,0,DE,126941.33333333333
+EX,CT,Machine Learning Engineer,S,DE,50,US,126941.33333333333
+EX,CT,Machine Learning Engineer,S,DE,50,DE,126941.33333333333
+EX,CT,Machine Learning Engineer,S,DE,100,US,126941.33333333333
+EX,CT,Machine Learning Engineer,S,DE,100,DE,126941.33333333333
+EX,CT,Machine Learning Engineer,M,US,0,US,198609.375
+EX,CT,Machine Learning Engineer,M,US,0,DE,198609.375
+EX,CT,Machine Learning Engineer,M,US,50,US,198609.375
+EX,CT,Machine Learning Engineer,M,US,50,DE,198609.375
+EX,CT,Machine Learning Engineer,M,US,100,US,198609.375
+EX,CT,Machine Learning Engineer,M,US,100,DE,198609.375
+EX,CT,Machine Learning Engineer,M,DE,0,US,126941.33333333333
+EX,CT,Machine Learning Engineer,M,DE,0,DE,126941.33333333333
+EX,CT,Machine Learning Engineer,M,DE,50,US,126941.33333333333
+EX,CT,Machine Learning Engineer,M,DE,50,DE,126941.33333333333
+EX,CT,Machine Learning Engineer,M,DE,100,US,126941.33333333333
+EX,CT,Machine Learning Engineer,M,DE,100,DE,126941.33333333333
+EX,CT,Machine Learning Engineer,L,US,0,US,365200.0
+EX,CT,Machine Learning Engineer,L,US,0,DE,365200.0
+EX,CT,Machine Learning Engineer,L,US,50,US,365200.0
+EX,CT,Machine Learning Engineer,L,US,50,DE,365200.0
+EX,CT,Machine Learning Engineer,L,US,100,US,365200.0
+EX,CT,Machine Learning Engineer,L,US,100,DE,365200.0
+EX,CT,Machine Learning Engineer,L,DE,0,US,126941.33333333333
+EX,CT,Machine Learning Engineer,L,DE,0,DE,126941.33333333333
+EX,CT,Machine Learning Engineer,L,DE,50,US,126941.33333333333
+EX,CT,Machine Learning Engineer,L,DE,50,DE,126941.33333333333
+EX,CT,Machine Learning Engineer,L,DE,100,US,126941.33333333333
+EX,CT,Machine Learning Engineer,L,DE,100,DE,126941.33333333333
+EX,CT,Research Scientist,S,US,0,US,365200.0
+EX,CT,Research Scientist,S,US,0,DE,365200.0
+EX,CT,Research Scientist,S,US,50,US,365200.0
+EX,CT,Research Scientist,S,US,50,DE,365200.0
+EX,CT,Research Scientist,S,US,100,US,365200.0
+EX,CT,Research Scientist,S,US,100,DE,365200.0
+EX,CT,Research Scientist,S,DE,0,US,126941.33333333333
+EX,CT,Research Scientist,S,DE,0,DE,126941.33333333333
+EX,CT,Research Scientist,S,DE,50,US,126941.33333333333
+EX,CT,Research Scientist,S,DE,50,DE,126941.33333333333
+EX,CT,Research Scientist,S,DE,100,US,126941.33333333333
+EX,CT,Research Scientist,S,DE,100,DE,126941.33333333333
+EX,CT,Research Scientist,M,US,0,US,198609.375
+EX,CT,Research Scientist,M,US,0,DE,198609.375
+EX,CT,Research Scientist,M,US,50,US,198609.375
+EX,CT,Research Scientist,M,US,50,DE,198609.375
+EX,CT,Research Scientist,M,US,100,US,198609.375
+EX,CT,Research Scientist,M,US,100,DE,198609.375
+EX,CT,Research Scientist,M,DE,0,US,126941.33333333333
+EX,CT,Research Scientist,M,DE,0,DE,126941.33333333333
+EX,CT,Research Scientist,M,DE,50,US,126941.33333333333
+EX,CT,Research Scientist,M,DE,50,DE,126941.33333333333
+EX,CT,Research Scientist,M,DE,100,US,126941.33333333333
+EX,CT,Research Scientist,M,DE,100,DE,126941.33333333333
+EX,CT,Research Scientist,L,US,0,US,365200.0
+EX,CT,Research Scientist,L,US,0,DE,365200.0
+EX,CT,Research Scientist,L,US,50,US,365200.0
+EX,CT,Research Scientist,L,US,50,DE,365200.0
+EX,CT,Research Scientist,L,US,100,US,365200.0
+EX,CT,Research Scientist,L,US,100,DE,365200.0
+EX,CT,Research Scientist,L,DE,0,US,126941.33333333333
+EX,CT,Research Scientist,L,DE,0,DE,126941.33333333333
+EX,CT,Research Scientist,L,DE,50,US,126941.33333333333
+EX,CT,Research Scientist,L,DE,50,DE,126941.33333333333
+EX,CT,Research Scientist,L,DE,100,US,126941.33333333333
+EX,CT,Research Scientist,L,DE,100,DE,126941.33333333333

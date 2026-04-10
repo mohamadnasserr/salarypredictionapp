@@ -11,15 +11,14 @@ except requests.exceptions.RequestException:
 
 url = "http://127.0.0.1:8000/predict"
 
-# Load raw salary file to collect job titles
 raw_df = pd.read_csv("ds_salaries.csv")
 
-experience_levels = ["SE", "MI"]
-employment_types = ["FT"]
-job_titles = raw_df["job_title"].value_counts().head(8).index.tolist()
-company_sizes = ["M", "L"]
+experience_levels = ["EN", "MI", "SE", "EX"]
+employment_types = ["FT", "PT", "FL", "CT"]
+job_titles = raw_df["job_title"].value_counts().head(5).index.tolist()
+company_sizes = ["S", "M", "L"]
 employee_residences = ["US", "DE"]
-remote_ratios = [0, 100]
+remote_ratios = [0, 50, 100]
 company_locations = ["US", "DE"]
 
 results = []
