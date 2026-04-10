@@ -13,15 +13,15 @@ st.set_page_config(
     layout="wide"
 )
 
-SUPABASE_URL = os.getenv("SUPABASE_URL")
-SUPABASE_KEY = os.getenv("SUPABASE_KEY")
+SUPABASE_URL = st.secrets["SUPABASE_URL"] if "SUPABASE_URL" in st.secrets else os.getenv("SUPABASE_URL")
+SUPABASE_KEY = st.secrets["SUPABASE_KEY"] if "SUPABASE_KEY" in st.secrets else os.getenv("SUPABASE_KEY")
 
 if not SUPABASE_URL or not SUPABASE_KEY:
-    st.error("Missing SUPABASE_URL or SUPABASE_KEY in .env file.")
+    st.error("Missing SUPABASE_URL or SUPABASE_KEY")
     st.stop()
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://salarypredictionapp.onrender.com/predict"
 
 
 @st.cache_data(ttl=30)
