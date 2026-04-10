@@ -141,10 +141,6 @@ The dashboard allows users to:
 The frontend is built using **Streamlit**, allowing users to input data and receive real-time salary predictions through a user-friendly interface.
 * **Live URL:** [Salary Prediction Dashboard](https://salarypredictionapp-u49nf7z52thhmqtazwytss.streamlit.app/)
 
-### ⚡ backend API
-The backend service is powered by **FastAPI**, providing high-performance endpoints for model inference.
-* **Production API:** [https://salarypredictionapp.onrender.com](https://salarypredictionapp.onrender.com)
-
 ### 📖 API Documentation
 The API is fully documented and can be tested directly via the interactive Swagger UI.
 * **Swagger Docs:** [View API Documentation](https://salarypredictionapp.onrender.com/docs)
