@@ -19,7 +19,7 @@ predictions_df = pd.read_csv("predictions.csv")
 
 if os.path.exists("llm_analysis.txt"):
     with open("llm_analysis.txt", "r", encoding="utf-8") as f:
-        llm_analysis = f.read()
+        llm_analysis = f.read().strip()
 else:
     llm_analysis = """
 Salary Prediction Overview
@@ -56,7 +56,21 @@ for _, row in predictions_df.iterrows():
         "chart_job_title_path": chart_job_title_path
     })
 
-batch_size = 5
+if not records:
+    raise ValueError("No records found in predictions.csv")
+
+table_name = "salary_predictions"
+
+# Delete all old rows first
+try:
+    supabase.table(table_name).delete().neq("experience_level", "").execute()
+    print("Old records deleted successfully.")
+except Exception as e:
+    print(f"Failed to delete old records: {e}")
+    raise
+
+# Insert fresh rows in batches
+batch_size = 500
 total_batches = math.ceil(len(records) / batch_size)
 
 for i in range(0, len(records), batch_size):
@@ -66,15 +80,15 @@ for i in range(0, len(records), batch_size):
     success = False
     for attempt in range(3):
         try:
-            supabase.table("salary_predictions").insert(batch).execute()
+            supabase.table(table_name).insert(batch).execute()
             print(f"Inserted batch {batch_number}/{total_batches} ({len(batch)} records)")
             success = True
             break
         except Exception as e:
             print(f"Batch {batch_number} failed on attempt {attempt + 1}: {e}")
-            time.sleep(3)
+            time.sleep(2)
 
     if not success:
-        print(f"Skipping batch {batch_number} after 3 failed attempts.")
+        raise Exception(f"Failed to insert batch {batch_number} after 3 attempts")
 
-print("Finished inserting records.")
+print("Finished replacing Supabase table data.")

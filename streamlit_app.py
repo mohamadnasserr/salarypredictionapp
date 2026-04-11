@@ -99,9 +99,9 @@ with tab2:
             company_size = st.selectbox("Company Size", ["S", "M", "L"])
 
         with right:
-            employee_residence = st.selectbox("Employee Residence", ["US", "CA", "UK", "DE"], value="US")
-            remote_ratio = st.selectbox("Remote Ratio", [0, 50, 100])
-            company_location = st.selectbox("Company Location", ["US", "CA", "UK", "DE"], value="US")
+            employee_residence = st.selectbox("Employee Residence", ["US", "DE"], value="US")
+            remote_ratio = st.selectbox("Remote Ratio", [0, 50, 100],value=0)
+            company_location = st.selectbox("Company Location", ["US", "DE"], value="US")
 
         submitted = st.form_submit_button("Generate Prediction")
 
