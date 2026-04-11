@@ -60,16 +60,18 @@ with tab1:
         st.write("These charts highlight how predicted salaries vary across experience levels and job titles.")
 
         st.markdown("#### 1) Average Predicted Salary by Experience Level")
-        if os.path.exists("salary_chart.png"):
-            st.image("salary_chart.png", use_container_width=True)
+        if os.path.exists("chart_by_experience.png"):
+            st.image("chart_by_experience.png", use_container_width=True)
         else:
-            st.info("salary_chart.png not found")
+            st.info("chart_by_experience.png not found")
 
         st.markdown("#### 2) Average Predicted Salary by Job Title")
-        if os.path.exists("salary_by_job_title.png"):
-            st.image("salary_by_job_title.png", use_container_width=True)
+        if os.path.exists("chart_by_job_title.png"):
+            
+            st.image("chart_by_job_title.png", use_container_width=True)
         else:
-            st.info("salary_by_job_title.png not found")
+            st.info("chart_by_job_title.png not found")
+        
 
 
 with tab2:
@@ -93,13 +95,13 @@ with tab2:
                 ["FT", "PT", "CT", "FL"],
                 help="FT = Full-time, PT = Part-time, CT = Contract, FL = Freelance"
             )
-            job_title = st.text_input("Job Title", value="Data Scientist")
+            job_title = st.selectbox("Job Title", ["Data Scientist", "Data Engineer", "Data Analyst","ML Engineer","Research Scientist"], value="Data Scientist")
             company_size = st.selectbox("Company Size", ["S", "M", "L"])
 
         with right:
-            employee_residence = st.text_input("Employee Residence", value="US")
+            employee_residence = st.selectbox("Employee Residence", ["US", "CA", "UK", "DE"], value="US")
             remote_ratio = st.selectbox("Remote Ratio", [0, 50, 100])
-            company_location = st.text_input("Company Location", value="US")
+            company_location = st.selectbox("Company Location", ["US", "CA", "UK", "DE"], value="US")
 
         submitted = st.form_submit_button("Generate Prediction")
 

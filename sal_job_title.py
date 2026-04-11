@@ -17,7 +17,7 @@ plt.ylabel("Predicted Salary (USD)")
 plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 
-plt.savefig("salary_by_job_title.png")
+plt.savefig("chart_by_job_title.png")
 plt.show()
 
-print("Chart saved as salary_by_job_title.png")
+print("Chart saved as chart_by_job_title.png")

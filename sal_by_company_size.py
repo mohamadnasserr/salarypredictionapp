@@ -12,7 +12,7 @@ plt.xlabel("Company Size")
 plt.ylabel("Predicted Salary (USD)")
 plt.tight_layout()
 
-plt.savefig("company_size_chart.png")
+plt.savefig("chart_by_company_size.png")
 plt.show()
 
-print("Chart saved as company_size_chart.png")
+print("Chart saved as chart_by_company_size.png")

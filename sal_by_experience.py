@@ -12,7 +12,7 @@ plt.xlabel("Experience Level")
 plt.ylabel("Predicted Salary (USD)")
 plt.tight_layout()
 
-plt.savefig("salary_chart.png")
+plt.savefig("chart_by_experience.png")
 plt.show()
 
-print("Chart saved as salary_chart.png")
+print("Chart saved as chart_by_experience.png")
