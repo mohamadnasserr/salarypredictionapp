@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
 
 df = pd.read_csv("predictions.csv")
 
@@ -9,6 +10,10 @@ summary = (
     .sort_values("predicted_salary", ascending=False)
 )
 
+print(df.head())
+print(df["predicted_salary"].mean())
+
+print(os.path.abspath("predictions.csv"))
 plt.figure(figsize=(10, 6))
 plt.bar(summary["job_title"], summary["predicted_salary"])
 plt.title("Average Predicted Salary by Job Title")

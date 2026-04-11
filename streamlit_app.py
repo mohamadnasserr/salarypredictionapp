@@ -23,10 +23,36 @@ if not SUPABASE_URL or not SUPABASE_KEY:
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 API_URL = "https://salarypredictionapp.onrender.com/predict"
 
+
 @st.cache_data(ttl=30)
 def load_data():
-    response = supabase.table("salary_predictions").select("*").order("created_at", desc=True).execute()
-    return pd.DataFrame(response.data or [])
+    all_rows = []
+    batch_size = 1000
+    start = 0
+
+    while True:
+        end = start + batch_size - 1
+        response = (
+            supabase.table("salary_predictions")
+            .select("*")
+            .order("created_at", desc=True)
+            .range(start, end)
+            .execute()
+        )
+
+        batch = response.data or []
+
+        if not batch:
+            break
+
+        all_rows.extend(batch)
+
+        if len(batch) < batch_size:
+            break
+
+        start += batch_size
+
+    return pd.DataFrame(all_rows)
 
 
 def save_single_record_to_supabase(record: dict):
@@ -67,11 +93,9 @@ with tab1:
 
         st.markdown("#### 2) Average Predicted Salary by Job Title")
         if os.path.exists("chart_by_job_title.png"):
-            
             st.image("chart_by_job_title.png", use_container_width=True)
         else:
             st.info("chart_by_job_title.png not found")
-        
 
 
 with tab2:
@@ -95,13 +119,17 @@ with tab2:
                 ["FT", "PT", "CT", "FL"],
                 help="FT = Full-time, PT = Part-time, CT = Contract, FL = Freelance"
             )
-            job_title = st.selectbox("Job Title", ["Data Scientist", "Data Engineer", "Data Analyst","ML Engineer","Research Scientist"], index=0)
+            job_title = st.selectbox(
+                "Job Title",
+                ["Data Scientist", "Data Engineer", "Data Analyst", "ML Engineer", "Research Scientist"],
+                index=0
+            )
             company_size = st.selectbox("Company Size", ["S", "M", "L"])
 
         with right:
-            employee_residence = st.selectbox("Employee Residence", ["US", "DE"],index=0)
-            remote_ratio = st.selectbox("Remote Ratio", [0, 50, 100],index=0)
-            company_location = st.selectbox("Company Location", ["US", "DE"],index=0)
+            employee_residence = st.selectbox("Employee Residence", ["US", "DE"], index=0)
+            remote_ratio = st.selectbox("Remote Ratio", [0, 50, 100], index=0)
+            company_location = st.selectbox("Company Location", ["US", "DE"], index=0)
 
         submitted = st.form_submit_button("Generate Prediction")
 
@@ -170,12 +198,14 @@ This value is a machine learning estimate and should be treated as guidance, not
                         "company_location": company_location,
                         "predicted_salary": predicted_salary,
                         "llm_analysis": llm_analysis,
-                        "chart_experience_path": "salary_chart.png",
-                        "chart_job_title_path": "salary_by_job_title.png"
+                        "chart_experience_path": "chart_by_experience.png",
+                        "chart_job_title_path": "chart_by_job_title.png"
                     }
 
                     save_single_record_to_supabase(record)
                     st.info("The new prediction has been saved to Supabase.")
+
+                    st.cache_data.clear()
 
                 else:
                     st.error(f"API Error {response.status_code}: {response.text}")
