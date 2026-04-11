@@ -95,13 +95,13 @@ with tab2:
                 ["FT", "PT", "CT", "FL"],
                 help="FT = Full-time, PT = Part-time, CT = Contract, FL = Freelance"
             )
-            job_title = st.selectbox("Job Title", ["Data Scientist", "Data Engineer", "Data Analyst","ML Engineer","Research Scientist"], value="Data Scientist")
+            job_title = st.selectbox("Job Title", ["Data Scientist", "Data Engineer", "Data Analyst","ML Engineer","Research Scientist"], index=0)
             company_size = st.selectbox("Company Size", ["S", "M", "L"])
 
         with right:
-            employee_residence = st.selectbox("Employee Residence", ["US", "DE"], value="US")
-            remote_ratio = st.selectbox("Remote Ratio", [0, 50, 100],value=0)
-            company_location = st.selectbox("Company Location", ["US", "DE"], value="US")
+            employee_residence = st.selectbox("Employee Residence", ["US", "DE"],index=0)
+            remote_ratio = st.selectbox("Remote Ratio", [0, 50, 100],index=0)
+            company_location = st.selectbox("Company Location", ["US", "DE"],index=0)
 
         submitted = st.form_submit_button("Generate Prediction")
 
